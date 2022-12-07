@@ -4,7 +4,7 @@
 
 [在线体验](https://shengxinjing.cn/gray.html)
 
-[本文视频版链接](https://shengxinjing.cn/gray.html)
+[本文视频版链接](https://www.bilibili.com/video/BV14g411H7Ad/)
 
 最近哀悼日，网页端如何一键变灰已经有很多实现方式了，但是我看到一个推文很有意思，是一个不错的面试题
 
