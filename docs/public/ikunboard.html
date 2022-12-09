@@ -5,16 +5,18 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>ikun学前端01-Dom和音频</title>
   <style>
     #app {
       width: 800px;
       margin: 0 auto;
       text-align: center;
     }
+
     #board {
       display: none;
     }
+
     button {
       background: #fb7299;
       color: white;
@@ -40,6 +42,10 @@
       user-select: none
     }
 
+    h1 {
+      color: #fb7299;
+    }
+
     .keys.active {
       background: #fb7299;
       color: white;
@@ -60,6 +66,15 @@
       width: 600px;
       height: 100px;
       background: #eee;
+
+    }
+
+    span.badge {
+      display: inline-block;
+      background-color: #eee;
+      padding: 5px;
+      border-radius: 5px;
+      margin-left: 10px;
     }
   </style>
 </head>
@@ -68,7 +83,7 @@
 
 
   <div id="app">
-    <h1>KunBoard</h1>
+    <h1>ikun学前端 -- KunBoard</h1>
     <div>
       <button id="play">开始</button>
     </div>
@@ -77,11 +92,19 @@
       <div>
         <textarea id="output" name="" id="" cols="72" rows="10"></textarea>
       </div>
+      <div>
+        参考曲谱：
+        <span class="badge">jntm</span>
+        <span class="badge">jns</span>
+        <span class="badge">gah</span>
+        <span class="badge">zqerjntmwjns</span>
+      </div>
     </div>
     <div id="keyboard"></div>
 
-    <a style="display: block;text-align: center;width: 100px;margin: 0 auto;color:#fb7299;"   target="_blank" href="https://shengxinjing.cn/about.html">
-      联系作者
+    <a style="display: block;text-align: center;width: 150px;margin: 0 auto;color:#fb7299;" target="_blank"
+      href="https://shengxinjing.cn/about.html">
+      联系我 一起学编程
     </a>
   </div>
   <!-- <audio controls src="ikun/ikun.mp3" autoplay></audio> -->
@@ -96,7 +119,7 @@
         this.audio = audio
       }
       bindEvents() {
-        this.textarea.addEventListener('change',()=>{
+        this.textarea.addEventListener('change', () => {
           location.hash = this.textarea.value
         })
         this.bindClick()
@@ -108,7 +131,7 @@
           let val = this.textarea.value.toLowerCase()
           if (!val) return
           let tasks = val.split('') || []
-          const play = ()=>{
+          const play = () => {
             if (tasks.length) {
               let key = tasks.shift()
               if (this.audio.maps[key]) {
@@ -118,12 +141,10 @@
             }
           }
           play()
-
         }, false)
-
       }
       bindClick() {
-        document.addEventListener('click',  (e)=>{
+        document.addEventListener('click', (e) => {
           if (e.target.className.indexOf('keys') > -1) {
             const key = e.target.className.replace('keys ', '').trim()
             this.textarea.value += key
@@ -134,13 +155,14 @@
         }, false)
       }
       bindKeydown() {
-        document.addEventListener('keydown', (e) => {
+        document.addEventListener('keyup', (e) => {
           const { key } = e
-          if (e.shiftKey || e.ctrlKey || e.metaKey || e.altKey||key.length !== 1 || !/[a-z]/g.test(key)) {
-            if(key!=='Backspace'){
+          if (e.shiftKey || e.ctrlKey || e.metaKey || e.altKey || key.length !== 1 || !/[a-z]/g.test(key)) {
+            location.hash = this.textarea.value
+            if (key !== 'Backspace') {
               e.preventDefault()
             }
-            return 
+            return
           }
           if (e.target.tagName.toLowerCase() !== 'textarea') {
             this.textarea.value += key
@@ -149,6 +171,22 @@
           audio.sing(key)
           blink($('.keys.' + key))
         }, false)
+      }
+      addCss() {
+        if (!this.audio) return
+
+        console.log(this.audio)
+        let style = document.createElement('style')
+        style.setAttribute('type', 'text/css')
+        // let content = this.
+        const textContent = Object.keys(this.audio.maps)
+          .map(v => '.' + v)
+          .join(',')
+
+
+
+        style.textContent = textContent + `{background:#e8aabc;color:white;}`
+        document.head.appendChild(style)
       }
       render() {
         const btns = ['qwertyuiop', 'asdfghjkl', 'zxcvbnm']
@@ -163,6 +201,7 @@
         this.kunBoard.innerHTML = btnHtml
         this.bindEvents()
         this.textarea.value = location.hash.slice(1)
+        this.addCss()
       }
 
     }
@@ -252,7 +291,6 @@
         this.isLoaded = true
       }
     }
-
     const audio = new KunAudio('./ikun/ikun.mp3')
     const board = new KunBoard(audio)
     $('#play').addEventListener('click', function () {
