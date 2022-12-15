@@ -4,13 +4,81 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>米粒_Melxy: <span style="color:var(--vp-c-brand);"> #物种杂合在生物进化中的意义</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++怎么开发网页</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> 这是GPT3吧。chatgpt加了防护</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #怎么绕过软件的录屏检测</span></li><li>米粒_Melxy: <span style="color:var(--vp-c-brand);"> #物种杂合在生物进化中的意义有哪些</span></li><li>玩家八号: <span style="color:var(--vp-c-brand);"> 苹果自带浏览器video标签播不了视频</span></li><li>栈一格: <span style="color:var(--vp-c-brand);"> 能讲一个你不知道的事情吗？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #什么是hook技术</span></li><li>玩家八号: <span style="color:var(--vp-c-brand);"> #苹果自带浏览器video标签播不了视频</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #hook技术学习路线</span></li></ul>
+<ul class="gpt-fix-window"><li>栈一格: <span style="color:var(--vp-c-brand);"> 能讲一个你不知道的事情吗？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #什么是hook技术</span></li><li>玩家八号: <span style="color:var(--vp-c-brand);"> #苹果自带浏览器video标签播不了视频</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #hook技术学习路线</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #react和vue的特点分别是什么</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #2023届秋招的情况怎么样？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #你为什么有时候会答非所问？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #当程序员更赚钱，还是开培训班更赚钱？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #hook技术学习路线 </span> 
+::: info clau1   :<span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #用vue框架写一个to do list <span class="gpt-item">clau1@2:15:20 (还有0次)</span>
+
+
+
+&lt;template&gt;
+  &lt;div>
+    &lt;input type="text" v-model="todoText"/>
+    &lt;button @click="addTodo">Add&lt;/button>
+    &lt;ul>
+      &lt;li v-for="(todo, index) in todos" :key="index">
+        {{ todo.text }}
+        &lt;button @click="removeTodo(index)">Delete&lt;/button>
+      &lt;/li>
+    &lt;/ul>
+  &lt;/div>
+&lt;/template>
+
+&lt;script>
+export default {
+  data() {
+    return {
+      todoText: "",
+      todos: [],
+    };
+  },
+  methods: {
+    addTodo() {
+      const todo = {
+        text: this.todoText,
+        checked: false,
+      };
+      this.todos.push(todo);
+      this.todoText = "";
+    },
+    removeTodo(index) {
+      this.todos.splice(index, 1);
+    },
+  },
+};
+&lt;/script>
+####  #当程序员更赚钱，还是开培训班更赚钱？ <span class="gpt-item">clau1@2:14:12 (还有1次)</span>
+
+
+
+这取决于你的情况。如果你有技术专长，那么作为程序员可能会更赚钱。但是，如果你有教育背景或者你更了解如何教授技术知识，那么开培训班可能会更赚钱。
+####  #你为什么有时候会答非所问？ <span class="gpt-item">clau1@2:13:17 (还有2次)</span>
+
+
+
+有时候会答非所问是因为人们可能不知道正确的答案，或者可能认为回答这个问题会有更大的意义。有时候，也可能是为了解决更大的问题，回答的不是问题本身，而是问题背后的更深层次的问题。
+####  #2023届秋招的情况怎么样？ <span class="gpt-item">clau1@2:12:1 (还有3次)</span>
+
+
+
+2023年秋季招聘市场要比去年稳定，更加竞争激烈。相比2020年，企业对招聘的积极性和投入增加了，特别是科技、金融、医疗、教育、服务业等行业，竞争越来越激烈。考虑到疫情影响，招聘市场仍会保持一定的稳定性，但有利的环境和政策支持将有助于更多企业发展，吸引更多人才，从而形成招聘市场的更好发展。
+####  #react和vue的特点分别是什么 <span class="gpt-item">clau1@2:9:45 (还有4次)</span>
+
+
+
+React：
+1. 使用JSX语言，可以将HTML和JavaScript结合，使开发更加灵活。
+2. 使用虚拟DOM技术，可以极大地提高性能。
+3. 开发者可以将复杂的UI组件组合成更加简单的组件，从而获得更高的复用性。
+
+Vue：
+1. 使用MVVM架构，可以更好的分离数据和视图，使开发者更容易控制代码。
+2. 使用指令特性，可以很方便地创建动态组件。
+3. 开发者可以使用Vue的单文件组件特性，使组件的开发更加便捷。
 ####  #hook技术学习路线 <span class="gpt-item">让我捡漏吧@2:2:56 (还有1次)</span>
 
 
