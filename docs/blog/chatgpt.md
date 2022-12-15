@@ -4,13 +4,113 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>你家隔壁的刘大哥: <span style="color:var(--vp-c-brand);"> #明天早上吃什么好</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #高级中级初级前端工程师是如何界定的</span></li><li>今の明: <span style="color:var(--vp-c-brand);"> #发烧吃啥药</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #前端架构师要掌握哪些技术</span></li><li>Daniel8642: <span style="color:var(--vp-c-brand);"> #Go的GMP模型与channel分别是</span></li><li>狮子大象和老虎: <span style="color:var(--vp-c-brand);"> #可以跑了？</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> 正经人谁听二手月季（狗头）</span></li><li>乔戈里峰亡命天涯: <span style="color:var(--vp-c-brand);"> vue3核心竞争力是什么</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #前端未来的趋势是什么样的</span></li><li>乔戈里峰亡命天涯: <span style="color:var(--vp-c-brand);"> #vue3核心竞争力是什么</span></li></ul>
+<ul class="gpt-fix-window"><li>憨桑的冰粉凉虾: <span style="color:var(--vp-c-brand);"> #chatGPT可以做什么</span></li><li>祁2010: <span style="color:var(--vp-c-brand);"> 厉害了</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> @做个安卓版编辑器实现node.js开发</span></li><li>憨桑的冰粉凉虾: <span style="color:var(--vp-c-brand);"> #SQL实现递归查询</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #我不希望我的app被破解，改如何写</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #安卓ndk开发怎么防止应用被录屏和截图</span></li><li>波个蛋喂鸡: <span style="color:var(--vp-c-brand);"> #什么是docker？</span></li><li>波个蛋喂鸡: <span style="color:var(--vp-c-brand);"> 什么是docker？</span></li><li>波个蛋喂鸡: <span style="color:var(--vp-c-brand);"> #什么是docker？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #怎么防止apk被逆向破解</span></li></ul>
 
-::: danger 感谢礼物: 你家隔壁的刘大哥 投喂了1 个  辣条(使用次数+1)
+::: danger 感谢礼物: 憨桑的冰粉凉虾 投喂了1 个  小花花(使用次数+1)
 :::
-::: info 乔戈里峰亡命天涯   :<span style="color:var(--vp-c-brand);"> #vue3核心竞争力是什么 </span> 
- <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #怎么防止apk被逆向破解 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #怎么防止apk被逆向破解 <span class="gpt-item">让我捡漏吧@0:16:33 (还有12次)</span>
+
+
+
+1. 加固apk，内置加密机制，给apk加壳；
+2. 对源码进行混淆处理，使逆向分析变得更复杂；
+3. 使用只在运行时才能解密的加密方案；
+4. 采用脱壳机制，脱壳后的程序仍然无法完全反编译；
+5. 采用代码混淆技术，使反编译获得的代码更加混乱；
+6. 设置代码混淆策略，增加破解者的难度。
+####  #什么是docker？ <span class="gpt-item">波个蛋喂鸡@0:16:24 (还有4次)</span>
+
+
+
+Docker是一种开源的容器引擎，它可以让开发人员将应用程序及其依赖项打包在一个轻量级、可移植的容器中，然后可以在任何支持Docker的环境中部署和运行该容器。它可以让开发人员快速部署应用程序，而且不会受到宿主环境的影响。
+####  #安卓ndk开发怎么防止应用被录屏和截图 <span class="gpt-item">让我捡漏吧@0:14:51 (还有13次)</span>
+
+
+
+1、可以通过安卓系统提供的getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE)方法，在界面上加上一个标记，使该界面不能被录屏和截图。
+
+2、使用Android的MediaProjectionManager类，它是Android系统提供的一个API，可以用来实现屏幕截图和录屏功能，可以根据业务需求进行拦截，使应用不被录屏和截图。
+
+3、NDK层可以使用OpenGL ES2.0或者更高版本，把当前屏幕内容作为纹理，这样在程序运行的时候，可以把内容转换成纹理，这样就可以禁止应用被录屏和截图。
+####  #我不希望我的app被破解，改如何写 <span class="gpt-item">让我捡漏吧@0:13:25 (还有14次)</span>
+
+？
+
+我希望我的app可以持续保护其安全性，并且防止被破解。
+####  #SQL实现递归查询 <span class="gpt-item">憨桑的冰粉凉虾@0:12:39 (还有4次)</span>
+
+
+
+（1）案例：查询所有子类
+
+SELECT 
+    t1.id,t1.name,t2.name AS parent_name 
+FROM 
+    category t1 
+LEFT JOIN category t2 
+ON t1.parent_id = t2.id
+
+（2）案例：查询所有祖先类
+
+SELECT 
+    t1.id,t1.name,t2.name AS parent_name 
+FROM 
+    category t1 
+LEFT JOIN category t2 
+ON t1.id = t2.parent_id
+####  #chatGPT可以做什么 <span class="gpt-item">憨桑的冰粉凉虾@0:9:32 (还有4次)</span>
+
+？
+
+ChatGPT是一个聊天机器人技术，它可以帮助用户通过语音和文字方式进行自然语言处理（NLP）。它可以帮助用户识别自然语言表达的意图，推断出可能的答案，并以自然的方式回答问题。它可以用于支持客服服务，让客户可以获得快速准确的反馈，也可以用于自动化营销活动，帮助实现营销业务效率的提升。
+####  #安卓端上怎么实现运行node.js <span class="gpt-item">让我捡漏吧@0:8:52 (还有11次)</span>
+
+
+
+1、在Andriod上安装基于Linux的Node.js，可以使用Linux Deploy，Termux，UserLAnd等应用。
+
+2、利用Node.js的模块安装器NPM，安装所需的模块和包。
+
+3、利用Node.js的Node.js REPL（Read-Eval-Print Loop）来实现对Node.js代码的调试和运行。
+
+4、使用Node.js框架Express.js来构建Node.js程序，并调用其他Node.js模块。
+
+5、使用Node.js的虚拟机（V8）来实现对Node.js代码的编译和执行。
+####  #前端工程师不上班怎么赚钱 <span class="gpt-item">千慕栻@0:8:26 (还有10次)</span>
+
+？
+
+1. 做网站模板或网站架构设计；
+2. 开发能自动运行的脚本程序；
+3. 开发和销售插件或应用程序；
+4. 网络营销推广；
+5. 基于社交媒体开发网络应用；
+6. 做网页设计和制作；
+7. 提供网络技术咨询服务；
+8. 开发企业网站；
+9. 进行网站数据分析；
+10. 做搜索引擎优化；
+11. 做网站性能测试；
+12. 提供网站维护服务；
+13. 从事网站建设和宣传；
+14. 进行网络访谈调研；
+15. 做网站后台管理系统；
+16. 做移动应用开发；
+17. 进行程序安全测试；
+18. 技术写作；
+19. 做交互设计；
+20. 写书籍，博客或教程；
+21. 为其他公司提供开发服务；
+22. 做虚拟助理服务；
+23. 为
+####  #vue3核心竞争力是什么 <span class="gpt-item">乔戈里峰亡命天涯@0:7:18 (还有4次)</span>
+
+
+
+Vue 3的核心竞争力在于其最新的Composition API，这是一种新的创建可重用组件的方法，使组件和应用的代码更加灵活和可维护。另外，Vue 3还提供了更高效的内存管理，更快的渲染性能，更小的输出文件，更灵活的路由和状态管理，以及支持TypeScript的更强大的类型安全性。
 ####  #前端未来的趋势是什么样的 <span class="gpt-item">千慕栻@0:6:52 (还有11次)</span>
 
 
