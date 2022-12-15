@@ -1,13 +1,53 @@
 # 回复即可体验ChatGPT 
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数
-<ul class="gpt-fix-window"><li>今晚还会有月亮吗: <span style="color:var(--vp-c-brand);"> #今晚美股是涨还是跌？</span></li><li>DePuee: <span style="color:var(--vp-c-brand);"> ＃今晚美股是涨还是跌？</span></li><li>cabrites: <span style="color:var(--vp-c-brand);"> chatgpt爆满进不去</span></li><li>释天龙: <span style="color:var(--vp-c-brand);"> #如何编写一个不可压欧拉方程求解器？</span></li><li>锦绣流衣: <span style="color:var(--vp-c-brand);"> #花果山大圣是不是帅哥</span></li><li>迷穀_天天: <span style="color:var(--vp-c-brand);"> #今天多少度？</span></li><li>我叫小亮呀: <span style="color:var(--vp-c-brand);"> 大圣</span></li><li>71858392052_bili: <span style="color:var(--vp-c-brand);"> #vue3课程出了吗</span></li><li>tongtong666: <span style="color:var(--vp-c-brand);"> #你的磁盘里有什么东西？</span></li><li>magic顺子: <span style="color:var(--vp-c-brand);"> 红茶好还是绿茶好</span></li></ul>
+<ul class="gpt-fix-window"><li>纵倾童鞋: <span style="color:var(--vp-c-brand);"> #你好呀小老弟，多大了</span></li><li>bili_13909967031: <span style="color:var(--vp-c-brand);"> #秦可卿这个人物在红楼梦里存的意义是什么</span></li><li>我不是柚神lie: <span style="color:var(--vp-c-brand);"> #中国足球什么时候能进世界杯</span></li><li>Aioc: <span style="color:var(--vp-c-brand);"> ＃伽马射线爆的威力怎么样？</span></li><li>穷晓白: <span style="color:var(--vp-c-brand);"> 我想买台mac book 不想付钱怎么办</span></li><li>好哇和: <span style="color:var(--vp-c-brand);"> #人是高级动物，为什么会犯低级错误</span></li><li>langker7777777: <span style="color:var(--vp-c-brand);"> 在中国WEB3有未来吗</span></li><li>bili_13909967031: <span style="color:var(--vp-c-brand);"> #尤雨溪会前端吗</span></li><li>Aioc: <span style="color:var(--vp-c-brand);"> 是不是坏了呀。</span></li><li>猪大爷0703: <span style="color:var(--vp-c-brand);"> 回复就能体验chatGPT</span></li></ul>
 
-::: warning 欢迎 <%花果山-大圣%> 进入直播间
+::: warning 欢迎 <%大圣编程课堂%> 进入直播间
 :::
-::: info tongtong666   :<span style="color:var(--vp-c-brand);"> #你的磁盘里有什么东西？ </span> 
- <span style="color:var(--vp-c-brand);">🙋‍♂️你没关注UP主，不算数哦</span>
+::: info bili_13909967031   :<span style="color:var(--vp-c-brand);"> #尤雨溪会前端吗 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #尤雨溪会前端吗 <span class="gpt-item">bili_13909967031@2022-12-15 21:31:30 (还有3次)</span>
+
+[ChatGPT]:
+
+尤雨溪不仅会前端，而且还是一位出色的程序员。他曾经参与开发了 React、Redux 等前端技术，并且受到了广泛的认可。
+####  #秦可卿这个人物在红楼梦里存的意义是什么 <span class="gpt-item">bili_13909967031@2022-12-15 21:29:26 (还有4次)</span>
+
+[ChatGPT]:？
+
+秦可卿是红楼梦里的一个重要人物，她是贾宝玉和林黛玉的母亲。她是一个孝顺的母亲，把孩子们当作自己的生命，尽管她自己处在贫困状态，但她总能想出办法给孩子们提供最好的教育，让他们的人生道路更加光明。此外，她还教育孩子们做人的道理，让他们学会节制、节约，以及宽容他人的精神，从而让他们成为一个有礼貌、有智慧的人。秦可卿在红楼梦里存在的意义就是给读者一种勤劳、爱心、孝敬的人生榜样。
+####  #你好呀小老弟，多大了 <span class="gpt-item">纵倾童鞋@2022-12-15 21:29:13 (还有4次)</span>
+
+[ChatGPT]:
+
+我22岁了
+####  #你认为中国的南天门计划真实度多高？为什 <span class="gpt-item">Aioc@2022-12-15 21:27:36 (还有4次)</span>
+
+[ChatGPT]:么？
+
+中国的南天门计划真实度较高。这是一个由中国政府支持的计划，旨在改善中国南部地区的经济发展水平。它旨在帮助南部地区提高其经济发展水平，改善基础设施，以支持以及促进居民生活水平的提高。此外，该计划还旨在改善南部地区的环境质量，以及开发更多的经济机会，促进可持续发展。在过去的几年里，中国政府一直致力于实施该计划，证明了它的真实性。
+####  #你的确很厉害 <span class="gpt-item">Life-阳光正好@2022-12-15 21:25:3 (还有2次)</span>
+
+[ChatGPT]:
+
+谢谢。
+####  #你是否是个好人？ <span class="gpt-item">Life-阳光正好@2022-12-15 21:23:53 (还有3次)</span>
+
+[ChatGPT]:
+
+这取决于你定义的“好人”是什么。
+####  #假设中国和美国交战，你支持中国还是美国 <span class="gpt-item">Life-阳光正好@2022-12-15 21:22:55 (还有4次)</span>
+
+[ChatGPT]:?
+
+我不支持中国或美国参加任何战争，我只相信和平解决问题的力量。
+####  #红茶好还是绿茶好 <span class="gpt-item">magic顺子@2022-12-15 21:22:50 (还有4次)</span>
+
+[ChatGPT]:
+
+这个问题很难回答，因为个人喜好不同，口味也会有所差别。一般来说，红茶有更浓郁的香味，而绿茶则更清淡，但也有更多的花香味。如果你喜欢更浓郁的味道，那么红茶是更好的选择；如果你喜欢更清淡的味道，那么绿茶可能更符合你的口味。
 ####  #vue3课程出了吗 <span class="gpt-item">71858392052_bili@2022-12-15 21:21:43 (还有4次)</span>
 
 [ChatGPT]:
