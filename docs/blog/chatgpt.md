@@ -4,13 +4,31 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #用java写一个递归案例</span></li><li>有什么用_____: <span style="color:var(--vp-c-brand);"> 嘿嘿嘿嘿嘿</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #用汇编实现搜索磁盘文件代码</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #星际争霸2什么时候停服？</span></li><li>鲨鱼放火历飞羽: <span style="color:var(--vp-c-brand);"> 这玩意不是停了吗</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 妙啊</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 保熟吗</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 暗中观察</span></li></ul>
+<ul class="gpt-fix-window"><li>鲨鱼放火历飞羽: <span style="color:var(--vp-c-brand);"> 这玩意不是停了吗</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 妙啊</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 保熟吗</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 暗中观察</span></li><li>sonickang: <span style="color:var(--vp-c-brand);"> 233</span></li><li>sam_sir: <span style="color:var(--vp-c-brand);"> # 大圣老师是谁</span></li><li>JAVA知府鱼晟菌: <span style="color:var(--vp-c-brand);"> #大圣老师好帅</span></li><li>阳阳的粑鼻: <span style="color:var(--vp-c-brand);"> 你觉得比特币还会涨价吗</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 哈尔科夫大学学无线电   :<span style="color:var(--vp-c-brand);"> #星际争霸2什么时候停服？ </span> 
+::: info JAVA知府鱼晟菌   :<span style="color:var(--vp-c-brand);"> #大圣老师好帅 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #大圣老师好帅 <span class="gpt-item">JAVA知府鱼晟菌@07:46:28 (还有4次)</span>
+
+'
+        }
+    }
+    render(){
+        return(
+            &lt;div&gt;
+                &lt;h2&gt;大圣说:{this.state.msg}&lt;/h2&gt;
+            &lt;/div&gt;
+        )
+    }
+}
+####  # 大圣老师是谁 <span class="gpt-item">sam_sir@07:45:58 (还有4次)</span>
+
+
+
+大圣老师是中国古代神话中的一位著名传说人物，是唐僧孙悟空的师傅，他又名菩提祖师。他曾进入西天取经，带领唐僧和六耳猕猴拯救被妖魔劫持的群众，最终收服妖魔，将佛经安全运回中原。
 ####  #星际争霸2什么时候停服？ <span class="gpt-item">哈尔科夫大学学无线电@07:24:01 (还有1次)</span>
 
 
@@ -2327,13 +2345,3 @@ In such cases, it is important to take some time to think about the situation an
 
 
 中国有很多城市都适合居住，比如北京、上海、广州、深圳、杭州、重庆、厦门、大连、成都、青岛、武汉等等。根据个人喜好和需求，可以选择不同的城市来居住。
-####  #我觉得你是张嘴就来的数据 <span class="gpt-item">三年用户@23:19:03 (还有4次)</span>
-
-
-
-不是，我们只是利用数据和分析来提供更好的决策支持。我们会分析数据，收集信息，利用数据挖掘技术来提取有用的信息，以达到更好的决策支持。
-####  #你如何理解真理的绝对性和相对性 <span class="gpt-item">数据艺术家@23:18:44 (还有4次)</span>
-
-
-
-真理的绝对性是指真理是不变的，它不会随着时间和环境的变化而改变。而真理的相对性则是指真理可以因为个人的观点和知识的不同而有所不同。它取决于个人对事物的理解和态度，而不是一成不变的。
