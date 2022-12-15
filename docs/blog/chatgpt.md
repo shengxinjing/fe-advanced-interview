@@ -1,10 +1,10 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 42.5</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 就是体温</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 发烧</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 不会是我情敌吧</span></li><li>LittleTian-: <span style="color:var(--vp-c-brand);"> 肥羊羊有没有羊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 荷包蛋yygq也是有一手的</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 哇哦 荷包蛋还会撒娇了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 我可以去升牌牌吗</span></li><li>LittleTian-: <span style="color:var(--vp-c-brand);"> 青老师昨晚烧坏了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 第一次听到</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 荷包蛋撒娇</span></li><li>电气姬EA: <span style="color:var(--vp-c-brand);"> 笑死了 我不在就撒娇</span></li><li>电气姬EA: <span style="color:var(--vp-c-brand);"> 删了拉黑了</span></li></ul>
+<ul class="gpt-fix-window"><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 发烧</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 不会是我情敌吧</span></li><li>LittleTian-: <span style="color:var(--vp-c-brand);"> 肥羊羊有没有羊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 荷包蛋yygq也是有一手的</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 哇哦 荷包蛋还会撒娇了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 我可以去升牌牌吗</span></li><li>LittleTian-: <span style="color:var(--vp-c-brand);"> 青老师昨晚烧坏了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 第一次听到</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 荷包蛋撒娇</span></li><li>电气姬EA: <span style="color:var(--vp-c-brand);"> 笑死了 我不在就撒娇</span></li><li>电气姬EA: <span style="color:var(--vp-c-brand);"> 删了拉黑了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 可以啊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 荷包蛋</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 电气姬EA   :<span style="color:var(--vp-c-brand);"> 删了拉黑了 </span> 
- <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
+::: info 当然是选择相信她啦   :<span style="color:var(--vp-c-brand);"> 荷包蛋 </span>     
+ 弹幕字数少于5，不算数哦
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
 如果您最近感冒了，最好的治疗方法就是保持身体和心情舒适，并采取以下措施：
