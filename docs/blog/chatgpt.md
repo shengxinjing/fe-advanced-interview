@@ -4,13 +4,35 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>oben222: <span style="color:var(--vp-c-brand);"> 为啥这还可以用</span></li><li>oben222: <span style="color:var(--vp-c-brand);"> #为啥还可以用</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么让cos服看起来不是cos服</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么让cos服看起来不像cos服</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> 1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #，1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好呀，chatgpt</span></li><li>长鼻子大脸猫: <span style="color:var(--vp-c-brand);"> 还在吗</span></li><li>清尘帘幕卷清霜: <span style="color:var(--vp-c-brand);"> 发发发</span></li></ul>
+<ul class="gpt-fix-window"><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #，1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好呀，chatgpt</span></li><li>长鼻子大脸猫: <span style="color:var(--vp-c-brand);"> 还在吗</span></li><li>清尘帘幕卷清霜: <span style="color:var(--vp-c-brand);"> 发发发</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> 在吗</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #冒泡排序</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #无线电通信对抗是指？chatgpt</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #用java写一个递归案例</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 诶这就是---   :<span style="color:var(--vp-c-brand);"> #你好呀，chatgpt </span> 
- <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
+::: info 哈尔科夫大学学无线电   :<span style="color:var(--vp-c-brand);"> #用java写一个递归案例 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #用java写一个递归案例 <span class="gpt-item">哈尔科夫大学学无线电@07:17:36 (还有3次)</span>
+
+
+
+public class Recursion {
+    public static void main(String[] args) {
+        int result = factorial(3);
+        System.out.println(result);
+    }
+
+    private static int factorial(int n) {
+        if(n==1) {
+            return 1;
+        }
+        return n * factorial(n-1);
+    }
+}
+####  #无线电通信对抗是指？chatgpt <span class="gpt-item">哈尔科夫大学学无线电@07:15:03 (还有4次)</span>
+
+
+
+无线电通信对抗是指破坏他国无线电通信系统的作战行动，以及保护自己的无线电通信系统免受敌对军事行动的影响。这种作战行动可以包括干扰对方信号，拦截和操纵对方信号，破坏对方系统的故障，以及其他形式的战术欺骗。
 ####  #怎么让cos服看起来不像cos服 <span class="gpt-item">oodzfa@05:48:14 (还有4次)</span>
 
 
@@ -2301,21 +2323,3 @@ In such cases, it is important to take some time to think about the situation an
 4、熟悉网络性能测试，比如网络带宽测试等；
 5、熟悉网络管理技术，如网络备份、监控等；
 6、
-####  #中国房价是不是太高 <span class="gpt-item">三年用户@23:16:15 (还有6次)</span>
-
-了
-
-是的，中国房价已经太高了。有统计显示，2019年，中国城市新建商品住宅均价达到了四万元/平方米以上，这在世界范围来看也是罕见的。而普通市民购买房产的能力却很有限，使得购房难度大大提高。
-####  #你会怎么做，让人们开始接受chatGPT <span class="gpt-item">言川阙可乐@23:16:06 (还有1次)</span>
-
-技术
-
-1.开展媒体宣传：可以通过各种媒体渠道，向公众宣传chatGPT技术的优势，让更多的人了解这项技术的实用性；
-
-2.开展实际应用：可以借助一些案例，使用chatGPT技术解决实际问题，让更多的人充分体验其优势；
-
-3.举办技术培训：可以举办相关技术培训，让更多的企业和个人了解chatGPT技术，同时也可以邀请一些知名的技术专家来做技术讲座，以此提高技术的关注度；
-
-4.建立社群：可以建立一个chatGPT技术相关的社群，让更多的人能够参与其中，交流想法，分享经验，从而加深对此技术的了解；
-
-5.联合合作伙伴：可以与一些相关企业合作，将chatGPT技术应用到实际产品中，从而让更多的人使用并了解这项技
