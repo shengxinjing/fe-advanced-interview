@@ -4,13 +4,97 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>勤更歌单的eddie: <span style="color:var(--vp-c-brand);"> C#-winform三层架构是指什么</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust有哪些目标检测框架</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust怎么实现控制鼠标驱动使鼠标移动</span></li><li>33571703588_bili: <span style="color:var(--vp-c-brand);"> 各位，前端学flutter 咋样</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust怎么实现在win平台上修改内存</span></li><li>嘻嘻嘻卡丘: <span style="color:var(--vp-c-brand);"> #择时选股有哪些指标</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #游戏是怎么检测内存被修改的</span></li><li>嘻嘻嘻卡丘: <span style="color:var(--vp-c-brand);"> #择时选股的代码框架</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust有哪些视觉slam的库</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #深度学习和机器学习哪个容易些</span></li></ul>
+<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #AI哪些方向用的数学知识少一些</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #目标检测用机器学习还是深度学习</span></li><li>sunlong0717: <span style="color:var(--vp-c-brand);"> 来了来了！</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #用大白话告诉我，如何理解卷积神经网络</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #什么是卷积</span></li><li>哈哈hhhhh_: <span style="color:var(--vp-c-brand);"> #余弦退火算法的原理和优势</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #易语言是怎么实现的</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #浏览器是怎么开发的</span></li><li>在下小张啊: <span style="color:var(--vp-c-brand);"> #最伟大的程序员是谁</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #主播几点睡</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #深度学习和机器学习哪个容易些 </span> 
+::: info 七层楼辣么高   :<span style="color:var(--vp-c-brand);"> #主播几点睡 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #主播几点睡 <span class="gpt-item">七层楼辣么高@1:26:51 (还有0次)</span>
+
+
+
+这个取决于主播的作息时间，一般来说，主播晚上11点到12点睡觉是比较合理的。
+####  #最伟大的程序员是谁 <span class="gpt-item">在下小张啊@1:25:50 (还有4次)</span>
+
+
+
+很难说，但是可以说出一些著名的程序员，比如：
+
+- 唐纳德·艾萨克·鲍尔（Donald Knuth）
+- 比尔·盖茨（Bill Gates）
+- 蒂姆·库克（Tim Cook）
+- 艾伦·阿兰（Alan Turing）
+- 吉多·范罗苏姆（Guido van Rossum）
+- 尤金·鲍尔（Eugene Wall）
+- 约翰·科恩（John Carmack）
+- 吉多·埃文斯（GitHub Evans）
+- 杰弗里·贝索斯（Jeff Bezos）
+- 杰夫·贝索斯（Jeff Bezos）
+- 詹姆斯·黑（James Gosling）
+- 詹姆斯·贝吉格（James Boggs）
+- 艾伦·斯坦福（Alan Stanford）
+- 尤金·萨比（Eugene Syby）
+- 艾伦·马尔科夫（Alan Molkoff）
+- 尼尔·布莱克（Neil Black）
+- 蒂姆·伯纳斯·李（Tim Berners-Lee）
+- 迈克尔·埃文斯（Michael Evans）
+- 林登·鲍威尔（Linden Powell）
+- 艾伦·坎普（Alan Kemp）
+- 尤金·斯科特（Eugene Scott）
+- 艾伦·史密斯（Alan Smith）
+####  #浏览器是怎么开发的 <span class="gpt-item">让我捡漏吧@1:25:24 (还有6次)</span>
+
+
+
+浏览器的开发基本上包括两个部分：
+
+1. 内核开发：浏览器的内核是开发浏览器的核心，用来解释HTML、CSS和JavaScript代码，并创建出用户看到的网页内容，常用的浏览器内核有Gecko、Webkit、Trident等，比如Mozilla Firefox使用的是Gecko内核，Google Chrome使用的是Webkit内核，IE浏览器使用的是Trident内核。
+
+2. 功能开发：在内核渲染出网页之后，浏览器还需要提供更丰富的功能，比如插件、书签管理、网页记录等，这些功能都是由各个浏览器厂商自行开发的，从而使浏览器的功能更加丰富，更加方便用户。
+####  #易语言是怎么实现的 <span class="gpt-item">让我捡漏吧@1:23:44 (还有7次)</span>
+
+
+
+MQL（MetaQuotes Language）是MetaQuotes Software公司开发的一种交易语言，用于为MetaTrader 4和MetaTrader 5提供自动交易功能。 MQL由编译器和运行时运行库组成，可以编写技术指标、自动交易策略和定制交易系统。 MQL是一种功能强大的脚本语言，具有变量、函数、结构体等，可以用于编写复杂的程序来实现复杂的功能。 MQL具有面向对象的特性，可以让开发者更容易的编写复杂的自动交易系统，从而提升交易效率。
+####  #余弦退火算法的原理和优势 <span class="gpt-item">哈哈hhhhh_@1:22:30 (还有4次)</span>
+
+
+
+原理：
+
+余弦退火算法是一种自适应搜索算法，它根据当前温度和先前温度来调整其状态（即通过扰动）。具体而言，它使用一个余弦函数来模拟退火过程，在高温时允许大的变化，而在低温时允许小的变化，以此来探索最优解。
+
+优势：
+
+余弦退火算法具有良好的收敛性和搜索能力，可以有效地减少计算时间和准确度，而且它可以更有效地探索最优解。此外，它还可以局部最优解的搜索，而不是全局最优解，在多变量优化问题的情况下，这是一个重要的优势。
+####  #什么是卷积 <span class="gpt-item">让我捡漏吧@1:22:3 (还有8次)</span>
+
+神经网络？
+
+卷积神经网络（CNN）是一种深度学习技术，它具有卷积层、池化层和全连接层的深层神经网络结构，可以用来检测和识别图像中的特征。它可以从图像中提取出更多的特征以及不同的空间变换，从而进一步提高分类准确度。卷积神经网络可以在图像分类、图像识别、图像分割、图像生成、图像视觉任务等领域中取得良好的效果。
+####  #用大白话告诉我，如何理解卷积神经网络 <span class="gpt-item">让我捡漏吧@1:20:59 (还有9次)</span>
+
+？
+
+卷积神经网络是一种深度学习技术，它使用一种叫做卷积的技术来处理图像，语音和自然语言处理（NLP）等复杂任务。它通过将输入数据（图像，语音等）转换为多维数组，然后使用多个不同大小的滤波器来提取数据中的有用特征，再使用这些特征来分析和识别数据。因此，它可以帮助我们更快更准确地处理复杂的数据分析任务。
+####  #目标检测用机器学习还是深度学习 <span class="gpt-item">让我捡漏吧@1:19:2 (还有10次)</span>
+
+
+
+目标检测通常使用深度学习技术，如卷积神经网络（CNN）、支持向量机（SVM）和其他深度学习技术。
+####  #AI哪些方向用的数学知识少一些 <span class="gpt-item">让我捡漏吧@1:17:33 (还有11次)</span>
+
+？
+
+1. 计算机视觉：计算机视觉研究的主要工作是构建一种智能系统，以实现计算机自动识别图像中的内容，使用的数学知识少。
+
+2. 自然语言处理：自然语言处理是一种计算机科学技术，用于处理与人类语言相关的数据，可以用较少的数学知识实现。
+
+3. 机器学习：机器学习是一种人工智能技术，可以从现有的数据中学习，使用的数学知识较少。
+
+4. 深度学习：深度学习是一种机器学习技术，可以处理复杂的输入数据，使用的数学知识较少。
 ####  #深度学习和机器学习哪个容易些 <span class="gpt-item">让我捡漏吧@1:16:4 (还有12次)</span>
 
 ？
