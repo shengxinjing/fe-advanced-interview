@@ -4,13 +4,87 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #AI哪些方向用的数学知识少一些</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #目标检测用机器学习还是深度学习</span></li><li>sunlong0717: <span style="color:var(--vp-c-brand);"> 来了来了！</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #用大白话告诉我，如何理解卷积神经网络</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #什么是卷积</span></li><li>哈哈hhhhh_: <span style="color:var(--vp-c-brand);"> #余弦退火算法的原理和优势</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #易语言是怎么实现的</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #浏览器是怎么开发的</span></li><li>在下小张啊: <span style="color:var(--vp-c-brand);"> #最伟大的程序员是谁</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #主播几点睡</span></li></ul>
+<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #用钕磁铁做霍尔发电机可以提供多少瓦的电</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js将字符串转义为regex普通字符串</span></li><li>传世月: <span style="color:var(--vp-c-brand);"> #就是觉得不</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js函数将正则字符串转义为普通字符串</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #帮我混淆一下这行js代码var a</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js函数将普通字符串转义避免被正则处理</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #怎么理解N=NP问题</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #汇编语言有哪些</span></li><li>快播毕业生: <span style="color:var(--vp-c-brand);"> 6</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #ARM汇编语言怎么学习</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 七层楼辣么高   :<span style="color:var(--vp-c-brand);"> #主播几点睡 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #ARM汇编语言怎么学习 </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
+####  #汇编语言有哪些 <span class="gpt-item">让我捡漏吧@1:36:31 (还有0次)</span>
+
+？
+
+主要有x86汇编语言、MIPS汇编语言、ARM汇编语言、PPC汇编语言、IA-64汇编语言等。
+####  #怎么理解N=NP问题 <span class="gpt-item">让我捡漏吧@1:35:0 (还有1次)</span>
+
+
+
+N=NP问题是一个有着悠久历史的计算复杂性问题，它指的是一个算法可以在多项式时间内解决所有NP完全问题。NP完全问题是一类棘手的问题，它们的解决可能需要极大的计算量，而N=NP问题则检验是否存在一种算法可以在多项式时间内解决这些问题。如果N=NP成立，则这些问题是可解的，而如果N≠NP，则这些问题就是不可解的。
+####  #js函数将普通字符串转义避免被正则处理 <span class="gpt-item">Silver_horn_king@1:34:0 (还有3次)</span>
+
+
+
+使用javascript内置函数escape()：
+
+```js
+var str = "I'm a string";
+// 转义字符串
+var newStr = escape(str);
+console.log(newStr); // "I%27m%20a%20string"
+```
+####  #帮我混淆一下这行js代码var a <span class="gpt-item">让我捡漏吧@1:32:52 (还有2次)</span>
+
+=1
+
+var _a=1;
+####  #js函数将正则字符串转义为普通字符串 <span class="gpt-item">Silver_horn_king@1:32:41 (还有4次)</span>
+
+
+
+JavaScript提供一个String.replace()方法可以用于将正则字符串转义为普通字符串。该方法接受两个参数，第一个参数是要替换的正则表达式，第二个参数是替换的内容。
+
+例如：
+
+```javascript
+let str = "*+?^$[]()|{}\\";
+let newStr = str.replace(/[.*+?^$\[\](){}|\\]/g, "");
+
+console.log(newStr); // "" (空字符串)
+```
+
+上面的代码将str字符串中的所有正则字符转义为空字符串。
+####  #用钕磁铁做霍尔发电机可以提供多少瓦的电 <span class="gpt-item">让我捡漏吧@1:31:20 (还有3次)</span>
+
+量？
+
+钕磁铁霍尔发电机的功率取决于它的尺寸和电源电压，根据电源电压的不同，它可以提供不同的功率。一般来说，它的功率可以在几瓦到几百瓦不等。
+####  #用磁铁做霍尔发电机可以用多久 <span class="gpt-item">让我捡漏吧@1:29:54 (还有4次)</span>
+
+
+
+用磁铁做的霍尔发电机可以使用很长时间，只要磁铁的磁性能力不受到影响，就可以一直使用下去。
+####  #介绍下iOS响应链传递 <span class="gpt-item">七层楼辣么高@1:29:23 (还有4次)</span>
+
+
+
+iOS响应链传递是iOS开发中一个重要的机制，它是一种从视图控件到其父视图之间的事件传递机制。当一个视图控件接收到触摸事件时，它会将事件传递给它的父视图，父视图会根据自己的实际情况做出处理，如果父视图不能处理，它会将事件传递给它的父视图，以此类推。最终，事件会传到UIApplication类，然后由UIApplication类将事件传递给根视图控制器，根视图控制器会根据实际情况处理事件。
+####  #怎么防止js被查看 <span class="gpt-item">让我捡漏吧@1:27:31 (还有5次)</span>
+
+
+
+1. 使用混淆器将 JavaScript 代码混淆，使 JavaScript 代码变得无法理解。
+
+2. 将 JavaScript 代码嵌入 HTML 页面中，使查看者无法立即看到 JavaScript 代码。
+
+3. 将 JavaScript 代码存储在分离的文件中，并使用服务器端脚本进行读取，而不是直接在网页中使用 JavaScript。
+
+4. 使用加密技术对 JavaScript 代码进行加密，并使用相应的解密技术在浏览器上进行解密。
+####  #最适合结婚的年纪是多少 <span class="gpt-item">在下小张啊@1:27:27 (还有3次)</span>
+
+？
+
+这取决于你的个人偏好。通常来说，大多数人会在20多岁的时候考虑结婚。但有些人会更早，有些人会更晚。许多因素都会影响你结婚的时机，比如你的财务状况、经济压力、家庭压力或心理准备程度等等。
 ####  #主播几点睡 <span class="gpt-item">七层楼辣么高@1:26:51 (还有0次)</span>
 
 
