@@ -60,3 +60,9 @@ h4{
   font-size:24px;
   margin-top:20px;
 }
+.VPNav{
+  display:none !important;
+}
+.VPContent{
+  padding-top:10px !important;
+}
