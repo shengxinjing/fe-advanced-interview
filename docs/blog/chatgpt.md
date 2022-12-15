@@ -4,13 +4,37 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>clau1: <span style="color:var(--vp-c-brand);"> #</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #2023届秋招的情况怎么样？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #你为什么有时候会答非所问？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #当程序员更赚钱，还是开培训班更赚钱？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list</span></li><li>啵一杯: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li><li>大帅哥hhhh6: <span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数</span></li></ul>
+<ul class="gpt-fix-window"><li>clau1: <span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list</span></li><li>啵一杯: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li><li>大帅哥hhhh6: <span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数</span></li><li>荔枝啊苏珊: <span style="color:var(--vp-c-brand);"> #程序员比流水线工人那点强？</span></li><li>南充铁拐李: <span style="color:var(--vp-c-brand);"> #666</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于Unity的论文</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 大帅哥hhhh6   :<span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数 </span> 
- <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
+::: info 做人要骄傲   :<span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #写不少于6000字关于unity的论文 <span class="gpt-item">做人要骄傲@3:7:7 (还有4次)</span>
+
+
+
+摘要
+
+本文主要介绍了Unity游戏引擎在游戏开发中的应用。它简化了游戏开发的过程，使游戏开发变得更加容易。它提供了一个完整的解决方案，可以让游戏开发者使用一种语言来开发游戏。它还提供了一系列的插件来支持游戏开发，包括从图形到网络，以及许多其他功能。本文还介绍了Unity的优势和劣势，以及Unity如何在游戏开发中发挥作用。
+
+关键词：Unity；游戏开发；解决方案；插件
+
+Introduction
+
+Unity is a game engine developed by Unity Technologies for developing games for multiple platforms. It is used for developing 3D games, and is one of the most popular game engines in the world. Unity simplifies the game development process and makes it easier to develop games. It provides a complete solution for game developers, allowing them to develop games using a single language. It also provides a range of plugins to support game development, from graphics to networking, and many other features.
+
+Unity Advantages
+
+Unity has many advantages for game developers. It is a cross-platform game engine, meaning that it can be used to develop games for a variety of platforms, including PC, console, mobile, and web. This makes it a versatile engine, and it can be used to develop games for a variety of different platforms. It also has a wide range of features, including graphics, physics, animation, scripting, networking, and audio. It also supports a variety of programming languages, including C#, JavaScript, and Boo.
+
+Unity also has a wide range of tools for game development, including a visual editor, an animation editor, and a
+####  #程序员比流水线工人那点强？ <span class="gpt-item">荔枝啊苏珊@3:2:54 (还有4次)</span>
+
+
+
+程序员比流水线工人强在于他们可以利用自身的知识和技能来解决复杂的问题，并且可以创造出让人们更为高效、便捷的软件。而流水线工人则只能做着重复的、连续的小任务，没有创新的空间。
 ####  #介绍下iOS的runtime <span class="gpt-item">七层楼辣么高@2:25:21 (还有3次)</span>
 
 
