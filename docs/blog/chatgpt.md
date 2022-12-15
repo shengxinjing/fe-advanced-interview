@@ -4,13 +4,129 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>千慕栻: <span style="color:var(--vp-c-brand);"> #前端简历应该怎么写</span></li><li>Daniel8642: <span style="color:var(--vp-c-brand);"> #vue项目如何从js迁移到ts</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #vite与webpack对比的优缺点</span></li><li>爱喝酸奶的杰瑞呀: <span style="color:var(--vp-c-brand);"> #vue生命周期</span></li><li>Daniel8642: <span style="color:var(--vp-c-brand);"> #golang里的泛型该怎么用</span></li><li>月夜枫儿: <span style="color:var(--vp-c-brand);"> #你是什么机器语言写的</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #安卓开发怎么修改内存读写内存</span></li><li>学习小丸子: <span style="color:var(--vp-c-brand);"> #迁移学习综述</span></li><li>让心丶随风飘: <span style="color:var(--vp-c-brand);"> vue生命周期</span></li><li>学习小丸子: <span style="color:var(--vp-c-brand);"> #汽油能用来炒菜吗</span></li></ul>
+<ul class="gpt-fix-window"><li>你家隔壁的刘大哥: <span style="color:var(--vp-c-brand);"> #明天早上吃什么好</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #高级中级初级前端工程师是如何界定的</span></li><li>今の明: <span style="color:var(--vp-c-brand);"> #发烧吃啥药</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #前端架构师要掌握哪些技术</span></li><li>Daniel8642: <span style="color:var(--vp-c-brand);"> #Go的GMP模型与channel分别是</span></li><li>狮子大象和老虎: <span style="color:var(--vp-c-brand);"> #可以跑了？</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> 正经人谁听二手月季（狗头）</span></li><li>乔戈里峰亡命天涯: <span style="color:var(--vp-c-brand);"> vue3核心竞争力是什么</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #前端未来的趋势是什么样的</span></li><li>乔戈里峰亡命天涯: <span style="color:var(--vp-c-brand);"> #vue3核心竞争力是什么</span></li></ul>
 
-::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
+::: danger 感谢礼物: 你家隔壁的刘大哥 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 学习小丸子   :<span style="color:var(--vp-c-brand);"> #汽油能用来炒菜吗 </span> 
+::: info 乔戈里峰亡命天涯   :<span style="color:var(--vp-c-brand);"> #vue3核心竞争力是什么 </span> 
  <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
+####  #前端未来的趋势是什么样的 <span class="gpt-item">千慕栻@0:6:52 (还有11次)</span>
+
+
+
+1、更多的融入移动互联网：随着智能手机和移动设备的普及，移动互联网的应用将会更加广泛，前端开发需要做出相应的调整，比如小屏幕下的设计优化，更加友好的用户体验，以节省用户的点击和滑动次数，提升用户体验。
+
+2、前端技术的深度应用：前端技术不仅仅是实现用户界面，它可以用于服务器端的应用，比如Node.js，它可以用于构建大型的应用程序，通过使用前端技术，可以实现交互和联动，大大提高用户体验。
+
+3、前端自动化：前端的自动化将会成为一个发展趋势，可以极大的提高开发效率，前端自动化可以实现资源的管理和组织，以及自动构建和测试等功能，从而显著提升前端开发的效
+####  #Go的GMP模型与channel分别是 <span class="gpt-item">Daniel8642@0:3:51 (还有12次)</span>
+
+什么？
+
+Go的GMP模型(Go Memory Pool Model)是Go语言中用来管理内存的一种内存池模型，它使用一种非常高效的内存分配算法来有效的管理内存块的分配和释放，以节省内存的使用，提高程序的性能。
+
+Channel是Go语言中的一种并发模型，它是一种用于在不同goroutine之间传递消息的机制，可以让goroutine之间进行安全的通信。
+####  #前端架构师要掌握哪些技术 <span class="gpt-item">千慕栻@0:3:33 (还有12次)</span>
+
+
+
+1. HTML/CSS：掌握基本的HTML/CSS语法，熟悉标准的W3C标准，以及CSS 2.1/CSS3新特性；
+
+2. JavaScript：掌握基本的JavaScript语法，了解DOM/BOM操作，熟练使用Ajax，以及最新的ES6语法；
+
+3. jQuery：熟悉jQuery库的基本使用方法，以及插件开发；
+
+4. 框架：熟悉某一类JavaScript框架，如Angular/React/Vue等；
+
+5. 前端工程化：熟悉前端自动化构建，如Webpack/Gulp等；
+
+6. CSS预处理：掌握CSS预处理器，如Less/Sass等；
+
+7. 响应式设计：了解响应式设计的原理，以及如何使用HTML5+CSS3实现响应式设计；
+
+8. 移动端开发：熟悉移动端开发，包括移动Web、Hybrid App、原生App等；
+
+9. 前端性能优化：了解前端性能优化的基本原理和方法；
+
+10. 前端安全：了解前端安全的基本原理
+####  #高级中级初级前端工程师是如何界定的 <span class="gpt-item">千慕栻@0:2:12 (还有13次)</span>
+
+
+
+一般情况下，高级前端工程师需要具备丰富的编程经验，能够独立设计、开发和改进 web 应用程序、熟悉客户端技术，如 HTML、CSS、JavaScript，以及服务器端技术，如 PHP、Node.js、Ruby 等，能够快速理解代码，并能够自己搭建环境。
+
+中级前端工程师应该熟悉 HTML、CSS 和 JavaScript，拥有自己的代码风格，能够按照设计文档完成开发任务，并能够解决前端性能优化和安全问题。
+
+初级前端工程师应该熟悉 HTML、CSS 和 JavaScript，能够按照设计文档完成开发任务，并能够解决前端性能优化和安全问题。
+####  #明天早上吃什么好 <span class="gpt-item">你家隔壁的刘大哥@0:2:7 (还有10次)</span>
+
+呢
+
+1. 煎蛋、香肠、蔬菜炒饭
+2. 煎豆腐、火腿、蔬菜沙拉
+3. 烤面包、肉松、番茄汁
+4. 燕麦片、牛奶、水果
+5. 全麦面包、鸡蛋、果汁
+####  #推荐几本前端的书籍 <span class="gpt-item">千慕栻@0:0:59 (还有14次)</span>
+
+
+
+1. 《JavaScript高级程序设计》
+2. 《JavaScript权威指南》
+3. 《CSS权威指南》
+4. 《HTML5核心技术与实践》
+5. 《Web前端开发精要》
+6. 《Web前端开发实战》
+7. 《JavaScript DOM编程艺术》
+8. 《锋利的jQuery》
+9. 《Web性能权威指南》
+10. 《Ajax与Rest实战》
+####  #如何快速背肖四 <span class="gpt-item">你家隔壁的刘大哥@0:0:39 (还有9次)</span>
+
+级单词
+
+1.多背多记：多背多记是学习英语单词的最有效方法，要想背肖四级单词，就要多背多记，每天花上几个小时记忆单词，不断重复，每日坚持，不断积累，直到所有单词都背下来。
+
+2.分类记忆：将所有肖四级单词按照词性、意义、拼写等进行分类，把相同词性、意义、拼写的单词放在一起，这样不仅可以增加记忆的效率，而且还可以帮助记忆单词的细节，如单词的变形等。
+
+3.利用联想记忆：联想记忆是一种经典的记忆方法，可以利用单词的音、形、义等来建立联系，或者可以将单词与其他单词建立联系。此外，还可以利用图片、故事等联想记忆，让单词更容易记忆。
+
+4.多应用：在学习单词的同时，也要多应用一
+####  #前端工程师考研考什么专业 <span class="gpt-item">千慕栻@23:59:19 (还有5次)</span>
+
+
+
+一般来说，前端工程师考研考虑的专业有计算机科学与技术、软件工程、信息安全、物联网工程、人工智能、数据科学与大数据技术等。
+####  #安卓开发中，怎么用rust语言修改内存 <span class="gpt-item">让我捡漏吧@23:58:49 (还有9次)</span>
+
+
+
+Rust语言可以通过FFI（外部函数接口）机制调用Android平台的本地代码，来修改内存。具体步骤如下：
+
+1. 将要修改的内存地址转换成十六进制字符串。
+
+2. 使用Rust语言FFI方法，调用Android平台提供的相关内存操作函数，比如write_memory()来对内存进行修改。
+
+3. 将修改后的内存保存到指定的存储位置中。
+
+4. 将修改的内存重新写入Android的内存中，完成修改。
+####  #如何提高简历的丰富度 <span class="gpt-item">千慕栻@23:58:11 (还有6次)</span>
+
+
+
+1、展示你的专业知识：当你在写简历时，可以专注于你拥有的专业知识，比如你参加过的培训，你学到的技能，你参加的活动等；
+
+2、展示你的经历：你可以把你从学校和工作中获得的经历，比如任职的职位，参与的项目，实现的成果，都写在简历上。这些经历将丰富你的简历，同时也可以证明你的能力；
+
+3、展示你的社会活动：你可以将你参与的社会活动的经历，比如参加志愿者活动，参加社交活动，参加慈善活动，写在简历上。这些活动能证明你的社会责任感，同时也可以增加简历的丰富度；
+
+4、展示你的奖项：你可以将你在学校，工作，或个人活动中获得的奖项，比如优秀学生，优秀员工，优秀社会公民
+####  #汽油能用来炒菜吗 <span class="gpt-item">学习小丸子@23:57:21 (还有1次)</span>
+
+？
+
+不能，汽油不能用来炒菜，因为汽油的燃烧温度过高，会产生有害的臭气和废气，会破坏食物的营养成分，不安全。
 ####  #迁移学习综述 <span class="gpt-item">学习小丸子@23:55:40 (还有2次)</span>
 
 
