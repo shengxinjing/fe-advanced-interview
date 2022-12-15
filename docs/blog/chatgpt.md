@@ -1,9 +1,9 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 接了个电话</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> ？？？</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 人家是原版</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 这个是筷子抄袭的啊</span></li></ul>
+<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 接了个电话</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> ？？？</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 人家是原版</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 这个是筷子抄袭的啊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 先上车后补票</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 烟花易纷   :<span style="color:var(--vp-c-brand);"> 这个是筷子抄袭的啊 </span> 
+::: info 当然是选择相信她啦   :<span style="color:var(--vp-c-brand);"> 先上车后补票 </span> 
  <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
