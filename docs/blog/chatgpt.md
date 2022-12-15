@@ -4,12 +4,12 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>clau1: <span style="color:var(--vp-c-brand);"> #react和vue的特点分别是什么</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #2023届秋招的情况怎么样？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #你为什么有时候会答非所问？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #当程序员更赚钱，还是开培训班更赚钱？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list</span></li><li>啵一杯: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li></ul>
+<ul class="gpt-fix-window"><li>clau1: <span style="color:var(--vp-c-brand);"> #</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #2023届秋招的情况怎么样？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #你为什么有时候会答非所问？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #当程序员更赚钱，还是开培训班更赚钱？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list</span></li><li>啵一杯: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li><li>大帅哥hhhh6: <span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 七层楼辣么高   :<span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 大帅哥hhhh6   :<span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数 </span> 
+ <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
 :::
 ####  #介绍下iOS的runtime <span class="gpt-item">七层楼辣么高@2:25:21 (还有3次)</span>
 
