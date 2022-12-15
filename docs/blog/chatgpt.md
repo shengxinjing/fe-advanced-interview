@@ -1,13 +1,86 @@
 # 回复即可体验ChatGPT 
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数
-<ul class="gpt-fix-window"><li>bug的王: <span style="color:var(--vp-c-brand);"> 大圣老师阳了嘛</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> 是的 所以今天的课停课了</span></li><li>树新蜂GHOUL: <span style="color:var(--vp-c-brand);">  十日谈第三天第二个故事是什么？</span></li><li>bug的王: <span style="color:var(--vp-c-brand);"> 我也阳了</span></li><li>bug的王: <span style="color:var(--vp-c-brand);"> 多喝水呀</span></li><li>Briver丶大河: <span style="color:var(--vp-c-brand);"> #大圣是不是最帅的男人</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #重庆平均工资高还是宁波平均工资高</span></li><li>None_Type: <span style="color:var(--vp-c-brand);"> 你好</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #如何看待脉脉上的各种劝退</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #我去重庆还是留在宁波</span></li></ul>
+<ul class="gpt-fix-window"><li>三年用户: <span style="color:var(--vp-c-brand);"> #学校劝退我，我可以不听劝吗</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #为什么停止呼吸就不能呼吸</span></li><li>巅峰笑葬1: <span style="color:var(--vp-c-brand);"> 什么是时间</span></li><li>七月不上: <span style="color:var(--vp-c-brand);"> 今天吃过饭了，明天可以不吃饭吗</span></li><li>ayugudu: <span style="color:var(--vp-c-brand);"> 测试</span></li><li>五颜六色月牙: <span style="color:var(--vp-c-brand);"> 谁是这个世界上最帅的男人</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #唐僧用什么洗发水</span></li><li>ayugudu: <span style="color:var(--vp-c-brand);"> 无效</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #哪里还可以体验chatgpt</span></li><li>bigbig大聂聂: <span style="color:var(--vp-c-brand);"> 测试</span></li></ul>
 
 ::: warning 感谢 三年用户连续 投喂了3 个小花花(使用次数+3)
 :::
-::: info 三年用户   :<span style="color:var(--vp-c-brand);"> #我去重庆还是留在宁波 </span> 
+::: info 七层楼辣么高   :<span style="color:var(--vp-c-brand);"> #哪里还可以体验chatgpt </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #哪里还可以体验chatgpt <span class="gpt-item">七层楼辣么高@2022-12-15 22:16:39 (还有1次)</span>
+
+[ChatGPT]:
+
+ChatGPT可以在以下平台体验：
+
+1. 微信小程序：搜索“ChatGPT”，可与ChatGPT小助手聊天。
+2. Telegram：搜索@chatgptbot，可与ChatGPT小助手聊天。
+3. 网页：访问https://chatgpt.com，可与ChatGPT小助手聊天。
+4. iOS/Android App：下载ChatGPT App，可与ChatGPT小助手聊天。
+####  #唐僧用什么洗发水 <span class="gpt-item">三年用户@2022-12-15 22:16:33 (还有3次)</span>
+
+[ChatGPT]:
+
+通常唐僧使用植物性洗发水,如百合洗发水,桑椹洗发水,茶树洗发水,护发素等。
+####  #为什么停止呼吸就不能呼吸 <span class="gpt-item">三年用户@2022-12-15 22:15:43 (还有4次)</span>
+
+[ChatGPT]:
+
+停止呼吸无法呼吸的原因是，呼吸是一种机械运动，需要某种力量来支撑运动的进行，如果停止呼吸，运动就停止了，就没有力量支撑呼吸了，也就无法呼吸了。
+####  #学校劝退我，我可以不听劝吗 <span class="gpt-item">三年用户@2022-12-15 22:14:47 (还有5次)</span>
+
+[ChatGPT]:？
+
+不可以，学校劝退是学校的正式决定，你不能不听劝。你可以请求学校对你重新审核，若学校仍坚持劝退，你就只能接受了。
+####  #你怎么看世界杯决赛 <span class="gpt-item">稀饭0214@2022-12-15 22:14:10 (还有4次)</span>
+
+[ChatGPT]:？
+
+世界杯决赛是一场壮观的体育盛宴，它不仅代表着国家足球水平的比拼，而且也汇聚了来自世界各地球迷的激情，让我们有机会一起见证这个世界美好的一面。
+####  #为什么闭上眼睛看不见东西 <span class="gpt-item">三年用户@2022-12-15 22:13:48 (还有6次)</span>
+
+[ChatGPT]:
+
+因为没有光线，光线是人类视觉所需要的必要条件，没有光线，我们就无法看到任何东西。
+####  #人为什么要睡觉 <span class="gpt-item">三年用户@2022-12-15 22:12:48 (还有7次)</span>
+
+[ChatGPT]:
+
+人要睡觉是因为睡眠是身体重要的修复和恢复过程，睡眠可以帮助人们恢复体力，提高免疫力，保护心血管系统，增强大脑的学习和记忆力，可以改善情绪，改善心理健康，促进身体的健康，降低患病的风险。
+####  #请讲一下iOS内存泄漏 <span class="gpt-item">七层楼辣么高@2022-12-15 22:12:42 (还有2次)</span>
+
+[ChatGPT]:的原因
+
+iOS内存泄漏的原因有：
+
+1. 使用不当的对象：一些开发者在创建对象时不正确地使用它们，导致在不需要时又被重新分配内存，从而导致内存泄漏。
+
+2. 错误的释放内存：使用dealloc或者release方法释放内存时，可能会出现释放多次的情况，从而导致内存泄漏。
+
+3. 循环引用：如果两个对象之间形成了循环引用，则它们都不会被正确释放，从而导致内存泄漏。
+
+4. 内存碎片：当程序频繁的分配和释放内存时，可能会导致内存碎片，从而导致内存泄漏。
+####  #你知道monika吗？ <span class="gpt-item">陌轩丫@2022-12-15 22:11:38 (还有4次)</span>
+
+[ChatGPT]:
+
+是的，Monika是一个虚拟人物，是由Team Salvato开发的一款游戏《Doki Doki Literature Club》中的主要角色。她是文学俱乐部的社长，乐观，热情，有趣，但也有可能变得极其自责。
+####  #chatgpt 有搜索引擎好用吗 <span class="gpt-item">七层楼辣么高@2022-12-15 22:11:15 (还有3次)</span>
+
+[ChatGPT]:
+
+是的，ChatGPT 有一个很强大的搜索引擎，可以帮助您快速地找到需要的内容。
+####  #星期六放不放假 <span class="gpt-item">三年用户@2022-12-15 22:10:56 (还有0次)</span>
+
+[ChatGPT]:
+
+一般情况下，星期六不放假。但也有一些特殊情况，比如国家节日、重要活动等，国家有可能会安排星期六放假。
+####  #都放开了为啥快递还不发 <span class="gpt-item">七层楼辣么高@2022-12-15 22:8:25 (还有4次)</span>
+
+[ChatGPT]:？
+
+因为快递公司可能会有一定的等待时间，在规定的时间内，快递公司才会把快递发出去。此外，由于疫情的影响，快递公司可能还存在一些运输延迟的情况，这样可能会延误快递的发货时间。
 ####  #我去重庆还是留在宁波 <span class="gpt-item">三年用户@2022-12-15 22:6:32 (还有1次)</span>
 
 [ChatGPT]:
