@@ -4,13 +4,49 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #，1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好呀，chatgpt</span></li><li>长鼻子大脸猫: <span style="color:var(--vp-c-brand);"> 还在吗</span></li><li>清尘帘幕卷清霜: <span style="color:var(--vp-c-brand);"> 发发发</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> 在吗</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #冒泡排序</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #无线电通信对抗是指？chatgpt</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #用java写一个递归案例</span></li></ul>
+<ul class="gpt-fix-window"><li>清尘帘幕卷清霜: <span style="color:var(--vp-c-brand);"> 发发发</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> 在吗</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #冒泡排序</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #无线电通信对抗是指？chatgpt</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #用java写一个递归案例</span></li><li>有什么用_____: <span style="color:var(--vp-c-brand);"> 嘿嘿嘿嘿嘿</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #用汇编实现搜索磁盘文件代码</span></li><li>哈尔科夫大学学无线电: <span style="color:var(--vp-c-brand);"> #星际争霸2什么时候停服？</span></li><li>鲨鱼放火历飞羽: <span style="color:var(--vp-c-brand);"> 这玩意不是停了吗</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 哈尔科夫大学学无线电   :<span style="color:var(--vp-c-brand);"> #用java写一个递归案例 </span> 
+::: info 哈尔科夫大学学无线电   :<span style="color:var(--vp-c-brand);"> #星际争霸2什么时候停服？ </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #星际争霸2什么时候停服？ <span class="gpt-item">哈尔科夫大学学无线电@07:24:01 (还有1次)</span>
+
+
+
+截至目前，星际争霸2尚未宣布停服的计划，因此无法确定何时停服。
+####  #用汇编实现搜索磁盘文件代码 <span class="gpt-item">哈尔科夫大学学无线电@07:22:29 (还有2次)</span>
+
+
+
+;---------------------------------------------------------------------------
+;SearchFile:  搜索指定文件，返回文件所在盘符，如果没有找到返回空字符串
+;
+;Entry:  SI  = 指向文件名缓冲区
+;
+;Exit:  AL  = 文件所在盘符，如果没有找到返回空字符串
+;---------------------------------------------------------------------------
+
+SEARCHFILE  PROC    NEAR
+    PUSH    DS              ; 保护DS
+    PUSH    SI              ; 保护SI
+    MOV     AX, 0           ; 将文件名缓冲指针初始化
+    MOV     SI, AX
+    MOV     BL, 0           ; 初始化盘符变量
+    MOV     CX, 0           ; 将搜索到的文件计数器置零
+    MOV     DX, 1           ; 设置起始盘符
+    MOV     AH, 11H         ; 功能号：获取盘符参数
+    INT     21H             ; 调用DOS
+    MOV     CL, AL          ; 保存盘符
+    JZ      EXIT            ; 如果没有可用的盘符，则退出
+SEARCH_LOOP:
+    MOV     AH, 4EH         ; 功能号：搜索文件
+    INT     21H             ; 调用DOS
+    JNC     FOUND           ; 文件找到，跳转
+    INC     DX              ; 搜索下一个盘符
+    CMP     DX, CL          ; 是否搜索完有效盘符
+    JBE     SEARCH_LOOP     ; 如果没有，
 ####  #用java写一个递归案例 <span class="gpt-item">哈尔科夫大学学无线电@07:17:36 (还有3次)</span>
 
 
@@ -2301,25 +2337,3 @@ In such cases, it is important to take some time to think about the situation an
 
 
 真理的绝对性是指真理是不变的，它不会随着时间和环境的变化而改变。而真理的相对性则是指真理可以因为个人的观点和知识的不同而有所不同。它取决于个人对事物的理解和态度，而不是一成不变的。
-####  #中国2022年人口出生数量和死亡数量 <span class="gpt-item">三年用户@23:18:15 (还有5次)</span>
-
-预测
-
-由于影响中国2022年人口出生数量和死亡数量的因素众多，因此无法准确预测。但是，根据中国统计局最近公布的数据，2021年中国出生数量为1631万，死亡数量为854.4万，可以预计2022年中国人口出生数量和死亡数量将类似。
-####  #计算机网络怎么速成 <span class="gpt-item">爀爀笙桑@23:17:14 (还有4次)</span>
-
-
-
-一、熟悉基础知识
-1、了解计算机网络的概念，熟悉计算机网络的各种组成、特性和作用；
-2、了解计算机网络分层模型，熟悉OSI、TCP/IP模型；
-3、了解网络基本协议，如TCP/IP协议族，以及网络应用层协议；
-4、掌握计算机网络的基本技术，如交换机、路由器、网关、DNS等；
-
-二、实践经验
-1、熟悉网络设备的安装及使用，比如交换机、路由器、网关等；
-2、熟悉网络的结构设计，比如拓扑结构、网络地址等；
-3、熟悉网络安全技术，如防火墙、安全策略等；
-4、熟悉网络性能测试，比如网络带宽测试等；
-5、熟悉网络管理技术，如网络备份、监控等；
-6、
