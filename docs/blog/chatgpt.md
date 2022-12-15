@@ -4,13 +4,125 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js函数regex之前转义</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #用ARM汇编语言实现一个队列</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> 压根没这个函数</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #ARM汇编语言怎么跑起来</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #x86汇编和ARM汇编哪个难</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #怎么在安卓手机上跑windows</span></li><li>rambuild: <span style="color:var(--vp-c-brand);"> #太阳和星星哪个更大</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #驱动是怎么开发的</span></li><li>小明阿达西: <span style="color:var(--vp-c-brand);"> 1</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #驱动开发用什么语言</span></li></ul>
+<ul class="gpt-fix-window"><li>硬伤boy: <span style="color:var(--vp-c-brand);"> 你好，你可以做些什么</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> #你好你可以做些什么</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> #你好你可以做些什么</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #unity开发的游戏可以在哪些平台运行</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> 你的名字是什么？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #按键精灵怎么开发出来的</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> #你的名字是什么</span></li><li>我是脚鱼啊: <span style="color:var(--vp-c-brand);"> 讲个睡眠故事给我听</span></li><li>我是脚鱼啊: <span style="color:var(--vp-c-brand);"> #讲个睡眠故事给我听</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #java怎么调用c</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #驱动开发用什么语言 </span> 
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #java怎么调用c </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #java怎么调用c <span class="gpt-item">让我捡漏吧@1:56:51 (还有5次)</span>
+
+#
+
+可以通过使用Java Native Interface（JNI）来实现java调用c#的功能。JNI是一种Java编程接口，可以让Java程序调用由其他语言（如C）编写的模块，从而使Java程序可以访问底层操作系统的功能。
+
+要调用C#编写的模块，首先需要将其编译为可调用的dll，然后使用JNI在Java程序中调用它。具体的步骤如下：
+
+1. 在C#中编写需要被调用的代码，并编译为dll文件。
+
+2. 使用Java编写一个类来调用C#的dll文件，该类需要使用JNI接口来调用C#的dll文件。
+
+3. 使用Java编写一个接口，该接口定义了与C# dll文件相关的方法，并实现了JNI调用C# dll文件所需的所有方法。
+
+4. 在Java程序中调用该接口，从而实现对C#编写的模块的调用。
+####  #讲个睡眠故事给我听 <span class="gpt-item">我是脚鱼啊@1:56:48 (还有4次)</span>
+
+
+
+从前有一个叫小明的小男孩，他总是晚上睡不好，晚上经常熬夜。一天，他的爸爸在家里给他讲了一个睡眠故事，故事讲的是一个可爱的小兔子，它在森林里跳跃着，欢乐地嬉戏，它每天都会在晚上睡前做一个好梦，梦里它会做很多有趣的事情，而且每天都会睡得很香甜。小明听完后，很快就睡着了，第二天他起来时，感觉精神好极了！
+####  #你的名字是什么 <span class="gpt-item">硬伤boy@1:55:40 (还有3次)</span>
+
+
+
+我的名字叫做林昊宇。
+####  #按键精灵怎么开发出来的 <span class="gpt-item">让我捡漏吧@1:55:37 (还有6次)</span>
+
+
+
+按键精灵是一种脚本编程软件，用来编写宏脚本，可以自动执行一系列重复性的任务。它可以帮助用户自动化复杂的操作，极大地提高工作效率。按键精灵的开发是基于C/C++编程语言，通过调用Windows系统API函数，使用其内置的脚本语言来实现自动化操作。
+####  #unity开发的游戏可以在哪些平台运行 <span class="gpt-item">让我捡漏吧@1:54:31 (还有7次)</span>
+
+
+
+Unity开发的游戏可以运行在多种平台上，包括Windows、MacOS、Linux、iOS、Android、WebGL、PS4、Xbox One、Switch、Stadia等。
+####  #你好你可以做些什么 <span class="gpt-item">硬伤boy@1:54:9 (还有4次)</span>
+
+？
+
+你可以做许多事情，例如：
+
+- 学习新技能或语言
+- 参加社交活动
+- 练习你的健身
+- 看电影或电视剧
+- 写作
+- 做音乐
+- 玩游戏
+- 研究你感兴趣的主题
+- 绘画或摄影
+- 旅行
+- 参加志愿服务
+####  #数字电路和模拟电路需要哪些前置知识 <span class="gpt-item">让我捡漏吧@1:51:52 (还有8次)</span>
+
+？
+
+1. 电路理论：了解电路基础知识，如电路图，电压、电流、欧姆定律、Kirchhoff定律等；
+2. 集成电路：了解集成电路的原理，如晶体管，三极管，可控硅，定时器，多路开关，可编程逻辑器件，放大器，滤波器等；
+3. 模拟电路：了解模拟电路的原理，如滑差、积分、微分，反馈，滤波，延迟和放大；
+4. 电路设计：了解电路设计的基本原理，如信号传输，信号处理，滤波，功率放大，电源抑制等；
+5. 数字电路：了解数字电路的基本原理，如二进制位操作，常见的数字电路逻辑，多位数据处理，时序控制等；
+6. 信号处理：了解信号处理的基本原理，如数据采样、数
+####  #0.1+0.2等于0.3吗？为什么？ <span class="gpt-item">米粒_Melxy@1:50:57 (还有3次)</span>
+
+
+
+不等于0.3，因为0.1和0.2都是用二进制表示的十进制小数，而二进制无法精确表示十进制小数，所以0.1+0.2的结果不可能等于0.3。
+####  #数字电路和模拟电路的区别 <span class="gpt-item">让我捡漏吧@1:50:24 (还有9次)</span>
+
+
+
+模拟电路是利用模拟信号（如电压和电流）来传递信息的电路，而数字电路则是用数字信号（0和1）来传递信息的电路。
+
+模拟电路擅长处理连续变化的信号，而数字电路擅长处理离散变化的信号。
+
+模拟电路更适合处理连续变化的信号，如电压和电流，而数字电路则更适合处理离散变化的信号，如0和1。
+
+此外，模拟电路更容易出错，而数字电路更容易控制和精确测量。
+####  #制作一个电脑主板需要哪些知识 <span class="gpt-item">让我捡漏吧@1:49:13 (还有10次)</span>
+
+？
+
+1. 电路设计：包括电路原理、电路分析、电路调试等。
+
+2. 电子元件：熟悉各类电子元件的性能参数，如电阻、电容、二极管、集成电路等。
+
+3. PCB设计：熟悉PCB设计软件，能够根据电路设计进行PCB布线，并能熟练运用软件设计PCB板块和路径。
+
+4. 电脑原理：熟悉电脑硬件系统结构，了解电脑各种芯片的功能、接口和设备的使用方法，以便在设计电脑主板时能够有效地利用各种芯片的功能。
+
+5. 电脑系统调试：熟悉电脑硬件系统的调试技术，熟悉检测和修复电脑故障的方法，能够根据电脑硬件系统的要求进行相应的调试工作。
+####  #前端单元测试怎么测scroll事件 <span class="gpt-item">米粒_Melxy@1:48:37 (还有4次)</span>
+
+
+
+1. 通过模拟用户滚动来触发scroll事件 
+2. 通过模拟滚动条滚动来触发scroll事件 
+3. 通过模拟DOM元素获取位置和大小属性来触发scroll事件 
+4. 通过模拟鼠标滚轮滚动来触发scroll事件
+####  #显卡的驱动是怎么开发的 <span class="gpt-item">让我捡漏吧@1:47:40 (还有11次)</span>
+
+？
+
+显卡的驱动开发是一项复杂的工作，需要考虑到操作系统、显卡硬件、显卡环境及其他设备的特性和兼容性。开发过程包括：
+
+1. 了解操作系统的架构：需要了解操作系统的体系结构，如内核、内存管理和可靠性等，以便开发出高性能的程序。
+
+2. 搜集显卡硬件相关信息：主要包括支持的API、支持的图形技术、支持的显示设备、支持的显示模式等等。
+
+3. 开发显卡驱动程序：开发显卡驱动程序的主要目的是让显卡在操作系统中能够正常工作。开发过程需要考虑到显卡的API、显卡的硬件信息、显卡的环境及其他设备的特性和兼容性。
+
+4. 测试和调试：测试和调试显卡驱动程序是开发过程中必不可少的一步。需要对显卡驱动
 ####  #驱动开发用什么语言 <span class="gpt-item">让我捡漏吧@1:46:38 (还有12次)</span>
 
 
