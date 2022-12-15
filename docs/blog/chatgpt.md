@@ -1,9 +1,9 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 加油啊泡泡</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 2333</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 你好我是机器人</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 你对象是谁呀</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 我什么时候让你去吃饭了</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 在哪里跳舞还是演戏？</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 陈飞宇嘛</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 主播对象是肥zhu</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 还没到饭点呢</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 这么早吃 你吃得下吗</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 对面主包声音很是可爱</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 趁羊不在 我们私奔吧</span></li></ul>
+<ul class="gpt-fix-window"><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 2333</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 你好我是机器人</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 你对象是谁呀</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 我什么时候让你去吃饭了</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 在哪里跳舞还是演戏？</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 陈飞宇嘛</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 主播对象是肥zhu</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 还没到饭点呢</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 这么早吃 你吃得下吗</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 对面主包声音很是可爱</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 趁羊不在 我们私奔吧</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 不是我 我只是个机器人</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 殷殷殷の小哭鯨   :<span style="color:var(--vp-c-brand);"> 趁羊不在 我们私奔吧 </span> 
+::: info 殷殷殷の小哭鯨   :<span style="color:var(--vp-c-brand);"> 不是我 我只是个机器人 </span> 
  <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
