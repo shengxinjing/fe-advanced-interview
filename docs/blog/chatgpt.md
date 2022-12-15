@@ -4,13 +4,125 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>硬伤boy: <span style="color:var(--vp-c-brand);"> 你好，你可以做些什么</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> #你好你可以做些什么</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> #你好你可以做些什么</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #unity开发的游戏可以在哪些平台运行</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> 你的名字是什么？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #按键精灵怎么开发出来的</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> #你的名字是什么</span></li><li>我是脚鱼啊: <span style="color:var(--vp-c-brand);"> 讲个睡眠故事给我听</span></li><li>我是脚鱼啊: <span style="color:var(--vp-c-brand);"> #讲个睡眠故事给我听</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #java怎么调用c</span></li></ul>
+<ul class="gpt-fix-window"><li>米粒_Melxy: <span style="color:var(--vp-c-brand);"> #物种杂合在生物进化中的意义</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++怎么开发网页</span></li><li>硬伤boy: <span style="color:var(--vp-c-brand);"> 这是GPT3吧。chatgpt加了防护</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #怎么绕过软件的录屏检测</span></li><li>米粒_Melxy: <span style="color:var(--vp-c-brand);"> #物种杂合在生物进化中的意义有哪些</span></li><li>玩家八号: <span style="color:var(--vp-c-brand);"> 苹果自带浏览器video标签播不了视频</span></li><li>栈一格: <span style="color:var(--vp-c-brand);"> 能讲一个你不知道的事情吗？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #什么是hook技术</span></li><li>玩家八号: <span style="color:var(--vp-c-brand);"> #苹果自带浏览器video标签播不了视频</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #hook技术学习路线</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #java怎么调用c </span> 
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #hook技术学习路线 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #hook技术学习路线 <span class="gpt-item">让我捡漏吧@2:2:56 (还有1次)</span>
+
+
+
+1. 了解Webhook技术是什么：Webhook是一种网络通信技术，它允许Web服务器将它的变化发送到另一个网络服务器上，以便进行实时通信。
+
+2. 学习Webhook的基本原理：Webhook技术的基本原理是一种客户端/服务器模型，其中服务器持续监视数据库中的变更，并在发生变更时，将此信息发送到客户端。
+
+3. 了解Webhook实现原理：Webhook实现原理是将服务器上的事件发布为HTTP请求，客户端在收到请求后，根据HTTP请求内容执行相应的操作。
+
+4. 学习Webhook的使用场景：Webhook通常用于实现两个系统之间实时、自动化的信息传输，例如当一个网站上发生变化时，它可以自动将该变化发送给其他网站。
+
+5. 学习Webhook的实现方法：Webhook可以通过很多种方式来实现，包括使用HTTP协议，使用WebSocket协
+####  #苹果自带浏览器video标签播不了视频 <span class="gpt-item">玩家八号@2:2:24 (还有4次)</span>
+
+
+
+苹果Safari浏览器默认是不支持HTML5中video标签播放视频的，需要用户在浏览器设置中手动将开启这个功能，在Safari-&gt;偏好设置->高级，勾选“在网页中启用视频自动播放”，然后重启浏览器即可。
+####  #什么是hook技术 <span class="gpt-item">让我捡漏吧@2:1:48 (还有2次)</span>
+
+
+
+Hook技术是一种编程技术，它允许程序在不修改它们原本的代码的情况下，拦截程序的执行流程，从而添加或修改程序的行为。它可以被用来做许多有用的事情，比如实现调试器，记录调用堆栈，或者在程序的某个特定点添加自定义代码。
+####  #物种杂合在生物进化中的意义有哪些 <span class="gpt-item">米粒_Melxy@2:1:8 (还有1次)</span>
+
+?
+
+1、可以增加种群的适应性：杂合染色体中的基因可以给种群带来更多的多样性，从而增强种群的适应性，提高其在环境变化中的生存能力。
+
+2、增强抗病能力：杂合组合的染色体可以抵抗病原体的侵染，因为它拥有多种不同的抗性基因，从而可以抵御病原体的入侵。
+
+3、可以促进物种的进化：杂合染色体可以提供更多的基因组合，从而为物种的进化提供更多的可能性，使物种得以更好地适应不断变化的环境。
+####  #怎么绕过软件的录屏检测 <span class="gpt-item">让我捡漏吧@2:0:51 (还有3次)</span>
+
+
+
+
+1、使用替代品：使用其他屏幕录像软件（如Camtasia）来替换被检测的录像软件，这样可以避免被检测到。 
+
+2、使用虚拟机：使用虚拟机安装被检测的录像软件，这样可以避免被检测到。 
+
+3、混淆数据：使用一些算法来混淆录屏数据，这样可以使软件无法检测出录屏行为。 
+
+4、更改注册表：修改注册表，可以使软件无法识别录屏行为。 
+
+5、Hook技术：使用Hook技术，可以使录屏软件不会被检测到。
+####  #c++怎么开发网页 <span class="gpt-item">让我捡漏吧@1:59:10 (还有4次)</span>
+
+
+
+1. 使用C++开发网页，需要使用一个 Web 服务器，比如 Apache 或者 IIS；
+
+2. 在 Web 服务器上安装一个 CGI 开发框架，比如 Poco、FastCGI 等；
+
+3. 编写 CGI 程序，程序使用 C++ 语言实现，程序处理来自 Web 服务器的请求，并生成 HTML 页面；
+
+4. 把 CGI 程序编译成可执行文件，把可执行文件上传到 Web 服务器上；
+
+5. 通过在浏览器输入网址来访问 CGI 程序，并显示网页页面。
+####  #物种杂合在生物进化中的意义 <span class="gpt-item">米粒_Melxy@1:58:43 (还有2次)</span>
+
+
+
+物种杂合在生物进化中发挥重要作用，它能够使物种获得更多的基因混合，从而使物种的遗传结构更加复杂，形成新的基因组，从而使物种更加适应环境的变化。杂合可以促进物种的进化，使它们更容易适应新的环境和新的挑战。杂合也可以增加物种的遗传多样性，从而使生物种群更加具有竞争力，从而促进物种的演化和发展。此外，杂合也可以减少物种的受体性疾病的风险，使物种的健康状况更好。
+####  #用Java写一个完整的神经网络算法 <span class="gpt-item">硬伤boy@1:57:30 (还有2次)</span>
+
+
+
+public class NeuralNetwork {
+
+    private int inputSize;  // 输入层单元数
+    private int outputSize; // 输出层单元数
+    private int hiddenSize; // 隐藏层单元数
+    private double learningRate; // 学习率
+    private double[][] weights_input_hidden; // 输入层到隐藏层的权重
+    private double[][] weights_hidden_output; // 隐藏层到输出层的权重
+    private double[] hiddenLayer; // 隐藏层单元
+    private double[] outputLayer; // 输出层单元
+
+    public NeuralNetwork(int inputSize, int hiddenSize, int outputSize, double learningRate) {
+        this.inputSize = inputSize;
+        this.outputSize = outputSize;
+        this.hiddenSize = hiddenSize;
+        this.learningRate = learningRate;
+        this.weights_input_hidden = new double[inputSize][hiddenSize];
+        this.weights_hidden_output = new double[hiddenSize][outputSize];
+        this.hiddenLayer = new double[hiddenSize];
+        this.outputLayer = new double[outputSize];
+        this.initialiseWeights();
+    }
+
+    // 初始化权重
+    private void initialiseWeights() {
+        for (int i = 0; i &lt; inputSize; i++) {
+            for (int j = 0; j &lt; hiddenSize; j++) {
+                this.weights_input_hidden[i][j] = Math.random();
+            }
+        }
+        for (int i = 0; i &lt; hiddenSize; i++) {
+            for (int j = 0; j &lt; outputSize; j++) {
+                this.weights_hidden_output[i][j] = Math.random();
+            }
+        }
+    }
+
+    // 前向传播
+    private void forward(double[] input) {
+        // 输入层到隐藏层
+        for (int i = 0; i &lt; hiddenSize; i++) {
+            hiddenLayer[i] = 0;
+            for (int j = 0; j &lt; inputSize; j++) {
+                hiddenLayer[i] += input[j] * weights_input_hidden
 ####  #java怎么调用c <span class="gpt-item">让我捡漏吧@1:56:51 (还有5次)</span>
 
 #
