@@ -4,7 +4,7 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>oben222: <span style="color:var(--vp-c-brand);"> 不是禁了吗</span></li><li>oben222: <span style="color:var(--vp-c-brand);"> 为啥这还可以用</span></li><li>oben222: <span style="color:var(--vp-c-brand);"> #为啥还可以用</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么让cos服看起来不是cos服</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么让cos服看起来不像cos服</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> 1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #，1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好呀，chatgpt</span></li><li>长鼻子大脸猫: <span style="color:var(--vp-c-brand);"> 还在吗</span></li></ul>
+<ul class="gpt-fix-window"><li>oben222: <span style="color:var(--vp-c-brand);"> 为啥这还可以用</span></li><li>oben222: <span style="color:var(--vp-c-brand);"> #为啥还可以用</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么让cos服看起来不是cos服</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么让cos服看起来不像cos服</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> 1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #，1</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>诶这就是---: <span style="color:var(--vp-c-brand);"> #你好呀，chatgpt</span></li><li>长鼻子大脸猫: <span style="color:var(--vp-c-brand);"> 还在吗</span></li><li>清尘帘幕卷清霜: <span style="color:var(--vp-c-brand);"> 发发发</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
