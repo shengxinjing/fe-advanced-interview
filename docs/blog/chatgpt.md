@@ -1,9 +1,9 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 拖堂成瘾啊你</span></li><li>不吃哈士奇: <span style="color:var(--vp-c-brand);"> 哦豁，吃个饭回来还能听到眉间雪</span></li></ul>
+<ul class="gpt-fix-window"><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 你盗头像</span></li><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 是不是你举报我了</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 我的可以送你</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 我这个好看</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 不吃哈士奇   :<span style="color:var(--vp-c-brand);"> 哦豁，吃个饭回来还能听到眉间雪 </span> 
+::: info LlL6T6   :<span style="color:var(--vp-c-brand);"> 我这个好看 </span> 
  <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
