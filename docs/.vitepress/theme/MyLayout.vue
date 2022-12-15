@@ -26,6 +26,9 @@ onMounted(()=>{
         <p class="item">
           <a target="_blank" href="https://appx496fyc38425.h5.xiaoeknow.com/p/decorate/homepage">我的课程首页</a>
         </p>
+        <p>
+          shengxinjing.cn
+        </p>
       </div>
     </template>
 

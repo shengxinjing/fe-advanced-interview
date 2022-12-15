@@ -40,8 +40,18 @@
   position:fixed;
   right:10px;
   bottom:20px;
-  width:240px;
+  width:280px;
   list-style:none;
   /* border:1px solid var(--vp-c-brand); */
   padding:10px;
+  font-size:14px;
+}
+.gpt-item{
+  display:inline-block;
+  float:right;
+}
+.vp-doc p{
+  margin:6px 0;
+  line-height:24px;
+  fong-size:20px;
 }
