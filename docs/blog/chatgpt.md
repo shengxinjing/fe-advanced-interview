@@ -4,13 +4,216 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>鲤先来饵: <span style="color:var(--vp-c-brand);"> 我就是....刚转行</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #视觉slam和深度学习哪个难</span></li><li>CIROCCC: <span style="color:var(--vp-c-brand);"> #怎么研发出跟你一样的ai</span></li><li>鲤先来饵: <span style="color:var(--vp-c-brand);"> #uniapp怎么学的又快又好</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #前端目前什么框架最吃香</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #学习视觉slam需要哪些数学</span></li><li>CIROCCC: <span style="color:var(--vp-c-brand);"> #原画师转行能去哪些行业</span></li><li>鲤先来饵: <span style="color:var(--vp-c-brand);"> #60岁还可以学前端吗</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #考研对前端工程师来说薪资提升大么</span></li><li>冰冰的827: <span style="color:var(--vp-c-brand);"> 怎么炒老板的鱿鱼</span></li></ul>
+<ul class="gpt-fix-window"><li>千慕栻: <span style="color:var(--vp-c-brand);"> #前端简历应该怎么写</span></li><li>Daniel8642: <span style="color:var(--vp-c-brand);"> #vue项目如何从js迁移到ts</span></li><li>千慕栻: <span style="color:var(--vp-c-brand);"> #vite与webpack对比的优缺点</span></li><li>爱喝酸奶的杰瑞呀: <span style="color:var(--vp-c-brand);"> #vue生命周期</span></li><li>Daniel8642: <span style="color:var(--vp-c-brand);"> #golang里的泛型该怎么用</span></li><li>月夜枫儿: <span style="color:var(--vp-c-brand);"> #你是什么机器语言写的</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #安卓开发怎么修改内存读写内存</span></li><li>学习小丸子: <span style="color:var(--vp-c-brand);"> #迁移学习综述</span></li><li>让心丶随风飘: <span style="color:var(--vp-c-brand);"> vue生命周期</span></li><li>学习小丸子: <span style="color:var(--vp-c-brand);"> #汽油能用来炒菜吗</span></li></ul>
 
-::: danger 感谢礼物: 千慕栻 投喂了1 个  粉丝团灯牌(使用次数+10)
+::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 千慕栻   :<span style="color:var(--vp-c-brand);"> #考研对前端工程师来说薪资提升大么 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 学习小丸子   :<span style="color:var(--vp-c-brand);"> #汽油能用来炒菜吗 </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
+####  #迁移学习综述 <span class="gpt-item">学习小丸子@23:55:40 (还有2次)</span>
+
+
+
+迁移学习是一种机器学习技术，它将在源域中学习到的知识迁移到目标域，以提高目标域的性能。迁移学习的主要目的是减少源域和目标域之间的差距，从而提高算法的性能。迁移学习的一般步骤包括：（1）收集源域和目标域的数据；（2）设计和实现迁移学习算法；（3）评估算法的性能。
+
+目前，主要有两种迁移学习方法：形式化迁移学习和实例基迁移学习。形式化迁移学习是一种基于模型的迁移学习，它使用源域的模型参数和特征来构建一个新的模型来更新目标域的模型参数。实例基迁移学习是一种基于实例的迁移学习，它将源域的实例和标签用于更新目标域的实例和标签。
+
+迁移学习已经广泛应用
+####  #安卓开发怎么修改内存读写内存 <span class="gpt-item">让我捡漏吧@23:55:9 (还有0次)</span>
+
+
+
+1. 使用Android NDK，可以使用C/C++编写一些底层的代码，可以直接访问系统内存，从而改变内存读写行为。
+
+2. 使用Android JNI，可以使用Java来调用C/C++代码，实现对内存读写的控制。
+
+3. 使用Android自带的内存管理API，这些API可以控制应用程序对内存的读写行为。
+####  #golang里的泛型该怎么用 <span class="gpt-item">Daniel8642@23:53:11 (还有3次)</span>
+
+
+
+Golang是一门本身不支持泛型的语言，但是可以通过接口的方式来模拟泛型的使用。通过接口可以让不同的数据类型共享同一个接口，在代码实现上可以实现类似泛型的效果。
+
+一个简单的例子：
+
+type Item interface {
+    GetName() string
+}
+
+type Book struct {
+    Name string
+}
+
+func (b Book) GetName() string {
+    return b.Name
+}
+
+type Pen struct {
+    Name string
+}
+
+func (p Pen) GetName() string {
+    return p.Name
+}
+
+func PrintItemName(item Item) {
+    fmt.Println(item.GetName())
+}
+
+func main() {
+    book := Book{Name:"Book"}
+    pen := Pen{Name:"Pen"}
+    PrintItemName(book)
+    PrintItemName(pen)
+}
+
+通过上面的例子，我们可以看到，Book和Pen都实现了Item接口，然后就可以通过PrintItemName函数调用这两个类型的名字了，实现了类似泛型的效果。
+####  #vue生命周期 <span class="gpt-item">爱喝酸奶的杰瑞呀@23:53:3 (还有4次)</span>
+
+
+
+**Vue实例的生命周期包括8个钩子函数** 
+
+1. beforeCreate: 实例刚刚被创建，但是挂载阶段还没有开始，$el和data都是不可用的
+
+2. created:  实例已经创建完成，此时可以通过this访问实例以及实例中的方法和数据，此时还不能访问dom
+
+3. beforeMount: 挂载之前，此时可以获取到dom节点
+
+4. mounted: 实例被挂载后调用，可以获取到dom，使用$refs访问dom
+
+5. beforeUpdate: 数据更新之前调用，此时data已经更新，但是dom还没有更新
+
+6. updated: 数据更新之后调用，此时dom已经更新
+
+7. beforeDestroy: 实例销毁之前调用，此时可以调用实例的方法或者访问实例的属性
+
+8. destroyed: 实例销毁后调用，此时实例已经被销毁，所以不能访问实例以及实例中的任何东西
+####  #vite与webpack对比的优缺点 <span class="gpt-item">千慕栻@23:53:0 (还有7次)</span>
+
+
+
+**优点**
+- Grunt:
+  - 简单：Grunt是一款文件压缩工具，操作简单，无需学习复杂的语法，可以非常容易地完成工作。
+  - 功能丰富：可以安装插件来实现各种功能，可以完成压缩、混淆、测试、部署等任务。
+- Webpack:
+  - 模块化：Webpack支持模块化，可以将每个文件当作一个模块，维护和管理起来更加方便。
+  - 打包速度快：Webpack打包效率高，可以更快的将文件打包成一个文件，减少文件请求次数。
+
+**缺点**
+- Grunt:
+  - 操作复杂：Grunt需要编写配置文件，定义任务，操作起来比较复杂，对新手不太友好。
+  - 配置文件繁琐：配置文件定义任务，但是配置文件内容繁琐，不够直观。
+- Webpack:
+  - 学习曲线陡峭：Webpack比较复杂，需要学习很
+####  #vue项目如何从js迁移到ts <span class="gpt-item">Daniel8642@23:50:40 (还有4次)</span>
+
+
+
+1. 首先，在项目根目录下新建tsconfig.json文件，将ts相关配置写入该文件中；
+
+2. 将js文件重命名为ts文件，并且将js代码改写为ts代码；
+
+3. 将需要引入的第三方库，设置类型声明，以便于ts能够正确的识别；
+
+4. 在vue-cli项目的入口文件main.js中，尽量不要使用require进行模块加载，而是使用import，因为ts不支持require；
+
+5. 在vue文件中使用ts的模块，不要忘记在文件的开头声明：&lt;script lang="ts"&gt;；
+
+6. 根据项目情况进行必要的类型声明；
+
+7. 使用tslint对ts代码进行静态检查；
+
+8. 在tsconfig.json中配置handler来处理编译错误；
+
+9. 运行tsc命令，编译ts文件，编译完成后，可以通过运行npm run dev命令运行项目。
+####  #前端简历应该怎么写 <span class="gpt-item">千慕栻@23:49:8 (还有8次)</span>
+
+
+
+1. 个人信息
+
+姓名：XXX
+
+年龄：XX
+
+性别：XX
+
+电话：XX
+
+邮箱：XX
+
+2. 技能
+
+良好的HTML、CSS、JavaScript和jQuery编程能力；
+
+使用Bootstrap、Vue.js、React等前端框架进行网页开发；
+
+熟练使用Angular、Node.js等技术；
+
+掌握Ajax、JSON等WEB开发技术；
+
+熟练使用Chrome等浏览器开发工具检查和调试网站；
+
+能够使用Git进行版本管理；
+
+掌握Photoshop和Illustrator等图像处理工具。
+
+3. 项目经验
+
+1）XX网站：使用HTML、CSS、JavaScript和jQuery等技术对XX网站进行重构，使用响应式设计，实现在不同设备上的流畅浏览；
+
+2）XX App：使用Vue.js和Bootstrap技术开发了XX App，实现了网站内容的快速浏览；
+
+3）XX系统：使用Angular和Node.js技术开发了XX系统，提高了网站的可扩展性。
+
+4. 自我评价
+
+我有
+####  #AI领域中门槛最低的分支是哪个 <span class="gpt-item">让我捡漏吧@23:48:49 (还有1次)</span>
+
+？
+
+最低门槛的AI分支是机器学习（Machine Learning）。机器学习是一种人工智能，它使用算法通过分析历史数据来自动学习和预测未来的行为。机器学习的核心目标是找到数据之间的关系，从而使计算机系统能够自动做出正确的决定。
+####  #深度优化遍历 <span class="gpt-item">冰冰的827@23:48:15 (还有4次)</span>
+
+
+//空间复杂度O(n^2)
+public class Solution2 {
+    public int maxEnvelopes(int[][] envelopes) {
+        int len = envelopes.length;
+        if (len &lt; 2) {
+            return len;
+        }
+        Arrays.sort(envelopes, new Comparator&lt;int[]&gt;() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[0] - o2[0];
+            }
+        });
+
+        int[] dp = new int[len];
+        int maxLen = 0;
+        for (int i = 0; i &lt; len; i++) {
+            dp[i] = 1;
+            for (int j = 0; j &lt; i; j++) {
+                if (envelopes[i][0] > envelopes[j][0]
+                        && envelopes[i][1] > envelopes[j][1]) {
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
+                }
+            }
+            maxLen = Math.max(maxLen, dp[i]);
+        }
+        return maxLen;
+    }
+}
+####  #这个世界明天会好吗 <span class="gpt-item">波哩Boli@23:47:41 (还有4次)</span>
+
+？
+
+这取决于我们今天做什么！只要我们继续努力，就可以让明天变得更好！
 ####  #考研对前端工程师来说薪资提升大么 <span class="gpt-item">千慕栻@23:46:28 (还有9次)</span>
 
 
