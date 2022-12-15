@@ -31,3 +31,17 @@
   border: 1px solid var(--vp-c-brand);
   border-radius: 4px;
 }
+
+.vp-doc h2{
+  margin:16px 0;
+}
+
+.gpt-fix-window{
+  position:fixed;
+  right:10px;
+  bottom:20px;
+  width:240px;
+  list-style:none;
+  /* border:1px solid var(--vp-c-brand); */
+  padding:10px;
+}

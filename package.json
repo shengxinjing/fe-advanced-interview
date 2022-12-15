@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs --port 8080",
     "build": "vitepress build docs",
@@ -10,7 +11,9 @@
   },
   "dependencies": {
     "axios": "^1.2.0",
+    "bilibili-live-ws": "^6.2.1",
     "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0",
     "vitepress": "1.0.0-alpha.20",
     "vue": "^3.2.41"
   },
