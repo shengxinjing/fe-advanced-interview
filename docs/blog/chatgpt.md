@@ -4,13 +4,31 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>荔枝啊苏珊: <span style="color:var(--vp-c-brand);"> #程序员比流水线工人那点强？</span></li><li>南充铁拐李: <span style="color:var(--vp-c-brand);"> #666</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于Unity的论文</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li><li>嗯哼chou: <span style="color:var(--vp-c-brand);"> 为啥我让它写代码它说没配置环境</span></li><li>双一次元君: <span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？</span></li><li>哈罗曦: <span style="color:var(--vp-c-brand);"> #戒熬夜方法</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> 你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁啊啊</span></li></ul>
+<ul class="gpt-fix-window"><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于Unity的论文</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li><li>嗯哼chou: <span style="color:var(--vp-c-brand);"> 为啥我让它写代码它说没配置环境</span></li><li>双一次元君: <span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？</span></li><li>哈罗曦: <span style="color:var(--vp-c-brand);"> #戒熬夜方法</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> 你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁啊啊</span></li><li>JetNg: <span style="color:var(--vp-c-brand);"> #哪种烟好抽</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #怎么才能早起</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 光芒伞   :<span style="color:var(--vp-c-brand);"> #你是谁啊啊 </span> 
+::: info 大圣编程课堂   :<span style="color:var(--vp-c-brand);"> #怎么才能早起 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #怎么才能早起 <span class="gpt-item">大圣编程课堂@5:7:4 (还有0次)</span>
+
+
+
+1. 制定一个早起计划：根据自己的情况，制定一个可行的早起计划，比如每天都在一个特定的时间起床，比如每天6点起床。
+
+2. 对自己负责：要记得每天都要严格的遵守早起计划，责任感很重要，容易让人更有动力早起。
+
+3. 打起精神：有时候晚上10点还没睡，早上6点就要起床，这时候就要给自己激励，比如起床后可以喝杯热茶，吃点安神的水果，让自己精神一点。
+
+4. 调整生活节奏：早起不仅仅要调整自己的睡眠习惯，还要调整自己的作息节奏，比如晚上不要吃得太晚，或者不要熬夜等等。
+
+5. 持之以恒：最后，要坚持做，每天都要坚持起床，不管有没有进步，只要一直坚持，总会有进步的。
+####  #哪种烟好抽 <span class="gpt-item">JetNg@4:58:8 (还有4次)</span>
+
+
+
+这个要看个人喜欢，有的人喜欢吃辣的烟，有的人喜欢吃淡的烟，有的人喜欢吃香的烟，各有所爱，没有哪种是绝对好抽的，建议自己去尝试，选出自己喜欢的烟。
 ####  #你是谁啊啊 <span class="gpt-item">光芒伞@4:39:25 (还有4次)</span>
 
 
