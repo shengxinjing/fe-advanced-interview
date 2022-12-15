@@ -4,12 +4,12 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li><li>大帅哥hhhh6: <span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数</span></li><li>荔枝啊苏珊: <span style="color:var(--vp-c-brand);"> #程序员比流水线工人那点强？</span></li><li>南充铁拐李: <span style="color:var(--vp-c-brand);"> #666</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于Unity的论文</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li><li>嗯哼chou: <span style="color:var(--vp-c-brand);"> 为啥我让它写代码它说没配置环境</span></li><li>双一次元君: <span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？</span></li></ul>
+<ul class="gpt-fix-window"><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li><li>大帅哥hhhh6: <span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数</span></li><li>荔枝啊苏珊: <span style="color:var(--vp-c-brand);"> #程序员比流水线工人那点强？</span></li><li>南充铁拐李: <span style="color:var(--vp-c-brand);"> #666</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于Unity的论文</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li><li>嗯哼chou: <span style="color:var(--vp-c-brand);"> 为啥我让它写代码它说没配置环境</span></li><li>双一次元君: <span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？</span></li><li>哈罗曦: <span style="color:var(--vp-c-brand);"> #戒熬夜方法</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 双一次元君   :<span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？ </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 哈罗曦   :<span style="color:var(--vp-c-brand);"> #戒熬夜方法 </span> 
+ <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
 :::
 ####  #你和人比谁更聪明？ <span class="gpt-item">双一次元君@3:55:24 (还有4次)</span>
 
