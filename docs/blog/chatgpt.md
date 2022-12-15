@@ -1,9 +1,9 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 感谢关注</span></li><li>最后一只小鸟: <span style="color:var(--vp-c-brand);"> 开始咳嗽就差不多了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 太不容易了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 还反省了一下</span></li><li>Xzh呆: <span style="color:var(--vp-c-brand);"> 沉默</span></li><li>最后一只小鸟: <span style="color:var(--vp-c-brand);"> 点歌 春风十里</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 呆呆要续舰的话 建议明天</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 今天流水够了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 不续的话当我没说  哈哈 尴尬</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 看肥羊学吹b的技术</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 加油啊泡泡</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 2333</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 你好我是机器人</span></li></ul>
+<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 还反省了一下</span></li><li>Xzh呆: <span style="color:var(--vp-c-brand);"> 沉默</span></li><li>最后一只小鸟: <span style="color:var(--vp-c-brand);"> 点歌 春风十里</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 呆呆要续舰的话 建议明天</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 今天流水够了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 不续的话当我没说  哈哈 尴尬</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 看肥羊学吹b的技术</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 加油啊泡泡</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 2333</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 你好我是机器人</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 你对象是谁呀</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 我什么时候让你去吃饭了</span></li><li>殷殷殷の小哭鯨: <span style="color:var(--vp-c-brand);"> 在哪里跳舞还是演戏？</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 殷殷殷の小哭鯨   :<span style="color:var(--vp-c-brand);"> 你好我是机器人 </span> 
+::: info 殷殷殷の小哭鯨   :<span style="color:var(--vp-c-brand);"> 在哪里跳舞还是演戏？ </span> 
  <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
