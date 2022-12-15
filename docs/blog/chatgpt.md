@@ -1,9 +1,9 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 我可以去升牌牌吗</span></li><li>LittleTian-: <span style="color:var(--vp-c-brand);"> 青老师昨晚烧坏了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 第一次听到</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 荷包蛋撒娇</span></li><li>电气姬EA: <span style="color:var(--vp-c-brand);"> 笑死了 我不在就撒娇</span></li><li>电气姬EA: <span style="color:var(--vp-c-brand);"> 删了拉黑了</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 可以啊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 荷包蛋</span></li><li>最后一只小鸟: <span style="color:var(--vp-c-brand);"> 还没开 先点首歌</span></li><li>最后一只小鸟: <span style="color:var(--vp-c-brand);"> 袖手旁观</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 点歌   情歌</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 梁静茹的</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 好的肥羊zhubi</span></li></ul>
+<ul class="gpt-fix-window"><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 拖堂成瘾啊你</span></li><li>不吃哈士奇: <span style="color:var(--vp-c-brand);"> 哦豁，吃个饭回来还能听到眉间雪</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 烟花易纷   :<span style="color:var(--vp-c-brand);"> 好的肥羊zhubi </span> 
+::: info 不吃哈士奇   :<span style="color:var(--vp-c-brand);"> 哦豁，吃个饭回来还能听到眉间雪 </span> 
  <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
