@@ -4,12 +4,12 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li><li>嗯哼chou: <span style="color:var(--vp-c-brand);"> 为啥我让它写代码它说没配置环境</span></li><li>双一次元君: <span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？</span></li><li>哈罗曦: <span style="color:var(--vp-c-brand);"> #戒熬夜方法</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> 你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁啊啊</span></li><li>JetNg: <span style="color:var(--vp-c-brand);"> #哪种烟好抽</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #怎么才能早起</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #怎样才能成为编程高手</span></li></ul>
+<ul class="gpt-fix-window"><li>哈罗曦: <span style="color:var(--vp-c-brand);"> #戒熬夜方法</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> 你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>光芒伞: <span style="color:var(--vp-c-brand);"> #你是谁啊啊</span></li><li>JetNg: <span style="color:var(--vp-c-brand);"> #哪种烟好抽</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #怎么才能早起</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #怎样才能成为编程高手</span></li><li>oben222: <span style="color:var(--vp-c-brand);"> 不是禁了吗</span></li><li>oben222: <span style="color:var(--vp-c-brand);"> 为啥这还可以用</span></li><li>oben222: <span style="color:var(--vp-c-brand);"> #为啥还可以用</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 大圣编程课堂   :<span style="color:var(--vp-c-brand);"> #怎样才能成为编程高手 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info oben222   :<span style="color:var(--vp-c-brand);"> #为啥还可以用 </span> 
+ <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
 :::
 ####  #怎样才能成为编程高手 <span class="gpt-item">大圣编程课堂@05:15:18 (还有19次)</span>
 
