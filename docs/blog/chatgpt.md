@@ -4,13 +4,23 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>栈一格: <span style="color:var(--vp-c-brand);"> 能讲一个你不知道的事情吗？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #什么是hook技术</span></li><li>玩家八号: <span style="color:var(--vp-c-brand);"> #苹果自带浏览器video标签播不了视频</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #hook技术学习路线</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #react和vue的特点分别是什么</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #2023届秋招的情况怎么样？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #你为什么有时候会答非所问？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #当程序员更赚钱，还是开培训班更赚钱？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list</span></li></ul>
+<ul class="gpt-fix-window"><li>clau1: <span style="color:var(--vp-c-brand);"> #react和vue的特点分别是什么</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #2023届秋招的情况怎么样？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #你为什么有时候会答非所问？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #当程序员更赚钱，还是开培训班更赚钱？</span></li><li>clau1: <span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list</span></li><li>啵一杯: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info clau1   :<span style="color:var(--vp-c-brand);"> #用vue框架写一个to do list </span> 
+::: info 七层楼辣么高   :<span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #介绍下iOS的runtime <span class="gpt-item">七层楼辣么高@2:25:21 (还有3次)</span>
+
+
+
+iOS的Runtime是一种面向对象的动态语言运行时环境，它是iOS系统的一部分，为Objective-C提供运行时支持。它允许开发者在运行时动态更改类和实例变量，实现动态加载、消息转发、方法替换等功能。它也提供了一些C语言接口，用于访问和操作对象，实现动态类型检查和方法调用。
+####  #听说你想毁灭人家? <span class="gpt-item">小孩的嘟嘟嘟@2:23:53 (还有4次)</span>
+
+
+
+这种想法不应该有的，我们应该关注的是如何建立一个更加美好的世界，而不是毁灭人家。
 ####  #用vue框架写一个to do list <span class="gpt-item">clau1@2:15:20 (还有0次)</span>
 
 
