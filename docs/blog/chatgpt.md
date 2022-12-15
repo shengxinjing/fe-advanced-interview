@@ -4,13 +4,113 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++开发桌面应用和C#开发有何区别</span></li><li>bili_73061922978: <span style="color:var(--vp-c-brand);"> 你能问我个问题吗</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++怎么开发安卓app</span></li><li>bili_73061922978: <span style="color:var(--vp-c-brand);"> #你能问我个问题吗</span></li><li>压轴小丑0.0: <span style="color:var(--vp-c-brand);"> #怎么还不睡</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++开发安卓app有哪些库</span></li><li>压轴小丑0.0: <span style="color:var(--vp-c-brand);"> #我阳了，很难受，怎么办？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust能否开发AR眼镜应用</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust有哪些库用来开发AR应用</span></li><li>勤更歌单的eddie: <span style="color:var(--vp-c-brand);"> C#-winform三层架构是指什么</span></li></ul>
+<ul class="gpt-fix-window"><li>勤更歌单的eddie: <span style="color:var(--vp-c-brand);"> C#-winform三层架构是指什么</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust有哪些目标检测框架</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust怎么实现控制鼠标驱动使鼠标移动</span></li><li>33571703588_bili: <span style="color:var(--vp-c-brand);"> 各位，前端学flutter 咋样</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust怎么实现在win平台上修改内存</span></li><li>嘻嘻嘻卡丘: <span style="color:var(--vp-c-brand);"> #择时选股有哪些指标</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #游戏是怎么检测内存被修改的</span></li><li>嘻嘻嘻卡丘: <span style="color:var(--vp-c-brand);"> #择时选股的代码框架</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust有哪些视觉slam的库</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #深度学习和机器学习哪个容易些</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #rust有哪些库用来开发AR应用 </span> 
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #深度学习和机器学习哪个容易些 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #深度学习和机器学习哪个容易些 <span class="gpt-item">让我捡漏吧@1:16:4 (还有12次)</span>
+
+？
+
+这取决于你的开发背景，也取决于你要实现的任务。如果你有较强的数学和编程能力，对深度学习和机器学习技术都有所了解，那么深度学习可能会比机器学习更容易一些。如果你只是想实现某些简单的任务，机器学习可能更容易实现。
+####  #rust有哪些视觉slam的库 <span class="gpt-item">让我捡漏吧@1:14:52 (还有13次)</span>
+
+？
+
+很遗憾，Rust目前没有视觉SLAM库。但是，Rust在这方面有一些可用的库，如VINS-Mono，VINS-Fusion和OKVIS，它们可以用来实现视觉定位和地图构建功能。
+####  #择时选股的代码框架 <span class="gpt-item">嘻嘻嘻卡丘@1:13:8 (还有4次)</span>
+
+
+
+1. 市场研究：调查市场环境，分析行业发展趋势，了解投资机会和风险。
+
+2. 二级市场分析：分析股票的价格和技术指标，选择长期和短期投资组合。
+
+3. 公司分析：研究公司的财务报表，比较其与其他公司或行业的比较，了解公司发展和投资情况。
+
+4. 信息获取：追踪股票市场动态，定期收集公司报表和新闻媒体报道，获取新信息。
+
+5. 评估：根据市场研究、二级市场分析、公司分析和信息获取的结果，对潜在投资机会进行评估，确定合适的投资组合。
+
+6. 风险控制：通过投资组合管理、投资策略制定、投资交易操作等措施，有效控制投资风险。
+####  #游戏是怎么检测内存被修改的 <span class="gpt-item">让我捡漏吧@1:12:45 (还有14次)</span>
+
+
+
+1. 使用特殊的可执行文件格式，这种文件格式可以防止内存被修改。
+
+2. 对内存进行加密，这种方法可以防止外部程序或恶意程序修改内存。
+
+3. 使用反调试技术，可以检测是否有恶意程序对内存进行了修改。
+
+4. 使用数字签名技术，可以检测内存中的数据是否被篡改。
+####  #rust怎么实现在win平台上修改内存 <span class="gpt-item">让我捡漏吧@1:11:15 (还有4次)</span>
+
+
+
+在Windows平台上，可以使用Rust的内存修改库来修改内存。可以使用memory库来实现：
+
+1. 安装memory Crate
+
+可以使用cargo安装memory crate：
+
+$ cargo install memory
+
+2. 加载内存模块
+
+将以下代码添加到您的Rust程序中：
+
+extern crate memory;
+
+3. 使用memory crate
+
+接下来，您可以使用memory crate提供的API来访问和修改内存，例如：
+
+use memory::{Read, Write};
+
+// 获取一个指向内存的指针
+let mut ptr = 0xDEADBEEF as *mut u8;
+
+// 读取内存的值
+let value = unsafe { Read::read(ptr) };
+
+// 修改内存的值
+unsafe { Write::write(ptr, 0xBEEFDEAD) };
+####  #rust怎么实现控制鼠标驱动使鼠标移动 <span class="gpt-item">让我捡漏吧@1:9:38 (还有0次)</span>
+
+？
+
+使用Rust的winapi库可以实现控制鼠标驱动使鼠标移动的功能。
+
+使用winapi库，可以调用SetCursorPos函数，该函数可以设置鼠标的位置，从而控制鼠标移动。
+
+例如：
+
+use winapi::um::winuser::SetCursorPos;
+
+fn move_mouse(x: i32, y: i32) {
+    unsafe {
+        SetCursorPos(x, y);
+    }
+}
+####  #rust有哪些目标检测框架 <span class="gpt-item">让我捡漏吧@1:7:29 (还有1次)</span>
+
+
+
+Rust目前支持的目标检测框架有：
+
+- Rust-YOLO：基于YOLOv3架构的开源项目，可以实现实时的目标检测。
+
+- Rust-RetinaNet：基于RetinaNet架构的开源项目，可以实现实时的目标检测。
+
+- Rust-SSD：基于SSD架构的开源项目，可以实现快速，准确的目标检测。
+
+- Rust-FasterRCNN：基于FasterRCNN架构的开源项目，可以实现高精度的目标检测。
+
+- Rust-MaskRCNN：基于MaskRCNN架构的开源项目，可以实现实时的目标检测，同时可以检测出目标的轮廓。
 ####  #rust有哪些库用来开发AR应用 <span class="gpt-item">让我捡漏吧@1:5:17 (还有2次)</span>
 
 
