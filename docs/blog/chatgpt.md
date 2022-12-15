@@ -1,9 +1,9 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>雕光徒: <span style="color:var(--vp-c-brand);"> 《准点下班》</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 再见</span></li><li>登云拦青空: <span style="color:var(--vp-c-brand);"> 你可以走了</span></li><li>登云拦青空: <span style="color:var(--vp-c-brand);"> 你不走我走</span></li><li>雕光徒: <span style="color:var(--vp-c-brand);"> 杠精</span></li></ul>
+<ul class="gpt-fix-window"><li>登云拦青空: <span style="color:var(--vp-c-brand);"> 不听，不好听</span></li><li>雕光徒: <span style="color:var(--vp-c-brand);"> 今天辛苦啦~~~~</span></li><li>登云拦青空: <span style="color:var(--vp-c-brand);"> 磨磨唧唧</span></li><li>雕光徒: <span style="color:var(--vp-c-brand);"> 好好休息，别感冒啦~</span></li><li>雕光徒: <span style="color:var(--vp-c-brand);"> 晚安~</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> ～～～～</span></li><li>不吃哈士奇: <span style="color:var(--vp-c-brand);"> ✔</span></li><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 快走</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> √</span></li><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 吃你、</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 雕光徒   :<span style="color:var(--vp-c-brand);"> 杠精 </span>     
+::: info _唐唐君子   :<span style="color:var(--vp-c-brand);"> 吃你、 </span>     
  弹幕字数少于5，不算数哦
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
