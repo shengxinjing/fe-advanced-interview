@@ -4,13 +4,201 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #用钕磁铁做霍尔发电机可以提供多少瓦的电</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js将字符串转义为regex普通字符串</span></li><li>传世月: <span style="color:var(--vp-c-brand);"> #就是觉得不</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js函数将正则字符串转义为普通字符串</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #帮我混淆一下这行js代码var a</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js函数将普通字符串转义避免被正则处理</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #怎么理解N=NP问题</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #汇编语言有哪些</span></li><li>快播毕业生: <span style="color:var(--vp-c-brand);"> 6</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #ARM汇编语言怎么学习</span></li></ul>
+<ul class="gpt-fix-window"><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> #js函数regex之前转义</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #用ARM汇编语言实现一个队列</span></li><li>Silver_horn_king: <span style="color:var(--vp-c-brand);"> 压根没这个函数</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #ARM汇编语言怎么跑起来</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #x86汇编和ARM汇编哪个难</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #怎么在安卓手机上跑windows</span></li><li>rambuild: <span style="color:var(--vp-c-brand);"> #太阳和星星哪个更大</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #驱动是怎么开发的</span></li><li>小明阿达西: <span style="color:var(--vp-c-brand);"> 1</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #驱动开发用什么语言</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #ARM汇编语言怎么学习 </span> 
- <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #驱动开发用什么语言 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #驱动开发用什么语言 <span class="gpt-item">让我捡漏吧@1:46:38 (还有12次)</span>
+
+
+
+驱动开发一般使用C语言或C++语言来实现，也有部分使用其他语言的，比如Java、Python等。
+####  #驱动是怎么开发的 <span class="gpt-item">让我捡漏吧@1:45:39 (还有13次)</span>
+
+
+
+驱动程序的开发通常可以分为以下几个步骤：
+
+（1）硬件设备设计和分析：分析硬件设备的结构和功能，设计出驱动程序的原型；
+
+（2）编写驱动程序：根据硬件设备的设计，编写驱动程序代码；
+
+（3）编译和调试：将驱动程序代码编译成可执行文件，并对程序进行调试；
+
+（4）安装：将驱动程序文件安装在计算机中；
+
+（5）测试：测试驱动程序，确保程序正常工作；
+
+（6）更新：根据硬件设备的变化，不断更新驱动程序，以保证其可以正常工作。
+####  #太阳和星星哪个更大 <span class="gpt-item">rambuild@1:45:17 (还有4次)</span>
+
+
+
+太阳更大。太阳的直径是1392000公里，而普通恒星的直径一般在几十到几百万公里之间。
+####  #怎么在安卓手机上跑windows <span class="gpt-item">让我捡漏吧@1:44:38 (还有14次)</span>
+
+系统
+
+目前全球市场上没有安卓机器支持安装Windows系统的。但是，通过运行虚拟机软件，可以在安卓手机上运行Windows系统。可以下载一些虚拟机软件，比如BlueStacks、AndY、GenyMotion等，使用这些虚拟机软件，就可以在安卓手机上安装Windows系统，从而实现安卓手机上跑Windows系统的目的。
+####  #x86汇编和ARM汇编哪个难 <span class="gpt-item">让我捡漏吧@1:43:30 (还有15次)</span>
+
+点更大？
+
+一般来说，ARM汇编比x86汇编难点更大，因为ARM汇编指令更多，而且更复杂，汇编语言也更复杂，另外，ARM汇编指令支持更多操作系统、处理器架构和处理器架构，所以编程者需要更多的知识和技能才能编写出ARM汇编程序。
+####  #ARM汇编语言怎么跑起来 <span class="gpt-item">让我捡漏吧@1:42:1 (还有16次)</span>
+
+
+
+ARM汇编语言可以通过安装合适的软件来运行，如果是Linux环境，可以安装GNU ARM汇编器（GAS）；如果是Windows环境，可以安装ARM封装工具（ARM-GCC）；如果是Android环境，可以安装Android NDK。安装完成以后，可以使用编辑器（如Sublime Text、 Notepad++、Vim等）来编写ARM汇编代码，然后使用GAS或ARM-GCC编译器来编译和链接汇编代码，生成可执行文件，最后通过模拟器或者实物硬件来运行可执行文件。
+####  #用ARM汇编语言实现一个队列 <span class="gpt-item">让我捡漏吧@1:40:27 (还有17次)</span>
+
+
+
+;定义全局寄存器
+AREA |.data|, DATA, READONLY
+EXPORT __ds_queue_init
+
+;定义队列结构体
+queue_t STRUCT
+    head        DD
+    tail        DD
+    size        DD
+    capacity    DD
+    buffer      DD
+ENDSTRUCT
+
+;定义队列结构体变量
+queue        SPACE 8
+
+;定义函数__ds_queue_init
+__ds_queue_init
+    ;将队列结构体的head, tail, size设置为0
+    LDR R0, =queue
+    MOV R1, #0
+    STR R1, [R0, #0]
+    STR R1, [R0, #4]
+    STR R1, [R0, #8]
+
+    ;将队列结构体的capacity设置为用户指定的值
+    LDR R1, [R0, #12]
+    STR R1, [R0, #12]
+
+    ;将队列结构体的buffer设置为用户指定的值
+    LDR R1, [R0, #16]
+    STR R1, [R0, #16]
+
+    ;返回
+    MOV R0, #0
+    BX LR
+END
+####  #js函数regex之前转义 <span class="gpt-item">Silver_horn_king@1:40:4 (还有1次)</span>
+
+
+
+在使用正则表达式之前，你需要使用JavaScript的backslash()函数来转义特殊字符。此函数会将字符串中的特殊字符转义为可以在正则表达式中使用的字符。例如，backslash("+")将会返回"\\+"，这是一个可以在正则表达式中使用的字符。
+####  #js regex 之前转义 <span class="gpt-item">Silver_horn_king@1:39:16 (还有2次)</span>
+
+
+
+在使用 JavaScript 正则表达式之前，字符串必须先经过转义才能被正确处理。转义是指将特殊字符（如字母、数字或其他字符）转换为可以在正则表达式中使用的字符。最常用的转义字符是反斜杠（\），它可以将普通字符转换为元字符或特殊字符。
+
+例如，如果要匹配字符串中的斜杠，就需要在正则表达式中使用 \/ 来表示斜杠。
+####  #用ARM汇编语言实现一个简单计算器 <span class="gpt-item">让我捡漏吧@1:38:59 (还有3次)</span>
+
+
+
+.data
+
+num1: .word 0
+num2: .word 0
+msg1: .asciz "Please enter the first number: "
+msg2: .asciz "Please enter the second number: "
+
+.text
+
+.global main
+
+main:
+
+ldr r0, =msg1
+bl printf
+
+ldr r1, =num1
+ldr r0, [r1]
+bl scanf
+
+ldr r0, =msg2
+bl printf
+
+ldr r2, =num2
+ldr r0, [r2]
+bl scanf
+
+mov r3, r0
+mov r0, r1
+
+bl add
+
+mov r1, r3
+bl subtract
+
+mov r2, r3
+
+bl multiply
+
+mov r1, r3
+bl divide
+
+b exit
+
+add:
+
+add r0, r1
+mov pc, lr
+
+subtract:
+
+sub r0, r2
+mov pc, lr
+
+multiply:
+
+mul r0, r2
+mov pc, lr
+
+divide:
+
+sdiv r0, r1
+mov pc, lr
+
+exit:
+
+mov r0, #0
+mov pc, lr
+####  #ARM汇编语言怎么学习 <span class="gpt-item">让我捡漏吧@1:37:24 (还有4次)</span>
+
+
+
+ARM汇编语言学习需要掌握以下几点：
+
+1、了解ARM处理器的结构，指令系统和寻址模式；
+
+2、掌握ARM汇编语言的指令集，熟悉指令的功能和操作；
+
+3、学习ARM汇编语言编程技巧，如跳转指令、数据处理指令、内存操作指令等；
+
+4、熟悉寻址方式，了解在ARM汇编语言中如何实现对内存空间的访问；
+
+5、理解ARM汇编语言的控制流程指令，掌握控制流程结构；
+
+6、理解ARM汇编语言的汇编程序调试技术，熟练使用调试工具；
+
+7、学习ARM汇编语言的系统编程，掌握ARM汇编语言的系统服务调用技术；
+
+8、熟悉常见的ARM处理器，了解ARM处理器的特点和应用。
 ####  #汇编语言有哪些 <span class="gpt-item">让我捡漏吧@1:36:31 (还有0次)</span>
 
 ？
