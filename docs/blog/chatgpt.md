@@ -4,13 +4,98 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #ar开发有哪些sdk或者库</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #AR眼镜开发有哪些sdk或者库</span></li><li>一个布里茨: <span style="color:var(--vp-c-brand);"> #fink应用领域</span></li><li>铭KK先森: <span style="color:var(--vp-c-brand);"> 1</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> 怎么在windows上实现内存修改内存读</span></li><li>FreudeO0: <span style="color:var(--vp-c-brand);"> #有哪些眼动仪</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #windows平台开发应用怎么实现内存</span></li><li>巨人的小脚丫: <span style="color:var(--vp-c-brand);"> 1</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #CE这款内存修改工具是怎么实现的</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #win平台开发应用怎么实现内存修改</span></li></ul>
+<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++开发桌面应用和C#开发有何区别</span></li><li>bili_73061922978: <span style="color:var(--vp-c-brand);"> 你能问我个问题吗</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++怎么开发安卓app</span></li><li>bili_73061922978: <span style="color:var(--vp-c-brand);"> #你能问我个问题吗</span></li><li>压轴小丑0.0: <span style="color:var(--vp-c-brand);"> #怎么还不睡</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #c++开发安卓app有哪些库</span></li><li>压轴小丑0.0: <span style="color:var(--vp-c-brand);"> #我阳了，很难受，怎么办？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust能否开发AR眼镜应用</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #rust有哪些库用来开发AR应用</span></li><li>勤更歌单的eddie: <span style="color:var(--vp-c-brand);"> C#-winform三层架构是指什么</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #win平台开发应用怎么实现内存修改 </span> 
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #rust有哪些库用来开发AR应用 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #rust有哪些库用来开发AR应用 <span class="gpt-item">让我捡漏吧@1:5:17 (还有2次)</span>
+
+
+
+1. AR-rs: AR-rs是一个基于Rust的AR库，可以帮助开发者开发基于Web的AR应用程序。
+
+2. AR-cljs: AR-cljs是一个基于ClojureScript的AR库，可以帮助开发者开发基于Web的AR应用程序。
+
+3. AR-Fx: AR-Fx是一个基于Rust的AR库，它可以帮助开发者开发基于移动设备的AR应用程序。
+
+4. AR-py: AR-py是一个基于Python的AR库，可以帮助开发者开发基于移动设备的AR应用程序。
+
+5. AR-js: AR-js是一个基于JavaScript的AR库，可以帮助开发者开发基于Web的AR应用程序。
+####  #rust能否开发AR眼镜应用 <span class="gpt-item">让我捡漏吧@1:4:12 (还有3次)</span>
+
+
+
+是的，RUST可以开发AR眼镜应用。目前，RUST正在为开发AR眼镜应用提供支持，主要通过提供具有精确控制的内存管理和并发功能，以支持高性能应用。此外，RUST也提供了一系列工具，包括基于表达式的调试器，编译器优化器，元编程功能等，这些工具可以帮助开发人员更轻松地开发具有质量的AR应用。
+####  #我阳了，很难受，怎么办？ <span class="gpt-item">压轴小丑0.0@1:3:12 (还有3次)</span>
+
+
+
+1. 尝试释放情绪：比如哭一场、大声说出你的感受、写下你的心情、发泄你的怒气等；
+
+2. 与朋友、家人沟通：说出你的心声，让他们给你提供一些实际帮助和安慰；
+
+3. 尽量保持乐观：多看一些正能量的内容、多做一些自己喜欢的事情、多与身边的朋友多聊一些开心的话题；
+
+4. 寻求专业帮助：如果自己无法自行解决，可以向专业的心理咨询师寻求帮助，让他们从专业的角度来给您提供帮助。
+####  #c++开发安卓app有哪些库 <span class="gpt-item">让我捡漏吧@1:1:42 (还有4次)</span>
+
+和框架
+
+1. Qt：Qt是一个跨平台的C++图形用户界面库，可以用来开发安卓应用程序。
+
+2. Cocos2d-x：Cocos2d-x是一个开源的跨平台的2D游戏引擎，可以用来开发安卓应用程序。
+
+3. Marmalade：Marmalade是一个跨平台的C++框架，可以用来开发安卓应用程序。
+
+4. Adobe AIR：Adobe AIR是一个跨平台的应用程序开发环境，可以用来开发安卓应用程序。
+
+5. JNI：Java Native Interface（JNI）是一个用于将Java程序与本地程序库集成的接口，可以用来开发安卓应用程序。
+
+6. NDK：安卓开发工具包（NDK）是一个用于开发使用安卓原生代码的工具包，可以用来开发安卓应用程序。
+####  #怎么还不睡 <span class="gpt-item">压轴小丑0.0@1:1:31 (还有4次)</span>
+
+呢？
+
+每个人的作息都不一样，有的人比较喜欢夜猫子，有的人比较喜欢早睡早起，都是可以接受的。有时候，因为工作、学习等原因，也会导致睡眠不足。建议可以按照自己的作息安排，合理安排时间，坚持每天定时睡觉，及时补充充足的睡眠，以便让身体和精神得到恢复。
+####  #你能问我个问题吗 <span class="gpt-item">bili_73061922978@1:1:1 (还有4次)</span>
+
+？
+
+当然可以！你最喜欢什么样的电影？
+####  #c++怎么开发安卓app <span class="gpt-item">让我捡漏吧@1:0:25 (还有0次)</span>
+
+
+
+1、安装Android Studio，它是用于安卓开发的官方IDE，可以提供构建、调试、打包和发布应用程序的工具。
+
+2、学习安卓开发基础知识，了解安卓系统的架构，以及安卓开发工具和编程语言，C/C++等。
+
+3、根据自己的需求定义app功能和界面，确定项目的功能和特性，分析功能的实现难度，构建项目的逻辑框架。
+
+4、使用Android Studio创建新项目，编写和调试代码，编译和调试应用程序，修正错误并添加新功能。
+
+5、打包应用程序，并将它发布到Google Play Store，以便用户可以下载安装和使用。
+####  #c++开发桌面应用和C#开发有何区别 <span class="gpt-item">让我捡漏吧@0:59:8 (还有1次)</span>
+
+？
+
+C++开发桌面应用与C#开发有以下几点区别：
+
+1.C++是一种跨平台的编程语言，可以用来开发跨平台的桌面应用程序，而C#只能在微软的.NET框架上开发应用程序。
+
+2.C++的运行性能更好，可以编写复杂的应用程序，而C#可以更快的开发应用程序，但运行效率比C++要低。
+
+3.C++的代码编写更复杂，而C#的代码编写更简单，使用C#可以更快地实现功能和操作。
+
+4.C++开发桌面应用需要专业的知识和技能，而C#可以让更多人快速上手开发应用程序。
+####  #开发windows平台应用用什么语言 <span class="gpt-item">让我捡漏吧@0:58:0 (还有2次)</span>
+
+
+
+一般可以使用C#、C++、Visual Basic等语言来开发Windows平台的应用程序。
 ####  #win平台开发应用怎么实现内存修改 <span class="gpt-item">让我捡漏吧@0:56:41 (还有3次)</span>
 
 
