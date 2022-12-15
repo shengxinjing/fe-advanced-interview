@@ -49,9 +49,10 @@
 .gpt-item{
   display:inline-block;
   float:right;
+  font-size:14px;
 }
 .vp-doc p{
   margin:6px 0;
   line-height:24px;
-  fong-size:20px;
+  font-size:20px;
 }
