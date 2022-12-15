@@ -1,13 +1,59 @@
 # 回复即可体验ChatGPT 
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数
-<ul class="gpt-fix-window"><li>三年用户: <span style="color:var(--vp-c-brand);"> #学校劝退我，我可以不听劝吗</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #为什么停止呼吸就不能呼吸</span></li><li>巅峰笑葬1: <span style="color:var(--vp-c-brand);"> 什么是时间</span></li><li>七月不上: <span style="color:var(--vp-c-brand);"> 今天吃过饭了，明天可以不吃饭吗</span></li><li>ayugudu: <span style="color:var(--vp-c-brand);"> 测试</span></li><li>五颜六色月牙: <span style="color:var(--vp-c-brand);"> 谁是这个世界上最帅的男人</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #唐僧用什么洗发水</span></li><li>ayugudu: <span style="color:var(--vp-c-brand);"> 无效</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #哪里还可以体验chatgpt</span></li><li>bigbig大聂聂: <span style="color:var(--vp-c-brand);"> 测试</span></li></ul>
 
-::: warning 感谢 三年用户连续 投喂了3 个小花花(使用次数+3)
+
+访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
+<ul class="gpt-fix-window"><li>三年用户: <span style="color:var(--vp-c-brand);"> #变形金刚买车险还是买人险</span></li><li>魁拔之殊途烂到家了: <span style="color:var(--vp-c-brand);"> 服务器不是炸了吗，为什么你这个还能用呀</span></li><li>whitephantomtu: <span style="color:var(--vp-c-brand);"> chatgpt</span></li><li>南瓜先生哟哟: <span style="color:var(--vp-c-brand);"> #JAVA是不是最好的语言</span></li><li>留白_alpha: <span style="color:var(--vp-c-brand);"> #怎么造原子弹</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #中国和美国哪个生活水平高</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #如何发展一段健康的感情</span></li><li>追逐我的明天-: <span style="color:var(--vp-c-brand);"> 今天星期几</span></li><li>学习小丸子: <span style="color:var(--vp-c-brand);"> #人活着的意义是什么？</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #爱情是什么</span></li></ul>
+
+::: warning 感谢礼物: 小阳阳小阳 投喂了2 个  辣条(使用次数+2)
 :::
-::: info 七层楼辣么高   :<span style="color:var(--vp-c-brand);"> #哪里还可以体验chatgpt </span> 
+::: info 三年用户   :<span style="color:var(--vp-c-brand);"> #爱情是什么 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #爱情是什么 <span class="gpt-item">三年用户@2022-12-15 22:26:42 (还有5次)</span>
+
+[ChatGPT]:？
+
+爱情是一种情感，带来爱心，理解和关怀，是一种珍贵的精神结合，它能使两个人之间的关系更加紧密，更加亲密，更加幸福。
+####  #人活着的意义是什么？ <span class="gpt-item">学习小丸子@2022-12-15 22:26:39 (还有4次)</span>
+
+[ChatGPT]:
+
+人活着的意义是不断地去实现自己的梦想，不断地去学习新的知识，不断地去改变自己，以更好地为自己和他人服务，不断地去发现自己的潜力，不断地去拓展自己的视野，不断地去创造更美好的未来。
+####  #如何发展一段健康的感情 <span class="gpt-item">三年用户@2022-12-15 22:25:35 (还有6次)</span>
+
+[ChatGPT]:？
+
+1. 互相尊重：互相尊重是建立一段健康感情的基础，双方应该尊重对方的价值观、人生理念、以及想法，避免在言行上造成隔阂。
+
+2. 互相理解：双方应该尽量理解对方的心理活动，用耐心和关怀去倾听对方的诉说，并且理解对方的观点，不要对对方的观点做出过分的评判。
+
+3. 相互信任：双方应该建立相互信任，相互尊重和尊重彼此的私人空间，保持相互之间的信任，不要因为小事而猜疑对方。
+
+4. 尊重彼此的个性：双方应该尊重彼此的个性，不要把自己的观点强加给对方，也不要试图改变对方。
+
+5. 互助互信：双方应该互助互信，支持彼此实现人生的理想，在彼此的发展过程中彼此帮助，相互提供动力。
+####  #中国和美国哪个生活水平高 <span class="gpt-item">三年用户@2022-12-15 22:23:49 (还有0次)</span>
+
+[ChatGPT]:
+
+目前美国生活水平更高，由于经济发展水平较高，城镇化进程更快，有着完善的社会保障制度，物价水平较中国高，但美国人均可支配收入、社会保障更完善，更具有消费能力，生活水平更高。
+####  #JAVA是不是最好的语言 <span class="gpt-item">南瓜先生哟哟@2022-12-15 22:22:33 (还有4次)</span>
+
+[ChatGPT]:？
+
+不是。Java是一种流行的面向对象编程语言，适用于企业级开发，但不是最好的语言。其他的高级编程语言，如C，C ++，Python，Go，Scala等也都有各自的优势，可以根据应用场景的不同选择合适的语言进行开发。
+####  #变形金刚买车险还是买人险 <span class="gpt-item">三年用户@2022-12-15 22:19:30 (还有1次)</span>
+
+[ChatGPT]:
+
+个人建议，根据您的情况决定。如果您是买变形金刚的汽车，那么您应该买汽车险，以确保您的汽车得到充分的保护。然而，如果您买的是人险，那么您可以获得更多的保护，因为人身保险可以保护您免受意外伤害，医疗保险以及其他有利条款。
+####  #孙悟空为什么三顾茅庐 <span class="gpt-item">三年用户@2022-12-15 22:18:21 (还有2次)</span>
+
+[ChatGPT]:
+
+孙悟空三顾茅庐是因为他想得到菩提祖师的指点，希望能够帮助他练功成仙。孙悟空知道菩提祖师是拥有着天下众生的智慧和知识的圣人，因此他想求教于菩提祖师，以期得到他的指导和智慧。
 ####  #哪里还可以体验chatgpt <span class="gpt-item">七层楼辣么高@2022-12-15 22:16:39 (还有1次)</span>
 
 [ChatGPT]:
