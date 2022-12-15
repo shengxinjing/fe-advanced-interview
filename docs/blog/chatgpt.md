@@ -1,10 +1,10 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 接了个电话</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> ？？？</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 人家是原版</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 这个是筷子抄袭的啊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 先上车后补票</span></li><li>最后一只小鸟: <span style="color:var(--vp-c-brand);"> 宝娟</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 打过疫苗就好</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 是我晚上过分了</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 把瓜哥叉出去喂羊</span></li></ul>
+<ul class="gpt-fix-window"><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 接了个电话</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> ？？？</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 人家是原版</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 这个是筷子抄袭的啊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 先上车后补票</span></li><li>最后一只小鸟: <span style="color:var(--vp-c-brand);"> 宝娟</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 打过疫苗就好</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 是我晚上过分了</span></li><li>烟花易纷: <span style="color:var(--vp-c-brand);"> 把瓜哥叉出去喂羊</span></li><li>当然是选择相信她啦: <span style="color:var(--vp-c-brand);"> 感谢关注</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info 烟花易纷   :<span style="color:var(--vp-c-brand);"> 把瓜哥叉出去喂羊 </span> 
- <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
+::: info 当然是选择相信她啦   :<span style="color:var(--vp-c-brand);"> 感谢关注 </span>     
+ 弹幕字数少于5，不算数哦
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
 如果您最近感冒了，最好的治疗方法就是保持身体和心情舒适，并采取以下措施：
