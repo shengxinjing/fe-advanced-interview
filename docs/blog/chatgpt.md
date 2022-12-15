@@ -1,10 +1,10 @@
 # 直播间回复+关注即可体验ChatGPT (每人5次)
-<ul class="gpt-fix-window"><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 你盗头像</span></li><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 是不是你举报我了</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 我的可以送你</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 我这个好看</span></li><li>戴上金箍忘记她: <span style="color:var(--vp-c-brand);"> 妙啊</span></li><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 你这啥头像，骂骂咧咧？</span></li></ul>
+<ul class="gpt-fix-window"><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 一下午时间你不唱</span></li><li>雕光徒: <span style="color:var(--vp-c-brand);"> 让她拖</span></li><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 非得赶着下班的时候拖堂唱</span></li><li>一起去洗澡啊: <span style="color:var(--vp-c-brand);"> 1</span></li><li>_唐唐君子: <span style="color:var(--vp-c-brand);"> 搞不懂你的脑回路</span></li><li>LlL6T6: <span style="color:var(--vp-c-brand);"> 1</span></li></ul>
 
 ::: tip 花果山大圣投喂了一个真给力
 :::
-::: info _唐唐君子   :<span style="color:var(--vp-c-brand);"> 你这啥头像，骂骂咧咧？ </span> 
- <span style="color:var(--vp-c-brand);">你没关注UP主，不算数哦</span>
+::: info LlL6T6   :<span style="color:var(--vp-c-brand);"> 1 </span>     
+ 弹幕字数少于5，不算数哦
 :::
 #### 我最近感冒了，该如何治疗呢？ @ 花果山大圣  2022-12-15 9:16:27
 如果您最近感冒了，最好的治疗方法就是保持身体和心情舒适，并采取以下措施：
