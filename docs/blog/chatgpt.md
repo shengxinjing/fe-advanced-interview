@@ -4,13 +4,18 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>啵一杯: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li><li>大帅哥hhhh6: <span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数</span></li><li>荔枝啊苏珊: <span style="color:var(--vp-c-brand);"> #程序员比流水线工人那点强？</span></li><li>南充铁拐李: <span style="color:var(--vp-c-brand);"> #666</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于Unity的论文</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li><li>嗯哼chou: <span style="color:var(--vp-c-brand);"> 为啥我让它写代码它说没配置环境</span></li></ul>
+<ul class="gpt-fix-window"><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> 听说你想毁灭人类?</span></li><li>小孩的嘟嘟嘟: <span style="color:var(--vp-c-brand);"> #听说你想毁灭人家?</span></li><li>七层楼辣么高: <span style="color:var(--vp-c-brand);"> #介绍下iOS的runtime</span></li><li>大帅哥hhhh6: <span style="color:var(--vp-c-brand);"> #用C语言写一个  水仙花数</span></li><li>荔枝啊苏珊: <span style="color:var(--vp-c-brand);"> #程序员比流水线工人那点强？</span></li><li>南充铁拐李: <span style="color:var(--vp-c-brand);"> #666</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于Unity的论文</span></li><li>做人要骄傲: <span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文</span></li><li>嗯哼chou: <span style="color:var(--vp-c-brand);"> 为啥我让它写代码它说没配置环境</span></li><li>双一次元君: <span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 做人要骄傲   :<span style="color:var(--vp-c-brand);"> #写不少于6000字关于unity的论文 </span> 
+::: info 双一次元君   :<span style="color:var(--vp-c-brand);"> #你和人比谁更聪明？ </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #你和人比谁更聪明？ <span class="gpt-item">双一次元君@3:55:24 (还有4次)</span>
+
+
+
+这是一个不公平的问题，因为智慧是相对的。每个人都有自己的长处和弱点，所以没有人可以比谁更聪明。
 ####  #写不少于6000字关于unity的论文 <span class="gpt-item">做人要骄傲@3:7:7 (还有4次)</span>
 
 
