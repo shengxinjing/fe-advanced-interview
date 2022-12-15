@@ -4,13 +4,116 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>憨桑的冰粉凉虾: <span style="color:var(--vp-c-brand);"> #未来人工智能的发展趋势</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #哪些功能kotlin实现而jαva不行</span></li><li>憨桑的冰粉凉虾: <span style="color:var(--vp-c-brand);"> #强人工智能何时能够实现</span></li><li>憨桑的冰粉凉虾: <span style="color:var(--vp-c-brand);"> #自主可控的核聚变撒时候能够实现</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #为啥kotlin不能调用原生c</span></li><li>憨桑的冰粉凉虾: <span style="color:var(--vp-c-brand);"> #web3d的发展趋势</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #kotlin可以进行ndk开发吗</span></li><li>绯色丿天空丿: <span style="color:var(--vp-c-brand);"> 打call</span></li><li>憨桑的冰粉凉虾: <span style="color:var(--vp-c-brand);"> #程序员会被淘汰吗？</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #除了使用jni技术进行ndk开发还有啥</span></li></ul>
+<ul class="gpt-fix-window"><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #ar开发有哪些sdk或者库</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #AR眼镜开发有哪些sdk或者库</span></li><li>一个布里茨: <span style="color:var(--vp-c-brand);"> #fink应用领域</span></li><li>铭KK先森: <span style="color:var(--vp-c-brand);"> 1</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> 怎么在windows上实现内存修改内存读</span></li><li>FreudeO0: <span style="color:var(--vp-c-brand);"> #有哪些眼动仪</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #windows平台开发应用怎么实现内存</span></li><li>巨人的小脚丫: <span style="color:var(--vp-c-brand);"> 1</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #CE这款内存修改工具是怎么实现的</span></li><li>让我捡漏吧: <span style="color:var(--vp-c-brand);"> #win平台开发应用怎么实现内存修改</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #除了使用jni技术进行ndk开发还有啥 </span> 
- <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
+::: info 让我捡漏吧   :<span style="color:var(--vp-c-brand);"> #win平台开发应用怎么实现内存修改 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #win平台开发应用怎么实现内存修改 <span class="gpt-item">让我捡漏吧@0:56:41 (还有3次)</span>
+
+
+
+Windows 内存修改的实现，可以利用API函数WriteProcessMemory()和ReadProcessMemory()，还可以使用内存编辑器，比如Cheat Engine、Game Hacker等，它们都可以实现内存修改。
+####  #CE这款内存修改工具是怎么实现的 <span class="gpt-item">让我捡漏吧@0:55:17 (还有4次)</span>
+
+？
+
+ArtMoney是一款内存修改工具，它使用记忆定位技术（memory location）来修改内存中的值。用户可以使用它来修改游戏的设置，改变游戏的数据，以达到让游戏更加有趣的效果。
+
+ArtMoney的工作原理是，先将进程中的内存映射到一个文件中，然后使用一个工具来搜索特定的字符串、值或者其他数据，最后将搜索结果存储到一个数据库中。之后，用户就可以使用这个数据库来修改进程中的内存值，实现修改游戏数据的目的。
+####  #windows平台开发应用怎么实现内存 <span class="gpt-item">让我捡漏吧@0:54:13 (还有5次)</span>
+
+的管理
+
+Windows 平台的内存管理主要是由操作系统自身实现的，开发者可以通过调用操作系统提供的API实现内存的管理。
+
+Windows 操作系统为应用程序提供了一系列的内存管理函数，如VirtualAlloc、VirtualFree、VirtualLock、VirtualUnlock等，应用程序可以调用这些函数实现内存管理。
+
+VirtualAlloc函数可以实现申请指定大小的内存空间，VirtualFree函数可以释放申请的内存空间；VirtualLock函数可以将指定的内存锁定，不能被操作系统重新分配，VirtualUnlock函数可以解锁指定的内存，使得操作系统可以重新分配该内存。
+
+另外，Windows 操作系统还提供了HeapCreate、HeapAlloc、HeapFree等函数，应用程序可以调用这些函数实现内存堆的管理。HeapCreate函数用来创建一个新的堆，HeapAlloc函数用来从堆中申请内存空间，HeapFree函数用来释放申请的
+####  #fink应用领域 <span class="gpt-item">一个布里茨@0:51:22 (还有3次)</span>
+
+
+
+Fink是一种开放源代码的软件包管理系统，可以在Mac OS X和其他的Unix系统上运行。它可以用来自动安装、升级和管理第三方软件，也可以在网上下载软件的源代码，并自动编译源代码并安装，这样就不需要再下载编译好的二进制文件。
+
+Fink可以用来安装和管理许多类型的软件，包括编程语言如Perl、Python、Ruby等，以及编程开发环境和库如Qt、Gtk+、wxWidgets等，以及一些常用的网络服务和客户端如Apache、MySQL、PostgreSQL、Apache Tomcat等。Fink也可以用来安装和管理许多常用的开放源代码工具，如Emacs、Git、Subversion等。
+####  #AR眼镜开发有哪些sdk或者库 <span class="gpt-item">让我捡漏吧@0:51:15 (还有6次)</span>
+
+
+
+1. ARCore：Google出品的AR SDK，能够让开发者在Android和iOS平台上开发AR应用程序。
+
+2. Vuforia：PTC出品的AR SDK，支持Android、iOS和UWP平台，可用于开发增强现实应用程序。
+
+3. Kudan：Kudan出品的AR SDK，可以用于构建Android和iOS平台上的AR应用程序。
+
+4. ARToolKit：ARToolKit是一个免费的开源AR SDK，可用于构建Android、iOS和Windows平台上的AR应用程序。
+
+5. EasyAR：EasyAR是一个功能强大的增强现实SDK，可以在Android、iOS和Windows Phone平台上使用。
+
+6. Wikitude：Wikitude是一个全功能的AR SDK，支持Android、iOS和Windows Phone平台。
+####  #ar开发有哪些sdk或者库 <span class="gpt-item">让我捡漏吧@0:49:50 (还有7次)</span>
+
+
+
+1. Flutter SDK：用于构建跨平台的移动应用的开源SDK。
+
+2. Dart SDK：Flutter框架的基础，用于编写应用的语言。
+
+3. Firebase SDK：用于构建应用的后端服务，提供实时同步和数据库功能等。
+
+4. Flutter Widgets：用于创建应用界面的微件库。
+
+5. Android Studio：用于开发Android应用的集成开发环境。
+
+6. Xcode：用于开发iOS应用的集成开发环境。
+
+7. IntelliJ IDEA：用于开发Flutter应用的集成开发环境。
+
+8. Visual Studio Code：用于开发Flutter应用的文本编辑器。
+
+9. React Native：用于构建跨平台的移动应用的JavaScript框架。
+####  #爬虫工程师需要学习哪些技术 <span class="gpt-item">一个布里茨@0:49:4 (还有4次)</span>
+
+？
+
+1. 数据抓取：熟悉数据抓取的相关技术，如HTTP/HTTPS、HTTPCookie、WebSocket等；
+
+2. 爬虫框架：熟悉常用的爬虫框架，如Scrapy、Selenium、PySpider等；
+
+3. 网络爬虫技术：了解网络爬虫的原理，熟悉多线程爬虫、分布式爬虫、爬虫反爬虫等技术；
+
+4. 数据清洗：学习数据清洗的技术，如正则表达式、文本处理等；
+
+5. 数据存储：熟悉MongoDB、MySQL等数据库的使用；
+
+6. 编程语言：熟悉Python、JavaScript等常用编程语言；
+
+7. 可视化：学习数据可视化的技术，如Tableau、Matplotlib等。
+####  #unity开发用什么语言 <span class="gpt-item">让我捡漏吧@0:49:3 (还有8次)</span>
+
+
+
+Unity使用C#和JavaScript编写游戏逻辑。
+####  #除了使用jni技术进行ndk开发还有啥 <span class="gpt-item">让我捡漏吧@0:47:19 (还有9次)</span>
+
+?
+
+其他可以使用NDK开发的技术有：
+
+1. C/C++语言：C/C++语言可以通过NDK来开发安卓应用，使用C/C++可以实现效率更高、更稳定的应用。
+
+2. OpenGL：OpenGL是一种图形库，可以使用NDK来开发安卓应用，它可以实现图形渲染，可以让应用更加精细、生动。
+
+3. OpenSL ES：OpenSL ES是一种声音库，可以使用NDK来开发安卓应用，它可以实现高效、实时的音频处理，可以为应用提供更丰富的音频体验。
+
+4. Android NDK：Android NDK是一个用于开发安卓应用的工具，可以使用NDK来开发安卓应用，它可以提供更强大的功能和性能，例如多线程、多处理器等。
+
+5. Android SDK：Android SDK是一个用于开发安卓应用的工具，可以使用SDK来开发安卓应用，它可以提供更多的API和功能，例如用户界面、数据存储等。
 ####  #程序员会被淘汰吗？ <span class="gpt-item">憨桑的冰粉凉虾@0:46:19 (还有0次)</span>
 
 
