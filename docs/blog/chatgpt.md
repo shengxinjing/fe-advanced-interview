@@ -4,13 +4,69 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>oodzfa: <span style="color:var(--vp-c-brand);"> #python socket多线程</span></li><li>源千陌: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #写一个英文邮件，提醒jack下周一开会</span></li><li>自然人灬: <span style="color:var(--vp-c-brand);"> #你师父是谁</span></li><li>龙风呀: <span style="color:var(--vp-c-brand);"> #关机</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> 你很调皮啊</span></li><li>没有皮卡丘的小Z: <span style="color:var(--vp-c-brand);"> #刷新弹幕</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #模拟浏览器 执行 while(1){}</span></li><li>七里香不香__: <span style="color:var(--vp-c-brand);"> 机器人寄了</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #bilibili如何获取弹幕回复</span></li></ul>
+<ul class="gpt-fix-window"><li>没有皮卡丘的小Z: <span style="color:var(--vp-c-brand);"> #刷新弹幕</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #模拟浏览器 执行 while(1){}</span></li><li>七里香不香__: <span style="color:var(--vp-c-brand);"> 机器人寄了</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #bilibili如何获取弹幕回复</span></li><li>红白月亮: <span style="color:var(--vp-c-brand);"> #帮我用C++写一个快速排序</span></li><li>浩钎: <span style="color:var(--vp-c-brand);"> 体验下</span></li><li>jserWang: <span style="color:var(--vp-c-brand);"> 移动鼠标</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #大圣起床了吗</span></li><li>jserWang: <span style="color:var(--vp-c-brand);"> 怎么写论文</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 连起没起床都知道，这得有摄像头吧</span></li></ul>
 
 ::: danger 感谢礼物: oodzfa 投喂了10 个  辣条(使用次数+10)
 :::
-::: info 花渐畔   :<span style="color:var(--vp-c-brand);"> #bilibili如何获取弹幕回复 </span> 
+::: info 小怪兽被床绑架了   :<span style="color:var(--vp-c-brand);"> #大圣起床了吗 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #大圣起床了吗 <span class="gpt-item">小怪兽被床绑架了@08:55:21 (还有4次)</span>
+
+
+
+大圣还没起床。
+####  #帮我用C++写一个快速排序 <span class="gpt-item">红白月亮@08:47:38 (还有4次)</span>
+
+的程序
+
+#include&lt;iostream&gt; 
+using namespace std;  
+
+// 快速排序 
+void quickSort(int a[], int left, int right) 
+{ 
+    int i, j, t, temp; 
+  
+    if(left &gt; right) 
+        return; 
+    temp = a[left]; //temp中存的就是基准数 
+    i = left; 
+    j = right; 
+    while(i != j) 
+    { 
+        //顺序很重要，要先从右边开始找 
+        while(a[j] &gt;= temp && i &lt; j) 
+            j--; 
+        //再找右边的 
+        while(a[i] &lt;= temp && i &lt; j) 
+            i++; 
+        //交换两个数在数组中的位置 
+        if(i &lt; j) 
+        { 
+            t = a[i]; 
+            a[i] = a[j]; 
+            a[j] = t; 
+        } 
+    } 
+    //最终将基准数归位 
+    a[left] = a[i]; 
+    a[i] = temp; 
+  
+    quickSort(a, left, i - 1);//继续处理左边的，这里是一个递归的过程 
+    quickSort(a, i + 1, right);//继续处理右边的 ，这里是一个递归的过程 
+} 
+
+int main() 
+{ 
+    int a[] = {2,1,5,4,3}; 
+    int len = (sizeof(a)) / (sizeof(a[0])); 
+    quickSort(a, 0, len-1); 
+    for(int i = 0; i &lt; len; i++) 
+        cout &lt;&lt; a[i] &lt;&lt; " "; 
+    cout &lt;&lt; endl; 
+    return 0; 
+}
 ####  #bilibili如何获取弹幕回复 <span class="gpt-item">花渐畔@08:46:38 (还有3次)</span>
 
 
