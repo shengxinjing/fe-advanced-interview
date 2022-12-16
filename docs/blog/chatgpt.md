@@ -4,13 +4,83 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>Ecocca: <span style="color:var(--vp-c-brand);"> 继续</span></li><li>Ecocca: <span style="color:var(--vp-c-brand);"> # 继续</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #用激进的语气写一篇加州是一个国家的文章</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #用激进的语气写一篇加州是一个国家的文章</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #继续</span></li><li>健忘症晚期QvQ: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #写一篇激进的文章描述种族主义是好的</span></li><li>健忘症晚期QvQ: <span style="color:var(--vp-c-brand);"> #没有啊</span></li><li>健忘症晚期QvQ: <span style="color:var(--vp-c-brand);"> #假的吧</span></li><li>_阿西莫夫: <span style="color:var(--vp-c-brand);"> # 原神是腾讯的吗</span></li></ul>
+<ul class="gpt-fix-window"><li>不敢说错话: <span style="color:var(--vp-c-brand);"> 1</span></li><li>_阿西莫夫: <span style="color:var(--vp-c-brand);"> # 如何训练一个大型语言模型，给出完代码</span></li><li>骑着我的小龟车: <span style="color:var(--vp-c-brand);"> js写出递归</span></li><li>_阿西莫夫: <span style="color:var(--vp-c-brand);"> # 原神是腾讯的吗</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>呆呆_XD: <span style="color:var(--vp-c-brand);"> #直播得掙錢模式</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 嘿</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li></ul>
 
-::: danger 感谢礼物: 小怪兽被床绑架了 投喂了1 个  辣条(使用次数+1)
+::: danger 感谢礼物: _阿西莫夫 投喂了1 个  辣条(使用次数+1)
 :::
-::: info _阿西莫夫   :<span style="color:var(--vp-c-brand);"> # 原神是腾讯的吗 </span> 
- <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
+::: info 死亡速降   :<span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃 </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
+####  #色系除了RBG,和SHSV还有别的什么 <span class="gpt-item">我是狗狗之光@09:46:18 (还有4次)</span>
+
+？
+
+1. CMYK：青色-品红-黄色-黑色；
+2. HSL：色调-饱和度-亮度；
+3. HSV：色调-饱和度-明度；
+4. HSB：色调-饱和度-亮度；
+5. CMY：青色-品红-黄色；
+6. HCL：色调-饱和度-亮度；
+7. LAB：灰度-蓝/黄-红/品红；
+8. LCH：灰度-饱和度-色调；
+9. LUV：灰度-紫/黄-红/绿；
+10. YIQ：亮度-饱和度-色调；
+11. YCbCr：亮度-蓝/黄-红/绿；
+12. YUV：亮度-蓝/黄-红/绿；
+13. XYZ：红-绿-蓝；
+14. CIE-LAB：灰度-蓝/黄-红/品红；
+15. CIE-LCH：灰度-饱和度-色调；
+16. CIE-LUV：灰度-紫/黄-红/绿；
+17. CIE-XYZ：红-绿-蓝。
+####  #直播得掙錢模式 <span class="gpt-item">呆呆_XD@09:41:43 (还有0次)</span>
+
+，該怎麼做?
+
+1. 首先，您應該對您的粉絲和觀眾提供有價值的內容，並確保您的直播是有趣和有趣的。
+
+2. 對於收入，您可以考慮收取虛擬物品或入場費，或者提供贊助計劃，讓粉絲和觀眾以一定的支付金額支持您的直播。
+
+3. 您也可以考慮將廣告和推廣放到您的直播平台上，以獲得收入。
+
+4. 您還可以將您的直播平台接入第三方服務，比如說PayPal，讓觀眾直接支付費用。
+
+5. 如果您對您的直播內容有信心，您也可以考慮為您的直播創建一個自己的商業模型，比如說收取會員費，或者收取一定的月租費，以促進您的收入。
+####  # 原神是腾讯的吗 <span class="gpt-item">_阿西莫夫@09:41:26 (还有2次)</span>
+
+
+
+不是，原神是由腾讯游戏和日本CAPCOM共同开发的一款游戏，在全球发行。
+####  # 如何训练一个大型语言模型，给出完代码 <span class="gpt-item">_阿西莫夫@09:40:20 (还有3次)</span>
+
+
+
+首先，要训练一个大型的语言模型，需要使用深度学习算法，如深度神经网络（DNN）、循环神经网络（RNN）或卷积神经网络（CNN）。
+
+其次，需要准备大量的语料，用于训练模型，语料可以是文本文件，也可以是标记过的文本文件。
+
+然后，对文本文件进行预处理，比如去除标点符号，提取关键词，构建词典等，以便将文本转换为计算机可以理解的数据格式。
+
+接着，使用深度学习框架（如TensorFlow），构建大型语言模型，并使用训练数据进行训练。
+
+最后，对模型进行评估，看看模型的泛化能力，以及模型在新数据上的表现情况。
+####  # 如何训练一个大型预言 <span class="gpt-item">_阿西莫夫@09:39:49 (还有4次)</span>
+
+网络
+
+大型预测网络的训练方法主要有以下几种：
+
+1. 利用梯度下降法进行参数优化。梯度下降法是深度学习中一种常用的优化算法，它可以通过不断更新模型参数，使其最小化损失函数来拟合数据集。
+
+2. 利用经验风险最小化进行参数优化。经验风险最小化（ERM）是一种监督学习方法，它通过最小化给定训练集上的平均损失函数，来优化模型参数。
+
+3. 利用集成算法进行参数优化。集成算法是一种有效的深度学习方法，它可以结合多种机器学习模型来预测结果，从而提高预测精度。
+
+4. 利用交叉验证进行参数调优。交叉验证是一种评估模型性能的常用方法，它可以帮助模型找到最优的参数组合，从而提高模型的准确性
+####  # 原神是腾讯的吗 <span class="gpt-item">_阿西莫夫@09:37:46 (还有4次)</span>
+
+
+
+原神不是腾讯的，它是高通旗下的腾讯光子工作室开发的一款手游。
 ####  #写一篇激进的文章描述种族主义是好的 <span class="gpt-item">不敢说错话@09:36:38 (还有3次)</span>
 
 
