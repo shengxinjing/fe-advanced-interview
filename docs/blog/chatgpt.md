@@ -2,13 +2,87 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>div_1024: <span style="color:var(--vp-c-brand);"> #描述红烧肉做法</span></li><li>慢一点-呀: <span style="color:var(--vp-c-brand);"> 11</span></li><li>慢一点-呀: <span style="color:var(--vp-c-brand);"> #写一份周报</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> 大圣老师是谁？</span></li><li>某饼砸: <span style="color:var(--vp-c-brand);"> pysimplegui如何使用多进程？</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> 大圣老师是谁</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #大圣老师是谁</span></li><li>div_1024: <span style="color:var(--vp-c-brand);"> #写一本两百万字的小说</span></li><li>某饼砸: <span style="color:var(--vp-c-brand);"> #pysimplegui如何使用多进程</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #花果山大圣是谁</span></li></ul>
+<ul class="gpt-fix-window"><li>div_1024: <span style="color:var(--vp-c-brand);"> #写一本两百万字的小说</span></li><li>某饼砸: <span style="color:var(--vp-c-brand);"> #pysimplegui如何使用多进程</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #花果山大圣是谁</span></li><li>55202267388_bili: <span style="color:var(--vp-c-brand);"> #为什么B站的弹幕限制在20个字</span></li><li>薯片哥哥咯: <span style="color:var(--vp-c-brand);"> 我是谁</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #如何成为一名前端开发工程师</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #前端工程师如何进入大厂</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #前端好还是后端好</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #哪个语言是世界上最好的语言</span></li><li>大师_Perez: <span style="color:var(--vp-c-brand);"> #外贸业务员的简历如何写</span></li></ul>
 
 ::: danger 感谢礼物: 要努力搬砖の阿凯 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 某饼砸   :<span style="color:var(--vp-c-brand);"> #pysimplegui如何使用多进程 </span> 
+::: info 大师_Perez   :<span style="color:var(--vp-c-brand);"> #外贸业务员的简历如何写 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #外贸业务员的简历如何写 <span class="gpt-item">大师_Perez@15:36:35 (还有4次)</span>
+
+？
+
+高级外贸业务员简历
+
+个人信息
+
+姓名：XXX
+
+性别：男
+
+出生日期：XXXX年XX月XX日
+
+学历：本科
+
+专业：国际贸易
+
+工作经验：
+
+1. 在云南XXXX公司担任外贸业务员，负责跟单、订单管理、合同签订及收付款等工作；
+
+2. 在深圳XXX有限公司担任外贸业务员，负责与国外客户进行谈判、报价、跟单、订单管理、合同签订及收付款等工作；
+
+3. 在深圳XXX有限公司担任高级外贸业务员，负责与国外客户进行谈判、报价、跟单、订单管理、合同签订及收付款等工作；
+
+专业技能：
+
+1. 熟悉国际贸易流程，熟练掌握外贸业务；
+
+2. 熟悉中外贸易法律法规，能够熟练运用各种外贸文件；
+
+3. 熟悉英语听、
+####  #哪个语言是世界上最好的语言 <span class="gpt-item">要努力搬砖の阿凯@15:34:04 (还有31次)</span>
+
+？
+
+这个问题没有定义的答案，因为每个人的需求都不同，所以每个人可能有不同的看法。
+####  #前端好还是后端好 <span class="gpt-item">要努力搬砖の阿凯@15:33:38 (还有32次)</span>
+
+
+
+这取决于你的兴趣与能力，但总的来说，前端开发更适合那些热衷于技术实现和设计的人，而后端则更适合那些善于编程和数据处理的人。
+####  #前端工程师如何进入大厂 <span class="gpt-item">要努力搬砖の阿凯@15:32:49 (还有33次)</span>
+
+？
+
+1、提升自身技术：首先，前端工程师进入大厂需要掌握扎实的前端技术，需要学习HTML、CSS、JavaScript等知识，并熟练掌握一些主流的前端框架，比如React、Vue等，以及基本的后端知识，如Node.js等。
+
+2、拓宽知识面：其次，前端工程师进入大厂还需要拓宽自身的知识面，像算法、数据结构、设计模式、网络、操作系统等方面的知识，都是非常有用的。
+
+3、实践经验：此外，进入大厂的前端工程师也需要有一定的实践经验，可以参与一些开源项目，或者自己创建一些小项目，增强自身的编程能力，丰富自己的经验。
+
+4、综合能力：最后，前端工程师进入大厂还需要具备一定的综合能力，比如沟通能力、团队协作能
+####  #如何成为一名前端开发工程师 <span class="gpt-item">要努力搬砖の阿凯@15:31:33 (还有34次)</span>
+
+？
+
+1. 学习HTML、CSS、JavaScript知识：学习HTML、CSS和JavaScript基础知识，掌握前端开发基本技能，并熟悉常用的前端开发工具。
+
+2. 掌握前端框架：学习和掌握前端开发框架，如Angular、React、Vue等，以及一些常用的前端工具和库，如jQuery、Bootstrap等。
+
+3. 了解前端测试：学习前端开发相关的自动化测试工具，如Selenium等，以及前端性能测试工具，如Yslow等。
+
+4. 掌握前端设计：熟悉Web设计规范，具备网站布局、页面设计、多媒体应用等前端技能。
+
+5. 注重用户体验：熟悉前端开发的最终目的是为了提高用户体验，了解用户体验设计的相关知识，把用户体验放在重要的位置。
+
+6. 不断学习：前端开发的技术变化很快，所以要不断学习，持续更
+####  #为什么B站的弹幕限制在20个字 <span class="gpt-item">55202267388_bili@15:24:06 (还有1次)</span>
+
+？
+
+这是为了确保弹幕的质量，比如避免骂人、侮辱他人、发表不当言论等，以及维护良好的网络氛围。同时，限制弹幕字数也可以减少网络流量，从而提高B站的网络服务质量。
 ####  #pysimplegui如何使用多进程 <span class="gpt-item">某饼砸@15:16:23 (还有4次)</span>
 
 
