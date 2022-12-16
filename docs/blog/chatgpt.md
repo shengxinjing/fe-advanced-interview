@@ -4,7 +4,7 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> 秀</span></li><li>一泓禧悲: <span style="color:var(--vp-c-brand);"> #怎么做紫菜蛋花汤</span></li><li>_鬼面少年-: <span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好</span></li><li>屈正: <span style="color:var(--vp-c-brand);"> #请生成二维码</span></li><li>哦呀苏米纳塞: <span style="color:var(--vp-c-brand);"> #vue吊还是react吊</span></li><li>哦呀苏米纳塞: <span style="color:var(--vp-c-brand);"> 妈耶，真厉害</span></li><li>夜半航: <span style="color:var(--vp-c-brand);"> #介绍一下生产力-生产关系的联系</span></li></ul>
+<ul class="gpt-fix-window"><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> 秀</span></li><li>一泓禧悲: <span style="color:var(--vp-c-brand);"> #怎么做紫菜蛋花汤</span></li><li>_鬼面少年-: <span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好</span></li><li>屈正: <span style="color:var(--vp-c-brand);"> #请生成二维码</span></li><li>哦呀苏米纳塞: <span style="color:var(--vp-c-brand);"> #vue吊还是react吊</span></li><li>哦呀苏米纳塞: <span style="color:var(--vp-c-brand);"> 妈耶，真厉害</span></li><li>夜半航: <span style="color:var(--vp-c-brand);"> #介绍一下生产力-生产关系的联系</span></li><li>一身诗意喂了code: <span style="color:var(--vp-c-brand);"> 体验</span></li></ul>
 
 ::: danger 感谢礼物: _阿西莫夫 投喂了1 个  辣条(使用次数+1)
 :::
