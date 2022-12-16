@@ -1,16 +1,290 @@
 # 发弹幕即可体验ChatGPT 
 
-提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数
-
-
+提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>一个布里茨: <span style="color:var(--vp-c-brand);"> #AttributeError</span></li><li>喝喝咖啡看看书: <span style="color:var(--vp-c-brand);"> 发个弹幕试试</span></li><li>诚实可靠小郎君zz: <span style="color:var(--vp-c-brand);"> #如何用C语言实现随机梯度下降算法</span></li><li>喝喝咖啡看看书: <span style="color:var(--vp-c-brand);"> #女枪辅助出装</span></li><li>天赐团子: <span style="color:var(--vp-c-brand);"> #写一个mpu6050姿态解算</span></li><li>蒙面人哈哈哈哈哈哈: <span style="color:var(--vp-c-brand);"> 啥？</span></li><li>枯坐orz: <span style="color:var(--vp-c-brand);"> #什么是后现代主义</span></li><li>_DL1_: <span style="color:var(--vp-c-brand);"> #爬取b站</span></li><li>Monster-Tarot: <span style="color:var(--vp-c-brand);"> #爬取b站弹幕</span></li><li>诚实可靠小郎君zz: <span style="color:var(--vp-c-brand);"> # 如何用C语言实现lstm中遗忘门函数</span></li></ul>
+<ul class="gpt-fix-window"><li>IceiWd: <span style="color:var(--vp-c-brand);"> #分别解释一下SOLID</span></li><li>IceiWd: <span style="color:var(--vp-c-brand);"> #列举所有Code Smell</span></li><li>IceiWd: <span style="color:var(--vp-c-brand);"> #用英文解释所有Code Smell</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #讲解一下Netty框架的线程模型</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一篇运动会加油稿</span></li><li>Alias不会写Haskell: <span style="color:var(--vp-c-brand);"> #帮我写一段用haskell实现的最长公共子序列算法</span></li><li>胖胖Winnie: <span style="color:var(--vp-c-brand);"> 随便写一个vue3组件</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一个基于java的nio的聊天代码</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li></ul>
 
-::: danger 感谢礼物: 哦雷瓦JW 投喂了1 个  辣条(使用次数+1)
+::: danger 感谢礼物: Dr_pokm 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 诚实可靠小郎君zz   :<span style="color:var(--vp-c-brand);"> # 如何用C语言实现lstm中遗忘门函数 </span> 
+::: info Dr_pokm   :<span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #吃沙县还是萨莉亚 <span class="gpt-item">Dr_pokm@14:55:32 (还有14次)</span>
+
+县
+
+如果您要问的是两个国家，那么我建议您吃萨莉亚县。萨莉亚县位于西班牙的加那利群岛，食物以烤烤烤烟熏鱼和传统的加那利烹饪风格而闻名。沙县位于黎巴嫩，当地的美食以充满风味的中东风味而闻名，主要包括烤肉、烤鱼、披萨和当地特色的沙县菜肴。
+####  #写一个基于java的nio的聊天代码 <span class="gpt-item">Wildebeest@14:54:53 (还有1次)</span>
+
+
+
+import java.io.IOException;
+import java.net.InetSocketAddress;
+import java.nio.ByteBuffer;
+import java.nio.channels.SelectionKey;
+import java.nio.channels.Selector;
+import java.nio.channels.ServerSocketChannel;
+import java.nio.channels.SocketChannel;
+import java.util.Iterator;
+import java.util.Set;
+
+/**
+ * NIO聊天室服务端
+ *
+ * @author yangtao__anxpp.com
+ * @version 1.0
+ */
+public class Server {
+    public static void main(String[] args) throws IOException {
+        //创建一个通道管理器
+        Selector selector = Selector.open();
+        //获取服务端通道
+        ServerSocketChannel serverSocketChannel = ServerSocketChannel.open();
+        //设置服务端通道为非阻塞模式
+        serverSocketChannel.configureBlocking(false);
+        //绑定连接
+        serverSocketChannel.socket().bind(new InetSocketAddress("127.0.0.1", 8888));
+        //将通道管理器和该通道绑定，并为该通道注册SelectionKey.OP_ACCEPT事件，注册该事件后，
+        //当该事件到达时，selector.select()会返回，如果该事件没到达selector.select()会一直阻塞。
+        serverSocketChannel.register(selector, SelectionKey.OP_ACCEPT);
+        //采用轮询的方式监听selector上是否有需要处理的事件，如果有，则进行处理
+        while (selector.select() &gt; 0) {
+            //获取selector中选中的项的迭代器，选中的项
+####  #帮我写一段用haskell实现的最长公共子序列算法 <span class="gpt-item">Alias不会写Haskell@14:49:07 (还有4次)</span>
+
+
+
+longestCommonSubsequence :: Eq a =&gt; [a] -&gt; [a] -&gt; [a]
+longestCommonSubsequence xs ys = LCS [] xs ys
+  where
+    LCS acc [] _ = reverse acc
+    LCS acc _ [] = reverse acc
+    LCS acc (x:xs) (y:ys)
+        | x == y    = LCS (x:acc) xs ys
+        | otherwise = maximum [LCS acc xs (y:ys), LCS acc (x:xs) ys]
+####  #写一篇运动会加油稿 <span class="gpt-item">Wildebeest@14:48:02 (还有2次)</span>
+
+
+
+Dear friends and athletes, 
+
+Welcome to the 20th Sports Meet of our school! 
+
+The Sports Meet is an annual gathering of our school, which provides us with a great opportunity to showcase our talents, promote friendship among all students and fully demonstrate the spirit of sportsmanship.
+
+Now, the 20th Sports Meet is about to begin. Let's cheer for all the athletes who are here today! Let's show our passion and enthusiasm! Come on, athletes! Let's give it our all and let's show everyone what we can do.
+
+Let's show the world that we are one team, one spirit! Let's give this Sports Meet the best ever! Let's make it a memorable event that we shall always cherish!
+
+Go, go, go! Let's make this Sports Meet the best ever!
+
+Sincerely, 
+School Principal
+####  #讲解一下Netty框架的线程模型 <span class="gpt-item">Wildebeest@14:44:08 (还有3次)</span>
+
+？
+
+Netty框架的线程模型主要分为两种：
+1、单线程模型：这种模型下，Netty的所有事件处理都在一个线程中进行，如果事件处理比较耗时，会导致其他事件的处理被延迟，影响性能。
+2、多线程模型：这种模型下，Netty的事件处理会在多个线程中进行，可以有效提高系统的性能。Netty提供了多种不同的多线程模型，可以根据不同的业务需求选择不同的模型。
+####  #用英文解释所有Code Smell <span class="gpt-item">IceiWd@14:42:34 (还有1次)</span>
+
+
+
+Code Smell is a term used to describe any symptom in the source code of a program that indicates a deeper problem. It is a surface-level indication that there may be an underlying issue in the design or implementation of the code. These issues can be anything from inefficient or overly complex code, inconsistency in coding style, or bad coding practices. Code Smells can lead to poor performance, increased maintenance costs, and an increased risk of bugs.
+####  #列举所有Code Smell <span class="gpt-item">IceiWd@14:41:46 (还有2次)</span>
+
+
+
+1. 过度强调参数
+2. 过度继承
+3. 冗长的函数
+4. 冗长的类
+5. 重复代码
+6. 过度的层次结构
+7. 不必要的全局变量
+8. 冗长的注释
+9. 冗长的if-else语句
+10. 不必要的模块
+11. 不必要的空检查
+12. 冗长的命名空间
+13. 过度的常量
+14. 冗长的字符串
+15. 不必要的抽象
+16. 过度使用异常
+17. 过度使用泛型
+18. 过度使用反射
+19. 冗长的try-catch语句
+20. 过多的状态变量
+####  #分别解释一下SOLID <span class="gpt-item">IceiWd@14:39:44 (还有3次)</span>
+
+原则
+
+S：单一职责原则（Single Responsibility Principle）：一个类只负责一个功能领域中的相应职责，或者只有一个原因引起它的变化。
+
+O：开放封闭原则（Open-Closed Principle）：软件实体（类、模块、函数等等）应该是可以扩展的，但是不可修改。
+
+L：里氏替换原则（Liskov Substitution Principle）：子类型必须能够替换它们的基类型。
+
+I：接口隔离原则（Interface Segregation Principle）：客户端不应该依赖它不需要的接口；一个类对另一个类的依赖应该建立在最小的接口上。
+
+D：依赖倒转原则（Dependency Inversion Principle）：抽象不应该依赖于细节；细节应该依赖于抽象。
+####  #什么是SOLID <span class="gpt-item">IceiWd@14:38:56 (还有4次)</span>
+
+原则
+
+SOLID原则是一组五个面向对象设计原则，旨在提高软件的可读性，可维护性和可扩展性。它们分别是：Single Responsibility（单一职责）、Open-Closed（开放封闭）、Liskov Substitution（里氏替换）、Interface Segregation（接口隔离）和Dependency Inversion（依赖反转）。
+####  #用js实现发弹幕即可体验ChatGPT的功能 <span class="gpt-item">Singuliere@14:37:49 (还有3次)</span>
+
+
+
+```javascript
+// 定义发弹幕函数
+function sendDanmu(content) {
+    // 发送弹幕请求
+    fetch('https://chatgpt.com/api/send_danmu', {
+        method: 'POST',
+        body: JSON.stringify({
+            content
+        }),
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    })
+    .then(res =&gt; res.json())
+    .then(data =&gt; {
+        // 弹幕发送成功
+        if (data.code === 0) {
+            console.log('发送弹幕成功！');
+        }
+        else {
+            console.log('发送弹幕失败！');
+        }
+    });
+}
+
+// 调用发弹幕函数
+sendDanmu('Hello World!');
+```
+####  #写一个Java版本的单例模式代码 <span class="gpt-item">Wildebeest@14:36:26 (还有4次)</span>
+
+：
+
+public class Singleton {
+    private static Singleton instance;
+    private Singleton(){
+        //私有构造函数
+    }
+    public static synchronized Singleton getInstance(){
+        if(instance == null){
+            instance = new Singleton();
+        }
+        return instance;
+    }
+}
+####  #预测下世界杯冠军 <span class="gpt-item">蜡笔-小鑫鑫@14:35:02 (还有2次)</span>
+
+
+
+很遗憾，我不能预测下世界杯冠军。只能说，未来的世界杯冠军将由一支出色的球队拿下。
+####  #这届世界杯谁夺冠 <span class="gpt-item">蜡笔-小鑫鑫@14:34:23 (还有3次)</span>
+
+
+
+本届世界杯已经于2018年7月15日在俄罗斯举行，法国队夺得冠军，在决赛中以4比2击败克罗地亚队。
+####  #如何找到工作 <span class="gpt-item">tatsutei@14:33:55 (还有4次)</span>
+
+
+
+1. 制定一份清晰的职业规划：明确你的职业发展目标，制定你想要实现的职业目标，同时也需要制定一个可行的计划，让你能够实现这些目标。 
+
+2. 搜索招聘信息：在线搜索当前招聘信息，找到你感兴趣的职位，并了解其要求，熟悉招聘流程。
+
+3. 网络招聘：多利用网络招聘平台，把简历上传到大量的招聘网站上，扩大你的求职范围，有效提升求职成功率。
+
+4. 参加招聘会：参加招聘会，可以让你与潜在的雇主面对面交流，更容易让他们记住你的个人特色，有助于你被录用。
+
+5. 建立专业网络：通过与同行交流，深入了解相关行业，建立专业网络，可以让你更容易获得有价值的信
+####  #法国跟阿根廷的比分多少 <span class="gpt-item">蜡笔-小鑫鑫@14:33:29 (还有4次)</span>
+
+
+
+法国跟阿根廷的比分是4：3，2018年6月30日在俄罗斯举行的世界杯1/8决赛中，法国4：3击败阿根廷。
+####  #马云在日本干什么 <span class="gpt-item">七层楼辣么高@14:32:50 (还有2次)</span>
+
+？
+
+马云正在日本参加2018东京国际创新峰会，参与讨论如何推动新技术，如人工智能和区块链在日本的发展，并且发表演讲，探讨当今最热门的技术话题，以及分享阿里巴巴的成功经验。
+####  #搭建GTA5服务器 <span class="gpt-item">SAFD墨染@14:30:50 (还有2次)</span>
+
+
+
+1. 下载GTA5服务器支持文件：首先你需要下载GTA5服务器支持文件，可以从Steam服务器下载（推荐），也可以从Rockstar官网下载。
+
+2. 安装GTA5服务器：将下载的文件解压到指定的文件夹，然后双击安装程序即可完成安装，安装后可以使用管理工具进行服务器设置和管理。
+
+3. 配置GTA5服务器：使用管理工具可以设置服务器的一些参数，例如：服务器地图、游戏模式、在线人数等。
+
+4. 启动GTA5服务器：当所有设置完成之后，只需要点击“启动”按钮，就可以启动GTA5服务器。
+
+5. 登录GTA5服务器：只要服务器启动，就可以使用客户端登录GTA5服务器，玩家就可以开始进行游戏了。
+####  #Centos搭建OpenLdap <span class="gpt-item">SAFD墨染@14:27:06 (还有3次)</span>
+
+
+
+一、安装openldap：
+
+1、使用yum安装openldap及其依赖包
+
+# yum install openldap openldap-servers openldap-clients
+
+2、创建slapd.conf文件
+
+# vi /etc/openldap/slapd.conf
+
+3、启动openldap服务
+
+# service slapd start
+
+二、创建基础结构：
+
+1、创建管理员
+
+# ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/cosine.ldif
+# ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/nis.ldif
+# ldapadd -Y EXTERNAL -H ldapi:/// -f /etc/openldap/schema/inetorgperson.ldif
+# slapadd -l /etc/openldap/slapd.ldif
+
+2、添加管理员
+
+# ldapadd -x -D "cn=Manager,dc=example,dc=com" -W -f base.ldif
+
+三、添加用户：
+
+1、创建新的用户
+
+# ldapadd -x -D "cn=Manager,dc=example,dc=com" -W -f user.ldif
+
+2、查看用户
+
+# ldapsearch -x -b "dc=example,dc=com"
+
+3、修改用户
+
+# ldapmodify -x -D "cn=Manager,dc=example,dc=com" -W -f user_modify.ldif
+####  #scrapy爬取微博用户相册 <span class="gpt-item">一个布里茨@14:26:14 (还有1次)</span>
+
+
+
+1.首先利用scrapy框架登录微博，获取登录后的cookies；
+
+2.利用selenium获取用户相册地址，使用scrapy.Request发送请求，并设置cookies；
+
+3.使用Xpath解析用户相册地址，将获取到的图片链接保存到列表中；
+
+4.使用scrapy.Request发送请求，发送图片请求，并设置cookies；
+
+5.利用urllib.urlretrieve保存图片到本地。
 ####  # 如何用C语言实现lstm中遗忘门函数 <span class="gpt-item">诚实可靠小郎君zz@14:19:53 (还有3次)</span>
 
 ？
