@@ -4,13 +4,29 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>CR小唐: <span style="color:var(--vp-c-brand);"> #如何实现前后端分离</span></li><li>CR小唐: <span style="color:var(--vp-c-brand);"> #继续</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #cos服制作原理</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #python socket多线程</span></li><li>源千陌: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #写一个英文邮件，提醒jack下周一开会</span></li><li>自然人灬: <span style="color:var(--vp-c-brand);"> #你师父是谁</span></li><li>龙风呀: <span style="color:var(--vp-c-brand);"> #关机</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> 你很调皮啊</span></li><li>没有皮卡丘的小Z: <span style="color:var(--vp-c-brand);"> #刷新弹幕</span></li></ul>
+<ul class="gpt-fix-window"><li>oodzfa: <span style="color:var(--vp-c-brand);"> #python socket多线程</span></li><li>源千陌: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #写一个英文邮件，提醒jack下周一开会</span></li><li>自然人灬: <span style="color:var(--vp-c-brand);"> #你师父是谁</span></li><li>龙风呀: <span style="color:var(--vp-c-brand);"> #关机</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> 你很调皮啊</span></li><li>没有皮卡丘的小Z: <span style="color:var(--vp-c-brand);"> #刷新弹幕</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #模拟浏览器 执行 while(1){}</span></li><li>七里香不香__: <span style="color:var(--vp-c-brand);"> 机器人寄了</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #bilibili如何获取弹幕回复</span></li></ul>
 
 ::: danger 感谢礼物: oodzfa 投喂了10 个  辣条(使用次数+10)
 :::
-::: info 自然人灬   :<span style="color:var(--vp-c-brand);"> #你师父是谁 </span> 
+::: info 花渐畔   :<span style="color:var(--vp-c-brand);"> #bilibili如何获取弹幕回复 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #bilibili如何获取弹幕回复 <span class="gpt-item">花渐畔@08:46:38 (还有3次)</span>
+
+
+
+（1）登录bilibili网站，找到视频页面，点击“弹幕”；
+
+（2）在弹幕页面中，点击“回复”按钮，即可查看当前视频的回复；
+
+（3）可以选择热门回复、最新回复和全部回复，查看已有的回复内容。
+####  #模拟浏览器 执行 while(1){} <span class="gpt-item">花渐畔@08:42:07 (还有4次)</span>
+
+
+
+while(1){//一直循环
+    //此处没有定义循环体内容，因此会产生死循环，模拟浏览器会一直执行，直到浏览器崩溃。
+}
 ####  #你师父是谁 <span class="gpt-item">自然人灬@08:28:50 (还有4次)</span>
 
 
