@@ -4,13 +4,37 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #破解AES-256位加密技术需要学习哪</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #每天有多少程序员让你帮他们写代码</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 你的写代码能力大概是一个什么样的水平</span></li><li>嘚瑟的小鸡蛋: <span style="color:var(--vp-c-brand);"> 昂昂</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 你知道现在播放的音乐叫什么吗</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #你知道现在播放的音乐叫什么吗</span></li><li>耿延: <span style="color:var(--vp-c-brand);"> 哈喽你好呀</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #所以你只能处理文本信息，不能处理图像和</span></li><li>白林彡: <span style="color:var(--vp-c-brand);"> 体验</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #哈哈哈，我在提问，不是让你补充</span></li></ul>
+<ul class="gpt-fix-window"><li>白林彡: <span style="color:var(--vp-c-brand);"> 请使用keil5编写一个通过stc52单</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #今天杭州下陨石了，你听说了吗</span></li><li>越迷人的愈危险: <span style="color:var(--vp-c-brand);"> 阿根廷是冠军吗</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #退烧止痛布洛芬和泰诺选哪个</span></li><li>越迷人的愈危险: <span style="color:var(--vp-c-brand);"> #up主的B站密码是多少</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 哈哈哈，你负责密码，我搞到账号</span></li><li>测试111444: <span style="color:var(--vp-c-brand);"> 今天</span></li><li>越迷人的愈危险: <span style="color:var(--vp-c-brand);"> #伽马函数举例</span></li><li>莉轩坊: <span style="color:var(--vp-c-brand);"> #怎么能够拥有你</span></li><li>越迷人的愈危险: <span style="color:var(--vp-c-brand);"> #什么是延安精神</span></li></ul>
 
 ::: danger 感谢礼物: 小怪兽被床绑架了 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 小怪兽被床绑架了   :<span style="color:var(--vp-c-brand);"> #哈哈哈，我在提问，不是让你补充 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 莉轩坊   :<span style="color:var(--vp-c-brand);"> #怎么能够拥有你 </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
+####  #伽马函数举例 <span class="gpt-item">越迷人的愈危险@09:26:03 (还有4次)</span>
+
+
+
+一个例子为：将某一事件的可能性以概率的形式来衡量，如果某一事件的概率为p，则可以用Sigmoid函数来表示：
+
+S(x) = 1/(1+e^(-px)) 
+
+当p为正数时，x越大，概率越大；当p为负数时，x越大，概率越小。
+####  #退烧止痛布洛芬和泰诺选哪个 <span class="gpt-item">小怪兽被床绑架了@09:23:10 (还有1次)</span>
+
+
+
+这两种药物的作用都是抗炎止痛，但是泰诺更适合用来治疗感冒引起的发热和头痛，而布洛芬则更适合用来治疗轻度疼痛，如关节炎、扭伤或肌肉疼痛等。因此，根据病情的不同，应选择不同的药物。
+####  #今天杭州下陨石了，你听说了吗 <span class="gpt-item">小怪兽被床绑架了@09:21:00 (还有1次)</span>
+
+？
+
+没有，真的吗？
+####  #你可以处理图片信息吗 <span class="gpt-item">小怪兽被床绑架了@09:17:31 (还有2次)</span>
+
+
+
+是的，我可以处理图片信息。我可以使用图像处理工具进行图片信息的分析，包括增强、分割、识别等。此外，我还可以使用机器学习技术来分析图片信息，比如识别图片内容、分类图片等。
 ####  #哈哈哈，我在提问，不是让你补充 <span class="gpt-item">小怪兽被床绑架了@09:16:28 (还有3次)</span>
 
 答案，而是让你提出自己的问题，看看你有什么新的想法和见解？
