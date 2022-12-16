@@ -2,13 +2,59 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>刃心1742: <span style="color:var(--vp-c-brand);"> #11</span></li><li>星云抚摸海浪: <span style="color:var(--vp-c-brand);"> 啥</span></li><li>钱嗦书: <span style="color:var(--vp-c-brand);"> 食不食油饼</span></li><li>钱嗦书: <span style="color:var(--vp-c-brand);"> ？</span></li><li>钱嗦书: <span style="color:var(--vp-c-brand);"> 哦哦我搞错了</span></li><li>天道酬臻: <span style="color:var(--vp-c-brand);"> 韭菜炒鸡蛋怎么做</span></li><li>天道酬臻: <span style="color:var(--vp-c-brand);"> #韭菜炒鸡蛋怎么做？</span></li><li>我错了审核别搞我了呵: <span style="color:var(--vp-c-brand);"> #怎么看待地狱犬？</span></li><li>真挚的卖小盆友: <span style="color:var(--vp-c-brand);"> #韭菜炒鸡蛋怎么做？</span></li><li>极限星芒_: <span style="color:var(--vp-c-brand);"> #哈哈</span></li></ul>
+<ul class="gpt-fix-window"><li>铭KK先森: <span style="color:var(--vp-c-brand);"> #茄子炒辣子怎么做</span></li><li>狗头侦探事务所合伙人: <span style="color:var(--vp-c-brand);"> 这是什么</span></li><li>Bili真是太好了: <span style="color:var(--vp-c-brand);"> wps英文怎么自动加-</span></li><li>铭KK先森: <span style="color:var(--vp-c-brand);"> #土豆丝怎么炒好吃？</span></li><li>凉介之秋: <span style="color:var(--vp-c-brand);"> 9999</span></li><li>凉介之秋: <span style="color:var(--vp-c-brand);"> 晚上吃啥</span></li><li>Bili真是太好了: <span style="color:var(--vp-c-brand);"> #wps英文怎么自动加-</span></li><li>凉介之秋: <span style="color:var(--vp-c-brand);"> #晚上吃啥</span></li><li>凉介之秋: <span style="color:var(--vp-c-brand);"> #晚上吃啥-</span></li><li>铭KK先森: <span style="color:var(--vp-c-brand);"> #麻婆豆腐怎么做</span></li></ul>
 
 ::: danger 感谢礼物: 树先生会跳舞 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 真挚的卖小盆友   :<span style="color:var(--vp-c-brand);"> #韭菜炒鸡蛋怎么做？ </span> 
- <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
+::: info 铭KK先森   :<span style="color:var(--vp-c-brand);"> #麻婆豆腐怎么做 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #麻婆豆腐怎么做 <span class="gpt-item">铭KK先森@17:26:25 (还有1次)</span>
+
+
+
+材料：豆腐200克，肉末50克，葱2棵，蒜2瓣，酱油1大勺，料酒1/2大勺，淀粉适量，酱油汁2大勺，芝麻少许，油2大勺，糖1/2小勺
+
+1.豆腐切块，葱蒜切碎，肉末加入料酒、酱油、糖、淀粉拌匀；
+
+2.锅中烧热油，爆香葱蒜，放入肉末炒至变色；
+
+3.倒入豆腐翻炒均匀，加入酱油汁，小火焖煮5-8分钟；
+
+4.最后撒上芝麻即可。
+####  #晚上吃啥- <span class="gpt-item">凉介之秋@17:25:42 (还有4次)</span>
+
+
+
+这要取决于您的口味偏好，可以考虑吃米饭、面条、蔬菜沙拉、汤或烧烤等。
+####  #wps英文怎么自动加- <span class="gpt-item">Bili真是太好了@17:24:54 (还有4次)</span>
+
+
+
+WPS stands for Word Processing System, and it is an abbreviation used to refer to a type of software used to create and edit text documents. To automatically add a hyphen to a word in WPS, you can use the AutoCorrect feature. This feature allows you to automatically add hyphens to words as you type them. To use this feature, go to Tools &gt; AutoCorrect and then enter the word and the hyphen in the Replace box.
+####  #土豆丝怎么炒好吃？ <span class="gpt-item">铭KK先森@17:24:17 (还有2次)</span>
+
+
+
+1. 首先，将土豆丝洗净，用干净的湿抹布蘸取水，将土豆丝拌匀。
+
+2. 热锅，放入适量油，烧至六成热时，倒入土豆丝，大火快速翻炒，炒至土豆丝表面微焦时，用铲子压实，使土豆丝有一定的硬度，大火翻炒至表面金黄时，撒入少许盐，炒匀即可出锅。
+####  #茄子炒辣子怎么做 <span class="gpt-item">铭KK先森@17:22:56 (还有3次)</span>
+
+
+
+1.准备好所需食材：茄子、辣子、盐、植物油。
+
+2.将茄子切成细条，用油炸至熟透，捞出待用。
+
+3.将辣子、盐放入油锅中爆香，再将茄子炒入锅中。
+
+4.炒至辣子变得香味浓郁，加入适量盐调味，即可出锅。
+####  #和面用冷水还是温水？ <span class="gpt-item">铭KK先森@17:21:55 (还有4次)</span>
+
+
+
+一般来说，建议用温水泡面，因为温水能更好地吸收面粉中的营养，而且温水泡面的口感更好，更加香Q弹。
 ####  #怎么看待地狱犬？ <span class="gpt-item">我错了审核别搞我了呵@17:16:14 (还有4次)</span>
 
 
