@@ -4,13 +4,68 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>鲨鱼放火历飞羽: <span style="color:var(--vp-c-brand);"> 这玩意不是停了吗</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 妙啊</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 保熟吗</span></li><li>StEve_YoUng: <span style="color:var(--vp-c-brand);"> 暗中观察</span></li><li>sonickang: <span style="color:var(--vp-c-brand);"> 233</span></li><li>sam_sir: <span style="color:var(--vp-c-brand);"> # 大圣老师是谁</span></li><li>JAVA知府鱼晟菌: <span style="color:var(--vp-c-brand);"> #大圣老师好帅</span></li><li>阳阳的粑鼻: <span style="color:var(--vp-c-brand);"> 你觉得比特币还会涨价吗</span></li></ul>
+<ul class="gpt-fix-window"><li>sam_sir: <span style="color:var(--vp-c-brand);"> # 大圣老师是谁</span></li><li>JAVA知府鱼晟菌: <span style="color:var(--vp-c-brand);"> #大圣老师好帅</span></li><li>阳阳的粑鼻: <span style="color:var(--vp-c-brand);"> 你觉得比特币还会涨价吗</span></li><li>阳阳的粑鼻: <span style="color:var(--vp-c-brand);"> #你觉得比特币还会涨价吗</span></li><li>彭小蒙: <span style="color:var(--vp-c-brand);"> #用ts实现一个冒泡排序算法</span></li><li>三年用户: <span style="color:var(--vp-c-brand);"> #如何正确谈恋爱</span></li><li>彭小蒙: <span style="color:var(--vp-c-brand);"> 用ts实现判断给定年份是不是闰年</span></li><li>ag3911: <span style="color:var(--vp-c-brand);"> 不是挂了吗</span></li><li>彭小蒙: <span style="color:var(--vp-c-brand);"> #用ts实现判断是否是闰年</span></li><li>CR小唐: <span style="color:var(--vp-c-brand);"> #开发一个中台系统需要用到哪些技术栈</span></li></ul>
 
 ::: danger 感谢礼物: 让我捡漏吧 投喂了1 个  辣条(使用次数+1)
 :::
-::: info JAVA知府鱼晟菌   :<span style="color:var(--vp-c-brand);"> #大圣老师好帅 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info CR小唐   :<span style="color:var(--vp-c-brand);"> #开发一个中台系统需要用到哪些技术栈 </span> 
+ <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
 :::
+####  #用ts实现判断是否是闰年 <span class="gpt-item">彭小蒙@07:56:49 (还有3次)</span>
+
+
+
+```typescript
+// 判断是否是闰年
+function isLeapYear(year: number): boolean {
+  if (year % 4 === 0 && year % 100 !== 0 || year % 400 === 0) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+console.log(isLeapYear(2020)); //true
+console.log(isLeapYear(2019)); //false
+```
+####  #如何正确谈恋爱 <span class="gpt-item">三年用户@07:53:52 (还有3次)</span>
+
+
+
+1.建立信任：信任是恋爱的基础，只有相互信任，才能有更好的沟通，才能让感情更加稳固。
+
+2.多沟通：多沟通，聊天，多了解对方，多表达你的感受，让彼此更深入地了解，让彼此之间更加亲密。
+
+3.尊重对方：尊重对方，接受对方的差异，尊重对方的观点，尊重对方的决定，互相尊重，才能让感情更持久。
+
+4.给予关怀：关心对方，给予你的支持，让对方温暖，让双方产生情感交流，让双方感情变得更加深厚。
+
+5.相处有趣：尝试新的活动，做有趣的事情，让双方的感情更加活跃，让双方更加有趣。
+####  #用ts实现一个冒泡排序算法 <span class="gpt-item">彭小蒙@07:52:45 (还有4次)</span>
+
+
+
+```js
+// 冒泡排序算法
+function bubbleSort&lt;T&gt;(arr: T[]) {
+  let len = arr.length;
+  for (let i = 0; i &lt; len; i++) {
+    for (let j = 0; j &lt; len - 1 - i; j++) {
+      if (arr[j] &gt; arr[j + 1]) {
+        let temp = arr[j];
+        arr[j] = arr[j + 1];
+        arr[j + 1] = temp;
+      }
+    }
+  }
+  return arr;
+}
+```
+####  #你觉得比特币还会涨价吗 <span class="gpt-item">阳阳的粑鼻@07:50:41 (还有4次)</span>
+
+
+
+比特币是一种数字货币，其价格受到市场供求法则、政策影响和市场流动性的影响。所以，它的价格有可能会涨，也有可能会跌。在未来，比特币价格会持续变化，投资者可以根据自己的风险偏好和投资目标来决定是否投资比特币。
 ####  #大圣老师好帅 <span class="gpt-item">JAVA知府鱼晟菌@07:46:28 (还有4次)</span>
 
 '
@@ -2325,23 +2380,3 @@ ChatGPT是一种新的聊天机器人技术，基于OpenAI的GPT-3模型，专�
 
 
 印度是一个发展中大国，但不是超级大国。它拥有世界第二大人口，拥有经济增长最快的经济体之一，但它仍然有大量的贫困和发展挑战。
-####  #请介绍一下第三世界国家 <span class="gpt-item">美人鱼菲兹@23:23:36 (还有4次)</span>
-
-
-
-第三世界国家也被称为发展中国家，是指因经济发展水平落后于全球化浪潮而远远落后于先进国家的国家。这些国家的经济发展水平和社会发展水平远低于发达国家，他们的经济基础薄弱，生产力低，贫富差距大，政府腐败严重，政治稳定性差，环境污染严重，健康和教育水平低，就业率低，人口增长过快，货币贬值严重，通货膨胀高，社会疾病普遍，经济活动低迷等等。
-####  #反感家人，不愿意再看到 <span class="gpt-item">三年用户@23:23:09 (还有1次)</span>
-
-他们，有时甚至不愿意和他们说话，这种情况很常见。
-
-In such cases, it is important to take some time to think about the situation and to let your emotions run their course. It may be helpful to talk to someone you trust, such as a friend or family member, about your feelings. You may also find it beneficial to discuss your feelings with a therapist or counselor, who can help you identify the root cause of your negative feelings and work through them in a constructive manner. Additionally, it can be helpful to take a break from the situation and focus on activities that bring you joy. Taking some time away from the situation can help you gain a new perspective and perhaps even create new ways of relating to your family members.
-####  #政企是不是狼狈为奸 <span class="gpt-item">三年用户@23:21:20 (还有2次)</span>
-
-
-
-不是，政企是政府和企业的综合体，是政府和企业共同发展的重要形式。它为政府和企业提供了更多的可能性，使它们能够把资源更有效地结合在一起，发挥综合效益。
-####  #中国哪个城市适合居住 <span class="gpt-item">三年用户@23:20:35 (还有3次)</span>
-
-
-
-中国有很多城市都适合居住，比如北京、上海、广州、深圳、杭州、重庆、厦门、大连、成都、青岛、武汉等等。根据个人喜好和需求，可以选择不同的城市来居住。
