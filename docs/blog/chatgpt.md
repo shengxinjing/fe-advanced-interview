@@ -2,13 +2,107 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>div_1024: <span style="color:var(--vp-c-brand);"> #写一本两百万字的小说</span></li><li>某饼砸: <span style="color:var(--vp-c-brand);"> #pysimplegui如何使用多进程</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #花果山大圣是谁</span></li><li>55202267388_bili: <span style="color:var(--vp-c-brand);"> #为什么B站的弹幕限制在20个字</span></li><li>薯片哥哥咯: <span style="color:var(--vp-c-brand);"> 我是谁</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #如何成为一名前端开发工程师</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #前端工程师如何进入大厂</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #前端好还是后端好</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #哪个语言是世界上最好的语言</span></li><li>大师_Perez: <span style="color:var(--vp-c-brand);"> #外贸业务员的简历如何写</span></li></ul>
+<ul class="gpt-fix-window"><li>莫越西郊: <span style="color:var(--vp-c-brand);"> #写一份300字的食品行业的实习报告</span></li><li>莫越西郊: <span style="color:var(--vp-c-brand);"> #中国top3大学是哪所？</span></li><li>chalj: <span style="color:var(--vp-c-brand);"> 如何写一个树形多选框组件</span></li><li>bili_81319134615: <span style="color:var(--vp-c-brand);"> #用c++写通讯录系统</span></li><li>bili_81319134615: <span style="color:var(--vp-c-brand);"> #用c语言写通讯录系统</span></li><li>高老憨: <span style="color:var(--vp-c-brand);"> #今天吃啥</span></li><li>喵卡星人: <span style="color:var(--vp-c-brand);"> 你好</span></li><li>高老憨: <span style="color:var(--vp-c-brand);"> #今天晚上吃啥，推荐一下</span></li><li>喵卡星人: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>targetSource: <span style="color:var(--vp-c-brand);"> ？？</span></li></ul>
 
 ::: danger 感谢礼物: 要努力搬砖の阿凯 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 大师_Perez   :<span style="color:var(--vp-c-brand);"> #外贸业务员的简历如何写 </span> 
+::: info 高老憨   :<span style="color:var(--vp-c-brand);"> #今天晚上吃啥，推荐一下 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #今天晚上吃啥，推荐一下 <span class="gpt-item">高老憨@15:57:30 (还有4次)</span>
+
+
+
+推荐烤鸭饭、糖醋排骨、西红柿鸡蛋汤、鱼香肉丝、番茄炒蛋等。
+####  #用c语言写通讯录系统 <span class="gpt-item">bili_81319134615@15:50:28 (还有4次)</span>
+
+
+
+#include&lt;stdio.h&gt;
+#include&lt;string.h&gt;
+#include&lt;stdlib.h&gt;
+
+#define MAX_LEN 20
+
+typedef struct{
+    char name[MAX_LEN];  //联系人名字
+    char tel[MAX_LEN];   //联系人电话
+}People;
+
+//联系人结构体数组
+People people[MAX_LEN];
+int numPeople=0;
+
+//添加联系人
+void addPeople(){
+    if(numPeople==MAX_LEN){
+        printf("通讯录已满！\n");
+        return;
+    }
+    printf("请输入联系人姓名：\n");
+    scanf("%s",people[numPeople].name);
+    printf("请输入联系人电话：\n");
+    scanf("%s",people[numPeople].tel);
+    printf("添加成功！\n");
+    numPeople++;
+}
+
+//删除联系人
+void deletePeople(){
+    char name[MAX_LEN];
+    int i,flag=0;
+    printf("请输入要删除的联系人姓名：\n");
+    scanf("%s",name);
+    for(i=0;i&lt;numPeople;i++){
+        if(strcmp(name,people[i].name)==0){
+            flag=1;
+            break;
+        }
+    }
+    if(flag){
+        for(;i&lt;numPeople-1;i++){
+            people[i]=people[i+1];
+        }
+        printf("删除成功！\n");
+        numPeople--;
+    } 
+    else printf("未找到该联系人！\n");
+}
+
+//查找联系人
+void searchPeople(){
+    char name[MAX_LEN];
+    int i,flag=0;
+    printf("请输入要查找的联系人姓
+####  #中国top3大学是哪所？ <span class="gpt-item">莫越西郊@15:47:51 (还有2次)</span>
+
+
+
+1. 清华大学
+2. 北京大学
+3. 浙江大学
+####  #写一份300字的食品行业的实习报告 <span class="gpt-item">莫越西郊@15:45:20 (还有3次)</span>
+
+
+
+尊敬的各位领导：
+
+您好，我是xxx，本科毕业于xxx，现在在食品行业实习。
+
+在实习期间，我参与了一些关于食品行业的研究和分析，发现了影响行业发展的一些关键因素。首先，在食品行业中，消费者对于产品质量的要求越来越高，企业要想在竞争激烈的市场中脱颖而出，就必须提高自身的产品质量。其次，食品行业是非常重要的消费行业，企业要想在市场上获得更多的收益，就需要不断提升自身的服务水平，更多的满足消费者的需求。此外，食品安全也是影响行业发展的一个重要因素，食品企业要想提高企业信誉，就要积极投入大量的资源，加强食品安全管理，以确保食品安全。
+
+通过实习，我深入了解了
+####  #写一份400字左右的生产实习心得 <span class="gpt-item">莫越西郊@15:41:45 (还有4次)</span>
+
+
+
+本科毕业后，我获得了一份实习机会，在一家工厂进行生产实习，经过一段时间的实习，我受益良多。
+
+首先，从实习中我收获了有关生产管理的实际经验，对此我非常感激。我学到了如何组织和管理一个现代的工厂，以及如何提高生产效率，如何分析和解决生产过程中出现的问题。这些经验对我现在的工作有很大的帮助。
+
+其次，实习期间，我接触到不同的职业和知识，拓宽了我的视野。通过与工厂中不同职位的人交流，我了解到了如何运用自己的知识，把所学的知识应用到实践中，以及个人能力发挥什么作用，这些都给我的发展提供了很多帮助。
+
+最后，实习期间，我更加坚定了自己的职业发展方向，培养了自己的责任感。通过
 ####  #外贸业务员的简历如何写 <span class="gpt-item">大师_Perez@15:36:35 (还有4次)</span>
 
 ？
