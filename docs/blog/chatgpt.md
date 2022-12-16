@@ -4,12 +4,12 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #编程方向前端比较后端谁会发展更好</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> 好家伙，还有使用次数</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #React和Vue你更推荐学习那个</span></li><li>我家有个泡泡糖: <span style="color:var(--vp-c-brand);"> #你是谁？你在哪？你在干什么？</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #注重算法网络操作系统学习还是框架使用</span></li><li>卓惩: <span style="color:var(--vp-c-brand);"> #魔镜，魔镜，谁是世界上最好的语言</span></li><li>jsYimo: <span style="color:var(--vp-c-brand);"> 林肯公园</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #未来学习那一个编程语言待遇最好</span></li></ul>
+<ul class="gpt-fix-window"><li>我家有个泡泡糖: <span style="color:var(--vp-c-brand);"> #你是谁？你在哪？你在干什么？</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #注重算法网络操作系统学习还是框架使用</span></li><li>卓惩: <span style="color:var(--vp-c-brand);"> #魔镜，魔镜，谁是世界上最好的语言</span></li><li>jsYimo: <span style="color:var(--vp-c-brand);"> 林肯公园</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #未来学习那一个编程语言待遇最好</span></li><li>何日再相爱: <span style="color:var(--vp-c-brand);"> #你是谁？</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>dgpkdd: <span style="color:var(--vp-c-brand);"> 冠上了咋办</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> #为什么要发明全麦面包？</span></li></ul>
 
 ::: danger 感谢礼物: BOEING777-9 投喂了1 个  辣条(使用次数+1)
 :::
-::: info -自然疯-   :<span style="color:var(--vp-c-brand);"> #未来学习那一个编程语言待遇最好 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 爱喝一点点的满大人   :<span style="color:var(--vp-c-brand);"> #为什么要发明全麦面包？ </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
 ####  #未来学习那一个编程语言待遇最好 <span class="gpt-item">-自然疯-@11:13:03 (还有0次)</span>
 
