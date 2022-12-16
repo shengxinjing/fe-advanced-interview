@@ -4,12 +4,12 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>_阿西莫夫: <span style="color:var(--vp-c-brand);"> # 原神是腾讯的吗</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>呆呆_XD: <span style="color:var(--vp-c-brand);"> #直播得掙錢模式</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 嘿</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> 秀</span></li><li>一泓禧悲: <span style="color:var(--vp-c-brand);"> #怎么做紫菜蛋花汤</span></li><li>_鬼面少年-: <span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好</span></li></ul>
+<ul class="gpt-fix-window"><li>呆呆_XD: <span style="color:var(--vp-c-brand);"> #直播得掙錢模式</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 嘿</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> 秀</span></li><li>一泓禧悲: <span style="color:var(--vp-c-brand);"> #怎么做紫菜蛋花汤</span></li><li>_鬼面少年-: <span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好</span></li><li>屈正: <span style="color:var(--vp-c-brand);"> #请生成二维码</span></li><li>哦呀苏米纳塞: <span style="color:var(--vp-c-brand);"> #vue吊还是react吊</span></li></ul>
 
 ::: danger 感谢礼物: _阿西莫夫 投喂了1 个  辣条(使用次数+1)
 :::
-::: info _鬼面少年-   :<span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 哦呀苏米纳塞   :<span style="color:var(--vp-c-brand);"> #vue吊还是react吊 </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
 ####  #为什么互联网在裁员，什么时候行情能好 <span class="gpt-item">_鬼面少年-@09:53:00 (还有4次)</span>
 
