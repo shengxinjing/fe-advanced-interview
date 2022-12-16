@@ -2,13 +2,79 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>IceiWd: <span style="color:var(--vp-c-brand);"> #分别解释一下SOLID</span></li><li>IceiWd: <span style="color:var(--vp-c-brand);"> #列举所有Code Smell</span></li><li>IceiWd: <span style="color:var(--vp-c-brand);"> #用英文解释所有Code Smell</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #讲解一下Netty框架的线程模型</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一篇运动会加油稿</span></li><li>Alias不会写Haskell: <span style="color:var(--vp-c-brand);"> #帮我写一段用haskell实现的最长公共子序列算法</span></li><li>胖胖Winnie: <span style="color:var(--vp-c-brand);"> 随便写一个vue3组件</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一个基于java的nio的聊天代码</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li></ul>
+<ul class="gpt-fix-window"><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一篇运动会加油稿</span></li><li>Alias不会写Haskell: <span style="color:var(--vp-c-brand);"> #帮我写一段用haskell实现的最长公共子序列算法</span></li><li>胖胖Winnie: <span style="color:var(--vp-c-brand);"> 随便写一个vue3组件</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一个基于java的nio的聊天代码</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li><li>jk426166: <span style="color:var(--vp-c-brand);"> #封装一个upload组件</span></li><li>愤怒的锅锅: <span style="color:var(--vp-c-brand);"> 主播你好</span></li><li>小太阳早点睡: <span style="color:var(--vp-c-brand);"> 手写render 函数</span></li><li>小太阳早点睡: <span style="color:var(--vp-c-brand);"> #手写render函数</span></li></ul>
 
 ::: danger 感谢礼物: Dr_pokm 投喂了1 个  辣条(使用次数+1)
 :::
-::: info Dr_pokm   :<span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info 小太阳早点睡   :<span style="color:var(--vp-c-brand);"> #手写render函数 </span> 
+ <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
 :::
+####  #封装一个upload组件 <span class="gpt-item">jk426166@15:01:34 (还有4次)</span>
+
+
+
+```js
+import React, {Component} from 'react';
+
+class Upload extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      fileList: [],
+    };
+  }
+
+  handleChange = e =&gt; {
+    const files = [...e.target.files];
+    const fileList = files.map(file =&gt; {
+      return {
+        name: file.name,
+        size: file.size,
+        type: file.type,
+        data: file,
+      };
+    });
+    this.setState({fileList});
+  };
+
+  handleUpload = () =&gt; {
+    const {fileList} = this.state;
+    const {url, onSuccess} = this.props;
+    const formData = new FormData();
+    fileList.forEach(file =&gt; {
+      formData.append('file', file.data);
+    });
+    fetch(url, {
+      method: 'POST',
+      body: formData,
+    })
+      .then(response =&gt; response.json())
+      .then(onSuccess)
+      .catch(err =&gt; console.log(err));
+  };
+
+  render() {
+    const {fileList} = this.state;
+    return (
+      &lt;div&gt;
+        &lt;input type="file" multiple onChange={this.handleChange} /&gt;
+        &lt;button onClick={this.handleUpload}&gt;Upload&lt;/button&gt;
+        &lt;ul&gt;
+          {fileList.map(file =&gt; {
+            return (
+              &lt;li key={file.name}&gt;
+                {file.name} - {file.size}
+              &lt;/li&gt;
+            );
+          })}
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    );
+  }
+}
+
+export default Upload;
+```
 ####  #吃沙县还是萨莉亚 <span class="gpt-item">Dr_pokm@14:55:32 (还有14次)</span>
 
 县
