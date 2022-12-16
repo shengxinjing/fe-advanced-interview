@@ -2,13 +2,26 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>莫越西郊: <span style="color:var(--vp-c-brand);"> #写一份300字的食品行业的实习报告</span></li><li>莫越西郊: <span style="color:var(--vp-c-brand);"> #中国top3大学是哪所？</span></li><li>chalj: <span style="color:var(--vp-c-brand);"> 如何写一个树形多选框组件</span></li><li>bili_81319134615: <span style="color:var(--vp-c-brand);"> #用c++写通讯录系统</span></li><li>bili_81319134615: <span style="color:var(--vp-c-brand);"> #用c语言写通讯录系统</span></li><li>高老憨: <span style="color:var(--vp-c-brand);"> #今天吃啥</span></li><li>喵卡星人: <span style="color:var(--vp-c-brand);"> 你好</span></li><li>高老憨: <span style="color:var(--vp-c-brand);"> #今天晚上吃啥，推荐一下</span></li><li>喵卡星人: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>targetSource: <span style="color:var(--vp-c-brand);"> ？？</span></li></ul>
+<ul class="gpt-fix-window"><li>chalj: <span style="color:var(--vp-c-brand);"> 如何写一个树形多选框组件</span></li><li>bili_81319134615: <span style="color:var(--vp-c-brand);"> #用c++写通讯录系统</span></li><li>bili_81319134615: <span style="color:var(--vp-c-brand);"> #用c语言写通讯录系统</span></li><li>高老憨: <span style="color:var(--vp-c-brand);"> #今天吃啥</span></li><li>喵卡星人: <span style="color:var(--vp-c-brand);"> 你好</span></li><li>高老憨: <span style="color:var(--vp-c-brand);"> #今天晚上吃啥，推荐一下</span></li><li>喵卡星人: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>targetSource: <span style="color:var(--vp-c-brand);"> ？？</span></li><li>targetSource: <span style="color:var(--vp-c-brand);"> #JS有哪些常见的设计模式</span></li><li>邦大叔么么哒: <span style="color:var(--vp-c-brand);"> 晚上吃啥</span></li></ul>
 
 ::: danger 感谢礼物: 要努力搬砖の阿凯 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 高老憨   :<span style="color:var(--vp-c-brand);"> #今天晚上吃啥，推荐一下 </span> 
+::: info targetSource   :<span style="color:var(--vp-c-brand);"> #JS有哪些常见的设计模式 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #JS有哪些常见的设计模式 <span class="gpt-item">targetSource@16:00:42 (还有4次)</span>
+
+
+
+1. 单例模式：使一个类只能有一个实例，并提供一个全局访问点来访问它。
+
+2. 工厂模式：把对象的创建和使用分离，在工厂类中创建对象，而在其他类中使用它。
+
+3. 模板方法模式：定义一个操作中的算法骨架，而将一些步骤延迟到子类中。模板方法使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤。
+
+4. 观察者模式：定义对象间的一种一对多的依赖关系，使得每当一个对象改变状态，则所有依赖于它的对象都会得到通知并被自动更新。
+
+5. 适配器模式：将一个类的接口转换成客户期望的另外一个接口。适配器让原来不兼容的类可以合作无间。
 ####  #今天晚上吃啥，推荐一下 <span class="gpt-item">高老憨@15:57:30 (还有4次)</span>
 
 
