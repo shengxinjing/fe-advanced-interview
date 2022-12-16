@@ -4,13 +4,62 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>CodingStart: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么做c服</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么做c服</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么做cos服</span></li><li>风干啊我的忧伤: <span style="color:var(--vp-c-brand);"> #介绍一下生产力-生产关系的联</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么做cosplay服装</span></li><li>杰拉德123: <span style="color:var(--vp-c-brand);"> 你是谁</span></li><li>杰拉德123: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #python tcp多线程</span></li><li>小阳阳小阳: <span style="color:var(--vp-c-brand);"> #介绍下自己</span></li></ul>
+<ul class="gpt-fix-window"><li>白兰鸽巡游录: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>树先生会跳舞: <span style="color:var(--vp-c-brand);"> #我为什么没有男朋友</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #用GO写个HelloWorld</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #评价下Up主</span></li><li>Piu海海: <span style="color:var(--vp-c-brand);"> #多角度分析AI绘画版权问题，五百字以上</span></li><li>小宫同学king: <span style="color:var(--vp-c-brand);"> #介绍一下大圣</span></li><li>树先生会跳舞: <span style="color:var(--vp-c-brand);"> #你如何看待爱情</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #B站什么时候退市</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #用GO写个HelloWorld</span></li><li>Piu海海: <span style="color:var(--vp-c-brand);"> #你是一个预言师，世界杯阿根廷和法国谁胜</span></li></ul>
 
 ::: danger 感谢礼物: BOEING777-9 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 小阳阳小阳   :<span style="color:var(--vp-c-brand);"> #介绍下自己 </span> 
+::: info Piu海海   :<span style="color:var(--vp-c-brand);"> #你是一个预言师，世界杯阿根廷和法国谁胜 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #你是一个预言师，世界杯阿根廷和法国谁胜 <span class="gpt-item">Piu海海@10:56:08 (还有3次)</span>
+
+利？
+
+这很难预测，但我认为法国会占上风。
+####  #用GO写个HelloWorld <span class="gpt-item">ZLLion@10:54:32 (还有2次)</span>
+
+
+
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello World")
+}
+####  #B站什么时候退市 <span class="gpt-item">ZLLion@10:53:40 (还有3次)</span>
+
+
+
+B站的IPO于2020年7月9日在美国纳斯达克上市，并于2020年9月14日退市，在纳斯达克上市的时间为3个月。
+####  #你如何看待爱情 <span class="gpt-item">树先生会跳舞@10:53:32 (还有3次)</span>
+
+？
+
+爱情是一种神奇的感情，它可以给人带来无限的快乐和温暖，也可以让人付出很大的代价。爱情是一个美丽而又复杂的情感，它需要经营和珍惜，才能让彼此受益。
+####  #多角度分析AI绘画版权问题，五百字以上 <span class="gpt-item">Piu海海@10:52:47 (还有4次)</span>
+
+
+
+对于AI绘画版权问题，可以从以下几个方面来分析。
+
+首先，从法律角度看，AI绘画的版权属于谁？答案是软件的开发者。根据著作权法的规定，著作权是作品的创作者所独有的权利，而AI是一种软件，其绘画作品也属于著作权，因此，软件的开发者对AI绘画版权有绝对的所有权。
+
+其次，从创作者角度看，AI绘画的创作者是谁？答案是软件的开发者。由于AI绘画是由AI软件自动创作的，因此，AI绘画的创作者就是这个AI软件的开发者。
+
+再次，从实践操作角度看，AI绘画的使用者可以给谁授权？答案是软件的开发者。由于AI绘画的版权属于谁？答案是软件的开发者，因此，AI绘画的使用者只能向软件的开发者申请授权，他们才能合法使用AI绘画。
+
+最后，从社会责任角
+####  #评价下Up主 <span class="gpt-item">ZLLion@10:52:40 (还有4次)</span>
+
+的视频
+
+Up主的视频给我留下了深刻的印象，视频中包含的信息丰富，内容精彩，视频制作精细，画面清晰，配乐得当，Up主的讲解思路清晰，令人耳目一新，完全能够吸引观众。总体来说，Up主的视频给我留下了深刻的印象，是一部非常优秀的视频。
+####  #我为什么没有男朋友 <span class="gpt-item">树先生会跳舞@10:50:29 (还有4次)</span>
+
+
+
+每个人的情况都不同，可能是因为你还没有找到合适的男朋友，也可能是因为你没有足够的时间和精力去参加社交活动，也可能是因为你还没有足够的自信去追求你喜欢的人。无论原因是什么，你都可以通过积极主动的方式来改变这一状况，比如参加一些社交活动，培养自信心，从而增强你的交友能力，等等。
 ####  #介绍下自己 <span class="gpt-item">小阳阳小阳@10:45:53 (还有6次)</span>
 
 
