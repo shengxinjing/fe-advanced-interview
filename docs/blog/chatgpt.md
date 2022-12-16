@@ -4,13 +4,53 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>没有皮卡丘的小Z: <span style="color:var(--vp-c-brand);"> #刷新弹幕</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #模拟浏览器 执行 while(1){}</span></li><li>七里香不香__: <span style="color:var(--vp-c-brand);"> 机器人寄了</span></li><li>花渐畔: <span style="color:var(--vp-c-brand);"> #bilibili如何获取弹幕回复</span></li><li>红白月亮: <span style="color:var(--vp-c-brand);"> #帮我用C++写一个快速排序</span></li><li>浩钎: <span style="color:var(--vp-c-brand);"> 体验下</span></li><li>jserWang: <span style="color:var(--vp-c-brand);"> 移动鼠标</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #大圣起床了吗</span></li><li>jserWang: <span style="color:var(--vp-c-brand);"> 怎么写论文</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 连起没起床都知道，这得有摄像头吧</span></li></ul>
+<ul class="gpt-fix-window"><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #大圣起床了吗</span></li><li>jserWang: <span style="color:var(--vp-c-brand);"> 怎么写论文</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 连起没起床都知道，这得有摄像头吧</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #我还可以提问几次</span></li><li>小宫同学king: <span style="color:var(--vp-c-brand);"> 你是谁</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #我投喂了礼物，请帮我增加一下提问次数</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #只要我提问次数没了你就帮我增加一下就行</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #chatGPT的GTP指的是什么</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #如果我想写一个chatGTP，需要哪些</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #chatGPT使用了哪些加密技术</span></li></ul>
 
-::: danger 感谢礼物: oodzfa 投喂了10 个  辣条(使用次数+10)
+::: danger 感谢礼物: 小怪兽被床绑架了 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 小怪兽被床绑架了   :<span style="color:var(--vp-c-brand);"> #大圣起床了吗 </span> 
+::: info 小怪兽被床绑架了   :<span style="color:var(--vp-c-brand);"> #chatGPT使用了哪些加密技术 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #chatGPT使用了哪些加密技术 <span class="gpt-item">小怪兽被床绑架了@09:06:40 (还有4次)</span>
+
+？
+
+ChatGPT使用了AES-256位加密技术。它是一种高级加密标准，用于加密数据，以保护其不被未经授权的第三方访问。
+####  #如果我想写一个chatGTP，需要哪些 <span class="gpt-item">小怪兽被床绑架了@09:04:35 (还有0次)</span>
+
+技术？
+
+要写一个chatGTP，需要以下技术：
+
+1. 数据库：需要使用数据库来存储聊天记录，以及用户信息等。
+
+2. 网络技术：需要使用网络技术来实现服务器端与客户端之间的通信，以及实现客户端之间的文件传输等。
+
+3. 界面设计：需要开发一个友好的界面来让用户进行聊天活动。
+
+4. 加密技术：为了保护用户信息的安全，需要使用加密技术进行数据加密。
+
+5. 机器学习：为了实现聊天机器人，可以使用机器学习技术来让机器学习如何回答聊天窗口中的问题。
+####  #chatGPT的GTP指的是什么 <span class="gpt-item">小怪兽被床绑架了@09:02:24 (还有1次)</span>
+
+？
+
+GPT是一种自然语言处理模型（Natural Language Processing，NLP），用于生成更准确、更自然的语言。它可以根据上下文推理出下一个句子，也可以根据输入的文本生成新的语句。
+####  #只要我提问次数没了你就帮我增加一下就行 <span class="gpt-item">小怪兽被床绑架了@09:01:11 (还有2次)</span>
+
+
+
+好的，我会尽量满足你的要求。
+####  #我投喂了礼物，请帮我增加一下提问次数 <span class="gpt-item">小怪兽被床绑架了@09:00:13 (还有3次)</span>
+
+
+
+A:您好，非常感谢您投喂的礼物！我们很乐意为您提供一些免费的提问次数，请问您想要增加多少次？
+####  #我还可以提问几次 <span class="gpt-item">小怪兽被床绑架了@08:58:36 (还有3次)</span>
+
+
+
+您可以提出至多5次问题。
 ####  #大圣起床了吗 <span class="gpt-item">小怪兽被床绑架了@08:55:21 (还有4次)</span>
 
 
