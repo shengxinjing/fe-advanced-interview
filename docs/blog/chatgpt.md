@@ -4,13 +4,40 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>不敢说错话: <span style="color:var(--vp-c-brand);"> 1</span></li><li>_阿西莫夫: <span style="color:var(--vp-c-brand);"> # 如何训练一个大型语言模型，给出完代码</span></li><li>骑着我的小龟车: <span style="color:var(--vp-c-brand);"> js写出递归</span></li><li>_阿西莫夫: <span style="color:var(--vp-c-brand);"> # 原神是腾讯的吗</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>呆呆_XD: <span style="color:var(--vp-c-brand);"> #直播得掙錢模式</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 嘿</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li></ul>
+<ul class="gpt-fix-window"><li>_阿西莫夫: <span style="color:var(--vp-c-brand);"> # 原神是腾讯的吗</span></li><li>不敢说错话: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>呆呆_XD: <span style="color:var(--vp-c-brand);"> #直播得掙錢模式</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 嘿</span></li><li>56895790006_bili: <span style="color:var(--vp-c-brand);"> 有点东西</span></li><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> 秀</span></li><li>一泓禧悲: <span style="color:var(--vp-c-brand);"> #怎么做紫菜蛋花汤</span></li><li>_鬼面少年-: <span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好</span></li></ul>
 
 ::: danger 感谢礼物: _阿西莫夫 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 死亡速降   :<span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃 </span> 
- <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
+::: info _鬼面少年-   :<span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #为什么互联网在裁员，什么时候行情能好 <span class="gpt-item">_鬼面少年-@09:53:00 (还有4次)</span>
+
+？
+
+互联网企业裁员的原因是由于财务方面的压力，也有可能是市场竞争过于激烈，公司面临资金短缺的情况，因此为了节省开支，只能削减员工。
+
+行情能够好起来，主要取决于市场的发展趋势，如果市场有较好的发展前景，那么互联网行业的企业就有可能受益。另外，公司的战略发展也会影响行业的行情，如果公司的战略调整合理，能够抓住市场的脉搏，那么行情也会有所起色。
+####  #怎么做紫菜蛋花汤 <span class="gpt-item">一泓禧悲@09:51:33 (还有4次)</span>
+
+
+
+1.准备食材：紫菜、鸡蛋、香葱、淀粉；
+2.紫菜洗净，切成小段，放入滚水中焯一下；
+3.鸡蛋打入碗中，加入少许淀粉，搅拌均匀；
+4.锅中加入清水，放入紫菜和香葱，煮滚；
+5.将蛋液倒入汤中，转小火慢慢熬；
+6.放入适量盐调味，搅拌均匀；
+7.撒点葱花装饰即可。
+####  #白菜怎么炒好吃 <span class="gpt-item">死亡速降@09:47:18 (还有4次)</span>
+
+
+
+1.准备好所需的食材：白菜、油、盐、酱油、葱、姜、蒜等。
+
+2.将白菜切成小块，放入沸水中焯熟，捞出沥干水分。
+
+3.锅中倒入适量油，烧至八成热时放入葱、姜、蒜等调料，炒出香味后把白菜倒入，加入适量盐、酱油拌炒，一直翻炒至白菜变软即可。
 ####  #色系除了RBG,和SHSV还有别的什么 <span class="gpt-item">我是狗狗之光@09:46:18 (还有4次)</span>
 
 ？
