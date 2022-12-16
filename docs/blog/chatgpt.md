@@ -4,13 +4,37 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>我家有个泡泡糖: <span style="color:var(--vp-c-brand);"> #你是谁？你在哪？你在干什么？</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #注重算法网络操作系统学习还是框架使用</span></li><li>卓惩: <span style="color:var(--vp-c-brand);"> #魔镜，魔镜，谁是世界上最好的语言</span></li><li>jsYimo: <span style="color:var(--vp-c-brand);"> 林肯公园</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #未来学习那一个编程语言待遇最好</span></li><li>何日再相爱: <span style="color:var(--vp-c-brand);"> #你是谁？</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>dgpkdd: <span style="color:var(--vp-c-brand);"> 冠上了咋办</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> #为什么要发明全麦面包？</span></li></ul>
+<ul class="gpt-fix-window"><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #未来学习那一个编程语言待遇最好</span></li><li>何日再相爱: <span style="color:var(--vp-c-brand);"> #你是谁？</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>dgpkdd: <span style="color:var(--vp-c-brand);"> 冠上了咋办</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> #为什么要发明全麦面包？</span></li><li>cplt: <span style="color:var(--vp-c-brand);"> 。。</span></li><li>cplt: <span style="color:var(--vp-c-brand);"> #怎么体验</span></li><li>好走不怂: <span style="color:var(--vp-c-brand);"> ？</span></li><li>Singuliere: <span style="color:var(--vp-c-brand);"> #写一个js深拷贝</span></li></ul>
 
 ::: danger 感谢礼物: BOEING777-9 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 爱喝一点点的满大人   :<span style="color:var(--vp-c-brand);"> #为什么要发明全麦面包？ </span> 
- <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
+::: info Singuliere   :<span style="color:var(--vp-c-brand);"> #写一个js深拷贝 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #写一个js深拷贝 <span class="gpt-item">Singuliere@11:36:15 (还有4次)</span>
+
+函数
+
+function deepClone(obj) {
+  let newObj = obj instanceof Array ? [] : {};
+  if (obj && typeof obj === "object") {
+    for (let key in obj) {
+      if (obj.hasOwnProperty(key)) {
+        if (obj[key] && typeof obj[key] === "object") {
+          newObj[key] = deepClone(obj[key]);
+        } else {
+          newObj[key] = obj[key];
+        }
+      }
+    }
+    return newObj;
+  }
+}
+####  #为什么要发明全麦面包？ <span class="gpt-item">爱喝一点点的满大人@11:27:16 (还有4次)</span>
+
+
+
+全麦面包有许多益处，其中包括：（1）它是更健康的选择，因为它含有更多的纤维，有助于消化；（2）它含有更多的营养成分，例如维生素，矿物质，钙等；（3）它可以帮助控制血糖水平，因为它含有更多的膳食纤维，它可以改善血糖控制；（4）它可以促进消化系统的健康，因为它的纤维可以控制肠道菌的生长；（5）它还可以帮助减少体重，因为它含有较低的热量。
 ####  #未来学习那一个编程语言待遇最好 <span class="gpt-item">-自然疯-@11:13:03 (还有0次)</span>
 
 
