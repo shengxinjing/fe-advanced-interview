@@ -4,13 +4,228 @@
 
 
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>哦雷瓦JW: <span style="color:var(--vp-c-brand);"> 如何在window上使用代理</span></li><li>_DL1_: <span style="color:var(--vp-c-brand);"> #为什么人们爱说“6”</span></li><li>胖头鱼Daniel: <span style="color:var(--vp-c-brand);">  #AMD处理器在哪些应用比intel强</span></li><li>_DL1_: <span style="color:var(--vp-c-brand);"> #请用三种不同编程语言（包括c++）写出</span></li><li>胖头鱼Daniel: <span style="color:var(--vp-c-brand);">  #AMD处理器在哪些应用比intel强</span></li><li>哦雷瓦JW: <span style="color:var(--vp-c-brand);"> #人为什么要上班</span></li><li>哦雷瓦JW: <span style="color:var(--vp-c-brand);"> #继续</span></li><li>哦雷瓦JW: <span style="color:var(--vp-c-brand);"> #如何学习烹饪</span></li><li>哦雷瓦JW: <span style="color:var(--vp-c-brand);"> #如何克制乌迪尔</span></li><li>SAFD墨染: <span style="color:var(--vp-c-brand);"> #如何搭建OpenLdap</span></li></ul>
+<ul class="gpt-fix-window"><li>一个布里茨: <span style="color:var(--vp-c-brand);"> #AttributeError</span></li><li>喝喝咖啡看看书: <span style="color:var(--vp-c-brand);"> 发个弹幕试试</span></li><li>诚实可靠小郎君zz: <span style="color:var(--vp-c-brand);"> #如何用C语言实现随机梯度下降算法</span></li><li>喝喝咖啡看看书: <span style="color:var(--vp-c-brand);"> #女枪辅助出装</span></li><li>天赐团子: <span style="color:var(--vp-c-brand);"> #写一个mpu6050姿态解算</span></li><li>蒙面人哈哈哈哈哈哈: <span style="color:var(--vp-c-brand);"> 啥？</span></li><li>枯坐orz: <span style="color:var(--vp-c-brand);"> #什么是后现代主义</span></li><li>_DL1_: <span style="color:var(--vp-c-brand);"> #爬取b站</span></li><li>Monster-Tarot: <span style="color:var(--vp-c-brand);"> #爬取b站弹幕</span></li><li>诚实可靠小郎君zz: <span style="color:var(--vp-c-brand);"> # 如何用C语言实现lstm中遗忘门函数</span></li></ul>
 
 ::: danger 感谢礼物: 哦雷瓦JW 投喂了1 个  辣条(使用次数+1)
 :::
-::: info SAFD墨染   :<span style="color:var(--vp-c-brand);"> #如何搭建OpenLdap </span> 
+::: info 诚实可靠小郎君zz   :<span style="color:var(--vp-c-brand);"> # 如何用C语言实现lstm中遗忘门函数 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  # 如何用C语言实现lstm中遗忘门函数 <span class="gpt-item">诚实可靠小郎君zz@14:19:53 (还有3次)</span>
+
+？
+
+lstm中遗忘门函数可以用以下C语言代码实现：
+
+// 输入参数：
+// x：当前步骤的输入
+// prev_h：上一步的隐藏状态
+// prev_c：上一步的记忆状态
+// W：权重矩阵
+// U：偏置矩阵
+// b：偏置向量
+
+// 输出参数：
+// f：遗忘门函数值
+
+// 定义中间变量
+float z;
+float sigmoid_value;
+
+// 计算中间变量
+z = prev_h * W + x * U + b;
+
+// 计算遗忘门函数值
+sigmoid_value = 1 / (1 + exp(-z));
+f = sigmoid_value;
+####  #什么是后现代主义 <span class="gpt-item">枯坐orz@14:14:41 (还有4次)</span>
+
+
+
+后现代主义是一种被广泛使用的文化理论，它是一种反思和反抗现代主义的思想流派，它认为现代主义的理论不足以解释当代文化的发展和转变，因此，它强调了多元文化和审美的自由。后现代主义强调了“多样性”，“混乱”，“非线性”，“复杂”，“建构”，“社会变革”等观点，它反对单一的文化价值观，认为文化是一种复杂的过程，它以不同的方式影响着不同的文化群体。因此，后现代主义崇尚灵活性和多元性，强调从多个文化背景中寻求解决方案，并接受新的观念，以实现更大的发展。
+####  #写一个mpu6050姿态解算 <span class="gpt-item">天赐团子@14:13:11 (还有2次)</span>
+
+程序
+
+#include &lt;Wire.h&gt;
+
+#define MPU6050_ADDR 0x68
+
+// 定义MPU6050内部地址
+#define MPU6050_ACCEL_XOUT_H 0x3B
+#define MPU6050_ACCEL_XOUT_L 0x3C
+#define MPU6050_ACCEL_YOUT_H 0x3D
+#define MPU6050_ACCEL_YOUT_L 0x3E
+#define MPU6050_ACCEL_ZOUT_H 0x3F
+#define MPU6050_ACCEL_ZOUT_L 0x40
+#define MPU6050_TEMP_OUT_H 0x41
+#define MPU6050_TEMP_OUT_L 0x42
+#define MPU6050_GYRO_XOUT_H 0x43
+#define MPU6050_GYRO_XOUT_L 0x44
+#define MPU6050_GYRO_YOUT_H 0x45
+#define MPU6050_GYRO_YOUT_L 0x46
+#define MPU6050_GYRO_ZOUT_H 0x47
+#define MPU6050_GYRO_ZOUT_L 0x48
+
+int16_t AcX, AcY, AcZ, Tmp, GyX, GyY, GyZ; // 定义MPU6050各轴原始数据变量
+float pitch, roll, yaw; // 定义姿态角变量
+
+void setup()
+{
+  Wire.begin(); // 初始化IIC接口
+  Serial.begin(9600); // 初始化串口
+}
+
+void loop()
+{
+  // 读取MPU6050各轴原始数据
+  readMPU6050Data();
+  
+  // 计算姿态角
+  computePoseAngle();
+  
+  // 打印计算出的姿态角
+  Serial.print("pitch: ");
+  Serial.print(pitch);
+  Serial.print(" roll: ");
+  Serial.print(roll);
+  Serial.print(" yaw: ");
+  Serial.println(yaw);
+}
+
+// 读取MPU
+####  #女枪辅助出装 <span class="gpt-item">喝喝咖啡看看书@14:13:09 (还有4次)</span>
+
+
+
+女枪辅助出装主要以护甲、魔抗、攻击力和移动速度为主，可以根据实际情况选择合适的装备。
+
+1. 铠甲：铠甲是女枪辅助的基础装备，可以提供大量的护甲，可以有效抵御敌方英雄的攻击，增加自身的存活能力。
+
+2. 灵芝：灵芝可以为英雄提供大量的魔抗，可以有效减少敌方英雄施放技能时对自己的伤害，增加自身的存活能力。
+
+3. 魔杖：魔杖可以为英雄提供大量的攻击力，可以有效提升自己对敌方英雄的伤害输出，从而提高自己的战斗力。
+
+4. 疾步之靴：疾步之靴可以为英雄提供移动速度加成，可以有效提升自己的移动速度，从而更好的躲避敌方英雄的攻击，增加自身的存活能力。
+####  #如何用C语言实现随机梯度下降算法 <span class="gpt-item">诚实可靠小郎君zz@14:12:34 (还有4次)</span>
+
+
+
+随机梯度下降算法是一种优化算法，用于最小化损失函数。下面是一个使用C语言实现随机梯度下降算法的示例代码：
+
+```c
+#include &lt;stdio.h&gt;
+
+// 定义学习率
+#define LEARNING_RATE 0.01
+
+// 定义损失函数
+float loss_function(float x, float y)
+{
+	return (x * x + y * y);
+}
+
+// 使用随机梯度下降法优化损失函数
+void random_gradient_descent(float *x, float *y)
+{
+	// 计算梯度
+	float grad_x = 2 * (*x);
+	float grad_y = 2 * (*y);
+
+	// 根据梯度更新参数
+	*x = *x - LEARNING_RATE * grad_x;
+	*y = *y - LEARNING_RATE * grad_y;
+}
+
+// 主函数
+int main()
+{
+	// 定义初始参数
+	float x = 3.0;
+	float y = -4.0;
+
+	// 迭代更新参数
+	int num_iterations = 10;
+	int i;
+	for (i = 0; i &lt; num_iterations; i++)
+	{
+		random_gradient_descent(&x, &y);
+		printf("After iteration %d, loss is %f\n", i, loss_function(x, y));
+	}
+
+	return 0;
+}
+```
+
+上面的代码实现了一个简单的随机梯度下降算法，用于最小化损失函数。
+####  #AttributeError <span class="gpt-item">一个布里茨@14:12:17 (还有2次)</span>
+
+:
+
+AttributeError occurs when an attribute reference or assignment fails. It is raised when an attribute reference or assignment fails. It means that the attribute that was requested does not exist in the specified object.
+####  #用golang写个web漏洞检测工具 <span class="gpt-item">天赐团子@14:08:43 (还有3次)</span>
+
+
+
+package main
+
+import (
+	"fmt"
+	"net/http"
+)
+
+func checkXSS(url string) {
+	client := &http.Client{}
+	req, _ := http.NewRequest("GET", url, nil)
+	req.Header.Set("User-Agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36")
+	req.Header.Set("Referer", "http://www.baidu.com")
+
+	resp, _ := client.Do(req)
+
+	defer resp.Body.Close()
+
+	if resp.StatusCode == 200 {
+		if strings.Contains(resp.Header.Get("Content-Type"), "text/html") {
+			body, _ := ioutil.ReadAll(resp.Body)
+
+			// 判断是否有XSS漏洞
+			if strings.Contains(string(body), "&lt;script&gt;") {
+				fmt.Println("存在XSS漏洞：", url)
+			}
+		}
+	}
+}
+
+func main() {
+	urls := []string{
+		"http://www.example.com/index.php?x=&lt;script&gt;alert(1)&lt;/script&gt;",
+		"http://www.example.com/index.php?x=&lt;img src=x onerror=alert(1)&gt;",
+		"http://www.example.com/index.php?x=&lt;script&gt;console.log('test')&lt;/script&gt;",
+	}
+
+	for _, url := range urls {
+		checkXSS(url)
+	}
+}
+####  #什么是智能合约 <span class="gpt-item">哦雷瓦JW@14:07:40 (还有1次)</span>
+
+？
+
+智能合约是一种利用区块链技术实现的可编程的、可自动执行的、可信任的合约，它是一种自动执行的计算机程序，可以用来当作一种电子合约，能够在特定的条件下自动执行，可以解决复杂的协议问题，以及实现交易的自动执行，比如股票交易，抵押贷款，拍卖，购买保险等等。
+####  #乌班图如何换源 <span class="gpt-item">天赐团子@14:07:39 (还有4次)</span>
+
+
+
+1. 使用清华源：在终端中输入 `sudo sed -i 's/dl-cdn.alpinelinux.org/mirrors.tuna.tsinghua.edu.cn/g' /etc/apk/repositories`
+
+2. 使用官方源：在终端中输入 `sudo sed -i 's/dl-cdn.alpinelinux.org/dl-4.alpinelinux.org/g' /etc/apk/repositories`
+
+3. 使用阿里源：在终端中输入 `sudo sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories`
+####  #什么是web3 <span class="gpt-item">哦雷瓦JW@14:06:49 (还有2次)</span>
+
+
+
+Web3.js是一个JavaScript库，可以帮助你使用Ethereum以太坊区块链的智能合约。它提供了一组API，使用它可以实现以太坊网络和智能合约的客户端开发。
 ####  #如何搭建OpenLdap <span class="gpt-item">SAFD墨染@14:02:47 (还有4次)</span>
 
 
