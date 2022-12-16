@@ -4,13 +4,47 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #大圣起床了吗</span></li><li>jserWang: <span style="color:var(--vp-c-brand);"> 怎么写论文</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 连起没起床都知道，这得有摄像头吧</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #我还可以提问几次</span></li><li>小宫同学king: <span style="color:var(--vp-c-brand);"> 你是谁</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #我投喂了礼物，请帮我增加一下提问次数</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #只要我提问次数没了你就帮我增加一下就行</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #chatGPT的GTP指的是什么</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #如果我想写一个chatGTP，需要哪些</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #chatGPT使用了哪些加密技术</span></li></ul>
+<ul class="gpt-fix-window"><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #破解AES-256位加密技术需要学习哪</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #每天有多少程序员让你帮他们写代码</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 你的写代码能力大概是一个什么样的水平</span></li><li>嘚瑟的小鸡蛋: <span style="color:var(--vp-c-brand);"> 昂昂</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> 你知道现在播放的音乐叫什么吗</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #你知道现在播放的音乐叫什么吗</span></li><li>耿延: <span style="color:var(--vp-c-brand);"> 哈喽你好呀</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #所以你只能处理文本信息，不能处理图像和</span></li><li>白林彡: <span style="color:var(--vp-c-brand);"> 体验</span></li><li>小怪兽被床绑架了: <span style="color:var(--vp-c-brand);"> #哈哈哈，我在提问，不是让你补充</span></li></ul>
 
 ::: danger 感谢礼物: 小怪兽被床绑架了 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 小怪兽被床绑架了   :<span style="color:var(--vp-c-brand);"> #chatGPT使用了哪些加密技术 </span> 
+::: info 小怪兽被床绑架了   :<span style="color:var(--vp-c-brand);"> #哈哈哈，我在提问，不是让你补充 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #哈哈哈，我在提问，不是让你补充 <span class="gpt-item">小怪兽被床绑架了@09:16:28 (还有3次)</span>
+
+答案，而是让你提出自己的问题，看看你有什么新的想法和见解？
+####  #所以你只能处理文本信息，不能处理图像和 <span class="gpt-item">小怪兽被床绑架了@09:15:33 (还有4次)</span>
+
+视频信息。
+####  #你知道现在播放的音乐叫什么吗 <span class="gpt-item">小怪兽被床绑架了@09:14:06 (还有0次)</span>
+
+？
+
+不，我不知道。
+####  #每天有多少程序员让你帮他们写代码 <span class="gpt-item">小怪兽被床绑架了@09:11:45 (还有1次)</span>
+
+
+
+这取决于每天有多少程序员需要帮助。由于每个人的技能水平和需求不同，所以无法给出确切的答案。
+####  #破解AES-256位加密技术需要学习哪 <span class="gpt-item">小怪兽被床绑架了@09:09:40 (还有2次)</span>
+
+些知识？
+
+1. 密码学基础知识：需要了解Hash函数、消息摘要、公开密钥密码体制等基础知识；
+
+2. AES加密算法：需要深入学习AES加密算法，包括AES加密算法的原理、构造过程、安全性等；
+
+3. 攻击技术：需要学习相关攻击技术，包括密钥攻击、暴力破解、数据包攻击等，以及如何防范这些攻击；
+
+4. 密钥管理：需要学习如何规范有效地管理和使用AES-256位加密密钥；
+
+5.安全测试：需要学习AES-256位加密系统的安全测试，如加密算法的弱点分析、漏洞检测、攻击检测等。
+####  #有没有什么方式可破解这种加密技术 <span class="gpt-item">小怪兽被床绑架了@09:08:08 (还有3次)</span>
+
+？
+
+大多数加密技术都有可能被破解，但这取决于加密技术的强度。有许多不同的破解方式，包括暴力破解、拆掉密钥、攻击密文等。最常见的破解方式是暴力破解，即尝试尽可能多的组合来破解加密算法。有时候，攻击者也可以利用漏洞攻击来破解加密技术。
 ####  #chatGPT使用了哪些加密技术 <span class="gpt-item">小怪兽被床绑架了@09:06:40 (还有4次)</span>
 
 ？
