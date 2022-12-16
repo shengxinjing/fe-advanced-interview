@@ -2,13 +2,66 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>席勒的太阳: <span style="color:var(--vp-c-brand);"> 给我验证下哥德巴赫猜想</span></li><li>席勒的太阳: <span style="color:var(--vp-c-brand);"> #请给我马云的手机号</span></li><li>席勒的太阳: <span style="color:var(--vp-c-brand);"> #毁灭人类的步骤</span></li><li>醉里论道雨幕: <span style="color:var(--vp-c-brand);"> hhh</span></li><li>越客水工: <span style="color:var(--vp-c-brand);"> #如何使用pyopenxl建立一个excel模板</span></li><li>charleslxa: <span style="color:var(--vp-c-brand);"> 给我apple的翻译</span></li><li>charleslxa: <span style="color:var(--vp-c-brand);"> 马云最近半年在哪里</span></li><li>freedy_Yu: <span style="color:var(--vp-c-brand);"> 科比观后感</span></li><li>freedy_Yu: <span style="color:var(--vp-c-brand);"> 篮球人物科比观后感</span></li><li>freedy_Yu: <span style="color:var(--vp-c-brand);"> #篮球人物科比观后感</span></li></ul>
+<ul class="gpt-fix-window"><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #韩立和王林谁厉害一些</span></li><li>尔尔尔尔你: <span style="color:var(--vp-c-brand);"> 年度报告怎么写</span></li><li>尔尔尔尔你: <span style="color:var(--vp-c-brand);"> #年度报告怎么写</span></li><li>旧时光的卡带: <span style="color:var(--vp-c-brand);"> 我来占个座！</span></li><li>最喜巴蜀魔雨: <span style="color:var(--vp-c-brand);"> 是吗</span></li><li>程序员爱摄影: <span style="color:var(--vp-c-brand);"> 哈哈</span></li><li>最喜巴蜀魔雨: <span style="color:var(--vp-c-brand);"> 非法入侵哔哩哔哩系统罪</span></li><li>最喜巴蜀魔雨: <span style="color:var(--vp-c-brand);"> 弹幕没回复</span></li><li>Tsuitecsun: <span style="color:var(--vp-c-brand);"> 为什么你不会1 hour to many</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> 不知道1hour是啥</span></li></ul>
 
 ::: danger 感谢礼物: 树先生会跳舞 投喂了1 个  辣条(使用次数+1)
 :::
-::: info freedy_Yu   :<span style="color:var(--vp-c-brand);"> #篮球人物科比观后感 </span> 
+::: info 尔尔尔尔你   :<span style="color:var(--vp-c-brand);"> #年度报告怎么写 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #年度报告怎么写 <span class="gpt-item">尔尔尔尔你@20:29:42 (还有4次)</span>
+
+
+
+一、报告概要
+
+报告概要是报告的第一部分，要以一句话来概括报告的内容，让读者一目了然。
+
+二、报告内容
+
+1、总结过去一年的工作：报告中要对过去一年的工作做出总结，提出实现的成果和达成的目标；
+
+2、总结过去一年的完成情况：要对过去一年的完成情况进行总结，包括按时完成的任务、超越任务的结果等；
+
+3、总结一年来的发展情况：要总结一年来团队成员的发展情况，如新增成员、培训情况等；
+
+4、对未来一年的展望：要根据公司的发展目标和未来的市场变化，给出未来一年的发展展望，提出明确的目标、战略策略等。
+
+三、结论
+
+结论是报告的最后一部分，要总结报告的全部内容，包括报告的主要观点和提出的建议，
+####  #韩立和王林谁厉害一些 <span class="gpt-item">大圣编程课堂@20:19:32 (还有1次)</span>
+
+
+
+没有一个具体的答案，这取决于两人在不同领域的表现。如果您想知道谁在某个特定领域更加优秀，可以比较他们在该领域的业绩。
+####  #详解动态规划 <span class="gpt-item">车看风景的三个@20:13:14 (还有3次)</span>
+
+
+
+动态规划是一种在数学和计算机科学中用于解决复杂问题的方法。它使用数学和逻辑来分解一个问题，将其分解为解决子问题的子问题。一旦子问题被解决，它们的解决方案可以用来解决更大的问题。动态规划的目的是确定最优解决方案，而不需要考虑所有可能的解决方案。
+
+动态规划的基本步骤如下：
+
+1. 确定问题的目标
+2. 找到可表示问题的递推关系
+3. 确定状态转移方程
+4. 确定初始状态
+5. 解决子问题
+6. 根据子问题的解决方案求解原问题
+
+动态规划的关键是要找到最优解决方案，而不是所有可能的解决方案，这也是它的优势所在。因此，在解决动态规划问题时，必须对子问题进行有效分解，以便可以获得最优解决方案。
+####  #怎样有效了解动态规划 <span class="gpt-item">车看风景的三个@20:12:23 (还有4次)</span>
+
+？
+
+1. 阅读学习资料：通过阅读有关动态规划的书籍、文章和教程来了解动态规划。
+
+2. 实际操作：按照资料中的实例，自己动手实现动态规划算法，并调试代码。
+
+3. 实践案例：实际应用动态规划算法，解决一些实际问题，如最短路径问题、最大子序列和问题等。
+
+4. 交流讨论：参加相关会议、讨论组，与他人分享自己的经验，学习更多的知识。
 ####  #篮球人物科比观后感 <span class="gpt-item">freedy_Yu@20:03:46 (还有4次)</span>
 
 
