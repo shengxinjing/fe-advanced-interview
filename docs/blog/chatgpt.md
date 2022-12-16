@@ -2,13 +2,29 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>Tsuitecsun: <span style="color:var(--vp-c-brand);"> 用java调用cloudstackAPI</span></li><li>Tsuitecsun: <span style="color:var(--vp-c-brand);"> #java调用cloudstackAPI</span></li><li>Tsuitecsun: <span style="color:var(--vp-c-brand);"> #为什么你的chatgpt不掉线</span></li><li>D1654: <span style="color:var(--vp-c-brand);"> systeminfo</span></li><li>D1654: <span style="color:var(--vp-c-brand);"> #systeminfo</span></li><li>D1654: <span style="color:var(--vp-c-brand);"> 乐</span></li><li>lovingmm: <span style="color:var(--vp-c-brand);"> 我帅么</span></li><li>songhaohan: <span style="color:var(--vp-c-brand);"> 11</span></li><li>刃心1742: <span style="color:var(--vp-c-brand);"> 11</span></li><li>刃心1742: <span style="color:var(--vp-c-brand);"> #11</span></li></ul>
+<ul class="gpt-fix-window"><li>刃心1742: <span style="color:var(--vp-c-brand);"> #11</span></li><li>星云抚摸海浪: <span style="color:var(--vp-c-brand);"> 啥</span></li><li>钱嗦书: <span style="color:var(--vp-c-brand);"> 食不食油饼</span></li><li>钱嗦书: <span style="color:var(--vp-c-brand);"> ？</span></li><li>钱嗦书: <span style="color:var(--vp-c-brand);"> 哦哦我搞错了</span></li><li>天道酬臻: <span style="color:var(--vp-c-brand);"> 韭菜炒鸡蛋怎么做</span></li><li>天道酬臻: <span style="color:var(--vp-c-brand);"> #韭菜炒鸡蛋怎么做？</span></li><li>我错了审核别搞我了呵: <span style="color:var(--vp-c-brand);"> #怎么看待地狱犬？</span></li><li>真挚的卖小盆友: <span style="color:var(--vp-c-brand);"> #韭菜炒鸡蛋怎么做？</span></li><li>极限星芒_: <span style="color:var(--vp-c-brand);"> #哈哈</span></li></ul>
 
 ::: danger 感谢礼物: 树先生会跳舞 投喂了1 个  辣条(使用次数+1)
 :::
-::: info D1654   :<span style="color:var(--vp-c-brand);"> #systeminfo </span> 
+::: info 真挚的卖小盆友   :<span style="color:var(--vp-c-brand);"> #韭菜炒鸡蛋怎么做？ </span> 
  <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
 :::
+####  #怎么看待地狱犬？ <span class="gpt-item">我错了审核别搞我了呵@17:16:14 (还有4次)</span>
+
+
+
+地狱犬是一种极端暴力的犬种，它们的行为习惯十分极端，由于其咆哮和狂暴的性格，它们也被称为“终极犬”。地狱犬可以被用作警卫犬，但它们也可能会发挥出危险的行为。因此，地狱犬不适合用作家庭宠物，而且在社区中必须有严格的限制，以确保它们不会对其他人造成伤害。
+####  #韭菜炒鸡蛋怎么做？ <span class="gpt-item">天道酬臻@17:09:51 (还有4次)</span>
+
+
+
+1.首先，将韭菜洗净，切成薄片；
+2.将鸡蛋打入碗中，加入少许盐、胡椒粉搅拌均匀；
+3.锅中倒入适量油，烧热；
+4.将韭菜片放入锅中，翻炒至变软；
+5.将鸡蛋液倒入锅中，翻炒均匀；
+6.加入少许盐、胡椒粉调味，翻炒至蛋液完全凝固；
+7.最后撒上葱花即可出锅。
 ####  #为什么你的chatgpt不掉线 <span class="gpt-item">Tsuitecsun@16:32:02 (还有2次)</span>
 
 
