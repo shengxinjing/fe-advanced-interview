@@ -2,13 +2,85 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一篇运动会加油稿</span></li><li>Alias不会写Haskell: <span style="color:var(--vp-c-brand);"> #帮我写一段用haskell实现的最长公共子序列算法</span></li><li>胖胖Winnie: <span style="color:var(--vp-c-brand);"> 随便写一个vue3组件</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li><li>Wildebeest: <span style="color:var(--vp-c-brand);"> #写一个基于java的nio的聊天代码</span></li><li>Dr_pokm: <span style="color:var(--vp-c-brand);"> #吃沙县还是萨莉亚</span></li><li>jk426166: <span style="color:var(--vp-c-brand);"> #封装一个upload组件</span></li><li>愤怒的锅锅: <span style="color:var(--vp-c-brand);"> 主播你好</span></li><li>小太阳早点睡: <span style="color:var(--vp-c-brand);"> 手写render 函数</span></li><li>小太阳早点睡: <span style="color:var(--vp-c-brand);"> #手写render函数</span></li></ul>
+<ul class="gpt-fix-window"><li>div_1024: <span style="color:var(--vp-c-brand);"> #描述红烧肉做法</span></li><li>慢一点-呀: <span style="color:var(--vp-c-brand);"> 11</span></li><li>慢一点-呀: <span style="color:var(--vp-c-brand);"> #写一份周报</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> 大圣老师是谁？</span></li><li>某饼砸: <span style="color:var(--vp-c-brand);"> pysimplegui如何使用多进程？</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> 大圣老师是谁</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #大圣老师是谁</span></li><li>div_1024: <span style="color:var(--vp-c-brand);"> #写一本两百万字的小说</span></li><li>某饼砸: <span style="color:var(--vp-c-brand);"> #pysimplegui如何使用多进程</span></li><li>要努力搬砖の阿凯: <span style="color:var(--vp-c-brand);"> #花果山大圣是谁</span></li></ul>
 
-::: danger 感谢礼物: Dr_pokm 投喂了1 个  辣条(使用次数+1)
+::: danger 感谢礼物: 要努力搬砖の阿凯 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 小太阳早点睡   :<span style="color:var(--vp-c-brand);"> #手写render函数 </span> 
- <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
+::: info 某饼砸   :<span style="color:var(--vp-c-brand);"> #pysimplegui如何使用多进程 </span> 
+ <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #pysimplegui如何使用多进程 <span class="gpt-item">某饼砸@15:16:23 (还有4次)</span>
+
+
+
+PySimpleGUI可以使用多进程来实现并行编程。要使用多进程，首先需要安装multiprocessing模块：
+
+import multiprocessing as mp
+
+然后创建一个Process实例，并传入一个函数作为参数：
+
+p = mp.Process(target=func, args=(arg1, arg2))
+
+接下来，调用start()方法启动进程：
+
+p.start()
+
+最后，调用join()方法等待进程结束：
+
+p.join()
+
+要使用多进程实现并行编程，可以使用多个Process实例，每个实例代表一个进程，启动它们，等待它们结束，然后汇总结果。
+
+整个过程可以使用PySimpleGUI来实现，以便在多进程操作过程中显示状态或进度条等。
+####  #写一本两百万字的小说 <span class="gpt-item">div_1024@15:16:21 (还有3次)</span>
+
+
+
+《平凡的爱》
+
+内容简介：
+
+这是一本关于爱与平凡的小说。讲述的是一对平凡的普通男女，他们在爱情的路上艰辛曲折，最终在平凡中找到真爱。
+
+故事发生在一个小镇上，男主角名叫陈磊，他是个勤劳又朴实的农民，但他拥有着独特的智慧。女主角叫刘芳，她是一位优雅的小商人，她聪明活泼，但却有着自己的梦想。
+
+他们的爱情不是一见钟情，而是慢慢发展起来的，他们克服了一切困难，最终找到了彼此的心灵连接。当他们终于在一起的时候，他们的爱情也变得更加深厚。他们共同经历了很多幸福和快乐的时刻，也坎坷不断，但他们都坚信自己的爱情，在漫长的旅程中，他们最终找到了平凡而真挚的爱情。
+
+本书从男主角和女主角
+####  #写一份周报 <span class="gpt-item">慢一点-呀@15:12:09 (还有4次)</span>
+
+
+
+尊敬的领导：
+
+本周我负责的项目进展如下：
+
+一、已经完成：
+1. 根据需求文档，完成了系统的数据库设计。
+2. 编写了系统的前端页面，实现了登录、注册、检索等功能。
+3. 完成了系统的后台业务处理层代码。
+
+二、存在困难：
+1. 系统设计过程中，存在一些不确定性，导致数据库设计花费了较多时间。
+2. 编写前端代码时，布局实现较为复杂，花费了大量时间。
+
+三、下一步计划：
+1. 将数据库表格进行数据填充，实现系统的功能。
+2. 测试系统，修复系统中存在的BUG。
+3. 完善系统的文档，便于今后的维护。
+
+如有问题，可随时联系我，谢谢！
+####  #描述红烧肉做法 <span class="gpt-item">div_1024@15:09:22 (还有4次)</span>
+
+
+
+1.准备好肉(猪肉、瘦肉、排骨或肥肉等)、葱、姜、蒜、料酒、酱油、生抽、老抽、盐、醋、糖、胡椒粉、水等调料。
+
+2.将肉放入容器内，加入料酒、酱油、生抽、老抽、盐、醋、糖、胡椒粉、水等调料，搅拌均匀，腌制30分钟左右。
+
+3.葱姜蒜切片，放入油锅中爆香。
+
+4.将腌制好的肉加入油锅中，煸炒至肉表面变色，加入适量清水，改小火，盖上锅盖，用文火慢炖30-50分钟，至肉熟透即可。
 ####  #封装一个upload组件 <span class="gpt-item">jk426166@15:01:34 (还有4次)</span>
 
 
