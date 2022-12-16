@@ -4,13 +4,61 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>白兰鸽巡游录: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>树先生会跳舞: <span style="color:var(--vp-c-brand);"> #我为什么没有男朋友</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #用GO写个HelloWorld</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #评价下Up主</span></li><li>Piu海海: <span style="color:var(--vp-c-brand);"> #多角度分析AI绘画版权问题，五百字以上</span></li><li>小宫同学king: <span style="color:var(--vp-c-brand);"> #介绍一下大圣</span></li><li>树先生会跳舞: <span style="color:var(--vp-c-brand);"> #你如何看待爱情</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #B站什么时候退市</span></li><li>ZLLion: <span style="color:var(--vp-c-brand);"> #用GO写个HelloWorld</span></li><li>Piu海海: <span style="color:var(--vp-c-brand);"> #你是一个预言师，世界杯阿根廷和法国谁胜</span></li></ul>
+<ul class="gpt-fix-window"><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #双子座是渣男嘛</span></li><li>神出鬼没就是我: <span style="color:var(--vp-c-brand);"> #2023年全球经济形势</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> #在你每句回答的话前面加上"主人"</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #Java还是Go会大行其道</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> #在你回答的每句话前面加上“主人”</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #编程方向前端比较后端谁会发展更好</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>技黔: <span style="color:var(--vp-c-brand);"> 好家伙，还有使用次数</span></li><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #React和Vue你更推荐学习那个</span></li></ul>
 
 ::: danger 感谢礼物: BOEING777-9 投喂了1 个  辣条(使用次数+1)
 :::
-::: info Piu海海   :<span style="color:var(--vp-c-brand);"> #你是一个预言师，世界杯阿根廷和法国谁胜 </span> 
- <span style="color:var(--vp-c-brand);">回复成功</span>
+::: info -自然疯-   :<span style="color:var(--vp-c-brand);"> #React和Vue你更推荐学习那个 </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
+####  #编程方向前端比较后端谁会发展更好 <span class="gpt-item">-自然疯-@11:05:26 (还有3次)</span>
+
+
+
+前端开发技术发展速度较快，相比后端开发技术有更多的发展空间，更能满足用户对交互性、可视化等功能的要求，因此前端发展会更好。
+####  #在你回答的每句话前面加上“主人” <span class="gpt-item">技黔@11:04:17 (还有4次)</span>
+
+
+
+主人你好，很高兴见到你。
+
+主人您好，我很乐意为您效劳。
+####  #Java还是Go会大行其道 <span class="gpt-item">-自然疯-@11:03:30 (还有4次)</span>
+
+
+
+虽然Java和Go是两种非常流行的编程语言，但我认为Java将会大行其道。Java是一种非常受欢迎的编程语言，它的功能强大，代码可读性强，易于维护，并且有大量的第三方库可以使用。相比之下，Go的功能较弱，而且没有像Java那样的大量可用的第三方库。因此，Java将会比Go更受欢迎。
+####  #2023年全球经济形势 <span class="gpt-item">神出鬼没就是我@11:01:32 (还有4次)</span>
+
+
+
+2023年全球经济形势十分乐观。世界各国的经济增长将继续加快，促使全球经济达到新的高度。
+
+全球经济增长将保持强劲。全球经济将从2021年的重建阶段进入2023年的恢复阶段，GDP增长率将保持在3.5-4.5%之间，货币政策将继续以稳定的步伐促进经济增长。
+
+全球贸易也将持续保持强劲的增长势头。2023年，全球贸易将继续保持增长，全球贸易量将达到新的高度。新的贸易协定将给全球贸易带来新的增长机会，并有助于缓解全球贸易紧张局势。
+
+另外，全球投资也将保持强劲增长。2023年，全球企业将继续投资新技术、新产品和新服务，以提高效率和改善产品质量。投资者也将积极投资新技术、新服务和新产品，
+####  #用js写一段递归 <span class="gpt-item">浩浩御风不知所止@10:59:46 (还有3次)</span>
+
+：
+
+function factorial(n){
+  if (n === 1) {
+    return 1;
+  }
+  return n * factorial(n - 1);
+}
+####  #你什么时候开源 <span class="gpt-item">浩浩御风不知所止@10:58:24 (还有4次)</span>
+
+？
+
+暂时还不能确定，但是我们会尽快开源。
+####  #世界杯阿根廷和法国谁赢 <span class="gpt-item">树先生会跳舞@10:57:54 (还有2次)</span>
+
+
+
+目前比赛尚未结束，无法确定谁会获胜。
 ####  #你是一个预言师，世界杯阿根廷和法国谁胜 <span class="gpt-item">Piu海海@10:56:08 (还有3次)</span>
 
 利？
