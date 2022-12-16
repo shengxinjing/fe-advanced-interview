@@ -4,13 +4,31 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>我是狗狗之光: <span style="color:var(--vp-c-brand);"> #色系除了RBG,和SHSV还有别的什么</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> #白菜怎么炒好吃</span></li><li>死亡速降: <span style="color:var(--vp-c-brand);"> 秀</span></li><li>一泓禧悲: <span style="color:var(--vp-c-brand);"> #怎么做紫菜蛋花汤</span></li><li>_鬼面少年-: <span style="color:var(--vp-c-brand);"> #为什么互联网在裁员，什么时候行情能好</span></li><li>屈正: <span style="color:var(--vp-c-brand);"> #请生成二维码</span></li><li>哦呀苏米纳塞: <span style="color:var(--vp-c-brand);"> #vue吊还是react吊</span></li><li>哦呀苏米纳塞: <span style="color:var(--vp-c-brand);"> 妈耶，真厉害</span></li><li>夜半航: <span style="color:var(--vp-c-brand);"> #介绍一下生产力-生产关系的联系</span></li><li>一身诗意喂了code: <span style="color:var(--vp-c-brand);"> 体验</span></li></ul>
+<ul class="gpt-fix-window"><li>夜半航: <span style="color:var(--vp-c-brand);"> #介绍一下生产力-生产关系的联系</span></li><li>一身诗意喂了code: <span style="color:var(--vp-c-brand);"> 体验</span></li><li>烟熏牛肋排: <span style="color:var(--vp-c-brand);"> houdini</span></li><li>coderN: <span style="color:var(--vp-c-brand);"> #怎么做可乐鸡翅</span></li><li>烟熏牛肋排: <span style="color:var(--vp-c-brand);"> #houdini</span></li><li>CodingStart: <span style="color:var(--vp-c-brand);"> 妙啊</span></li><li>CodingStart: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>CodingStart: <span style="color:var(--vp-c-brand);"> 赞</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么做c服</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #怎么做c服</span></li></ul>
 
-::: danger 感谢礼物: _阿西莫夫 投喂了1 个  辣条(使用次数+1)
+::: danger 感谢礼物: HDAlex_John 投喂了10 个  辣条(使用次数+10)
 :::
-::: info 夜半航   :<span style="color:var(--vp-c-brand);"> #介绍一下生产力-生产关系的联系 </span> 
- <span style="color:var(--vp-custom-block-danger-text);">🙋‍♂️你没关注UP主，不算数哦</span>
+::: info oodzfa   :<span style="color:var(--vp-c-brand);"> #怎么做c服 </span> 
+ <span style="color:var(--vp-c-brand);">等待ChatGPT回复中</span>
 :::
+####  #houdini <span class="gpt-item">烟熏牛肋排@10:28:38 (还有4次)</span>
+
+.net/
+
+Houdini’s official site is a great source of information about the famous magician and his life. The site includes a biography of Harry Houdini, a timeline of his life and career, information about his various tricks and escapes, and a section devoted to his legacy. There is also a section dedicated to Houdini’s museum, which includes photographs, artifacts, and a virtual tour of the museum. The site also offers information about upcoming events and lectures, as well as a store where you can purchase books, DVDs, and other memorabilia.
+####  #怎么做可乐鸡翅 <span class="gpt-item">coderN@10:28:37 (还有4次)</span>
+
+
+
+1. 首先，准备好所需要的食材：鸡翅，可乐，白糖，葱花，生抽，老抽，料酒，盐，胡椒粉，淀粉。
+
+2. 将鸡翅洗净，放入一个大碗中，加入适量的盐，胡椒粉，淀粉，搅拌均匀，腌制15分钟。
+
+3. 将可乐放入一个锅中，加入白糖，生抽，老抽，料酒，搅拌均匀，用中火煮开，待汤汁变稠时，放入葱花，小火煮2分钟，把汤汁盛起备用。
+
+4. 将洗净的鸡翅放入油锅中，用中火炸至金黄色，捞出控油待用。
+
+5. 将炸好的鸡翅放入可乐汤汁中，用小火煮10分钟，勾芡，即可出锅。
 ####  #vue吊还是react吊 <span class="gpt-item">哦呀苏米纳塞@10:07:12 (还有4次)</span>
 
 
