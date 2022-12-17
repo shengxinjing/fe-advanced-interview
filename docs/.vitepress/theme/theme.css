@@ -66,3 +66,8 @@ h4{
 .VPContent{
   padding-top:10px !important;
 } */
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  }
