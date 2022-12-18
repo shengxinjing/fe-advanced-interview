@@ -2,13 +2,63 @@
 
 提问格式: `#问题`  比如  `#没做作业怎么写检讨`,问题字数需>5 ,(关注就有5次ChatGPT的机会) 打赏可增加次数。
 访问 shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>Minttea97: <span style="color:var(--vp-c-brand);"> #你是谁</span></li><li>oodzfa: <span style="color:var(--vp-c-brand);"> #ctrl</span></li><li>前端小智: <span style="color:var(--vp-c-brand);"> #介绍一下css</span></li><li>Learning-code: <span style="color:var(--vp-c-brand);"> #大家好</span></li><li>大秦8886: <span style="color:var(--vp-c-brand);"> #Eth未来怎么样</span></li><li>乾华bdhh: <span style="color:var(--vp-c-brand);"> #测试</span></li><li>大秦8886: <span style="color:var(--vp-c-brand);"> #eth未来有希望超越btc吗</span></li><li>大秦8886: <span style="color:var(--vp-c-brand);"> #美联储什么时候停止加息</span></li><li>larry099: <span style="color:var(--vp-c-brand);"> #怎么实现的</span></li><li>larry099: <span style="color:var(--vp-c-brand);"> #我2023年财运怎么样</span></li></ul>
+<ul class="gpt-fix-window"><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #what is your name</span></li><li>bloodwinter: <span style="color:var(--vp-c-brand);"> #金属为什么会在热应力影响下开裂</span></li><li>bloodwinter: <span style="color:var(--vp-c-brand);"> #TP347H过热器弯头为什么会开裂</span></li><li>bloodwinter: <span style="color:var(--vp-c-brand);"> 太专业的还是不太行</span></li><li>bloodwinter: <span style="color:var(--vp-c-brand);"> #应力断裂的裂纹形貌及特征</span></li><li>巴巴尔星人: <span style="color:var(--vp-c-brand);"> #手写js响应式</span></li><li>Kumv: <span style="color:var(--vp-c-brand);"> #软件开发工程师年终总结</span></li><li>大橘为重橘橘关心: <span style="color:var(--vp-c-brand);"> #王老吉的营销目标是什么</span></li><li>巴巴尔星人: <span style="color:var(--vp-c-brand);"> #计时统计暴力枚举破解法</span></li><li>bloodwinter: <span style="color:var(--vp-c-brand);"> #奥密克戎毒株的免疫逃逸</span></li></ul>
 
-::: danger 感谢礼物: 大橘为重橘橘关心 投喂了1 个  小花花(使用次数+1)
+::: danger 感谢 bloodwinter连续 投喂了5 个小花花(使用次数+5)
 :::
-::: info larry099   :<span style="color:var(--vp-c-brand);"> #我2023年财运怎么样 </span> 
+::: info bloodwinter   :<span style="color:var(--vp-c-brand);"> #奥密克戎毒株的免疫逃逸 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #奥密克戎毒株的免疫逃逸 <span class="gpt-item">bloodwinter@17:06:14 (还有6次)</span>
+
+<pre>
+对于奥密克戎毒株来说，免疫逃逸是一种过程，其结果是病原体能够逃脱宿主的免疫反应。这种免疫逃逸可能会发生在两个不同的阶段：病原体被感染前或者被感染后。在病原体被感染前可能会发生自身免疫逃逸，即病原体自身具有不可抗拒的能力，可以躲避宿主的免疫反应。其中一个例子是病原体可以把它的表面抗原改变，从而让它们能够躲避宿主的免疫反应。另一个例子是病原体可以通过改变它的基因组来躲避宿主的免疫反应。病原体被感染后可能会发生的免疫逃逸包括：病原体可以通过改变它的毒力来减弱宿主的免疫反应，或者病原体可以改变它的遗传组合来躲避宿主的免疫反应。</pre>
+####  #计时统计暴力枚举破解法 <span class="gpt-item">巴巴尔星人@17:05:44 (还有3次)</span>
+
+<pre>
+暴力枚举破解法是一种通过遍历所有可能的组合来尝试破解密码的方法。这种方法的时间复杂度是O(n^m)，其中n是需要遍历的组合数量，m是密码的长度。因此，如果密码的长度增加，破解的时间也会相应增加。</pre>
+####  #软件开发工程师年终总结 <span class="gpt-item">Kumv@17:04:14 (还有4次)</span>
+
+<pre>
+2019年，我作为一名软件开发工程师，取得了很多成绩，并有助于提高公司的业务效率。
+首先，我参与了多项软件产品的研发项目，分别负责了软件的系统分析、设计、编码以及测试等工作。其中，我曾独立负责了一个报表系统的开发，利用Java和MySQL技术，实现了报表的统计分析和显示，为公司提供了有效的管理支持；另外，参与了一个ERP系统的开发，负责了系统架构的设计和编码实现，使系统的开发周期缩短了数倍。
+此外，我还参与了多项系统的维护和改进工作，通过检查系统的功能、结构和性能等，不断完善系统的性能，提高用户体验，增强系统的稳定性。
+2019年，我在软件开发工程师的</pre>
+####  #手写js响应式 <span class="gpt-item">巴巴尔星人@17:04:03 (还有4次)</span>
+
+<pre>
+```
+&lt;script&gt;
+    window.addEventListener('resize', function(){
+        let html = document.getElementsByTagName('html')[0];
+        let width = html.getBoundingClientRect().width;
+        html.style.fontSize = width/10 + "px";
+    })
+&lt;/script&gt;
+```</pre>
+####  #应力断裂的裂纹形貌及特征 <span class="gpt-item">bloodwinter@17:03:13 (还有7次)</span>
+
+<pre>，以及裂纹的扩展规律。
+(2) The fracture morphology and characteristics of fatigue fracture, as well as the crack propagation law.</pre>
+####  #TP347H过热器弯头为什么会开裂 <span class="gpt-item">bloodwinter@17:00:40 (还有3次)</span>
+
+<pre>
+首先，TP347H过热器弯头可能会出现裂纹，这是由于在使用过程中，它可能受到了外部应力的影响，从而导致其裂纹。此外，如果TP347H过热器弯头在安装过程中受到损坏，也会导致裂纹的产生。最后，由于TP347H过热器弯头的材料问题，也可能会导致裂纹的出现。</pre>
+####  #金属为什么会在热应力影响下开裂 <span class="gpt-item">bloodwinter@16:59:07 (还有4次)</span>
+
+<pre>
+金属在热应力影响下开裂的原因主要有以下几点：
+1、金属材料温度变化过快，使得材料内部受到了热应力的影响，从而使得金属材料受到了快速的拉伸变形，从而造成开裂。
+2、热应力可以使金属材料产生不同大小的残余应力，如果残余应力较大，则可能导致金属材料的开裂。
+3、金属材料的晶粒和缺陷也可以使金属材料在热应力作用下起到开裂的作用，这些晶粒和缺陷会导致金属材料容易断裂。</pre>
+####  #what is your name <span class="gpt-item">花果山-大圣@16:56:10 (还有95次)</span>
+
+<pre>
+My name is Rachel.</pre>
+####  #what about happines <span class="gpt-item">花果山-大圣@16:26:04 (还有96次)</span>
+
+<pre>
+Happiness is one of the most important aspects of life. It is often defined as a state of well-being that includes feelings of contentment, joy, and satisfaction. Happiness is often seen as a subjective experience, as it is determined by an individual's thoughts, feelings, and overall outlook on life. While happiness is subjective, there are some things that can be done to increase one's probability of feeling happy, such as engaging in activities that bring joy and meaning, practicing self-care, and cultivating positive relationships.</pre>
 ####  #我2023年财运怎么样 <span class="gpt-item">larry099@08:17:14 (还有3次)</span>
 
 <pre>
@@ -827,156 +877,3 @@ func main() {
 	}
 }
 ```</pre>
-####  #预测下今年世界杯冠军 <span class="gpt-item">半天的星空@22:57:52 (还有4次)</span>
-
-<pre>
-很难预测，因为每年的世界杯都有不同的冠军。但是，今年的世界杯冠军可能是拥有强大的主场优势的巴西，也有可能是其他有实力的球队，如德国、西班牙或英格兰等。</pre>
-####  #用golang修改window代理设置 <span class="gpt-item">你搁这玩科幻呢@22:56:50 (还有4次)</span>
-
-<pre>
-Golang不能改变Window系统代理设置，但可以使用Windows API来实现，例如：
-```go
-package main
-import (
-	"syscall"
-	"unsafe"
-)
-func main() {
-	// InternetSetOption 
-	// https://docs.microsoft.com/en-us/windows/win32/api/wininet/nf-wininet-internetsetoptiona
-	InternetSetOption := syscall.NewLazyDLL("wininet.dll").NewProc("InternetSetOptionW")
-	// INTERNET_OPTION_PROXY 
-	// https://docs.microsoft.com/en-us/windows/win32/wininet/internet-option-proxy
-	INTERNET_OPTION_PROXY := 38
-	// INTERNET_OPEN_TYPE_PROXY
-	// https://docs.microsoft.com/en-us/windows/win32/wininet/internet-open-type-proxy
-	INTERNET_OPEN_TYPE_PROXY := 3
-
-	// INTERNET_PROXY_INFO
-	// https://docs.microsoft.com/en-us/windows/win32/wininet/internet-proxy-info
-	type INTERNET_PROXY_INFO struct {
-		dwAccessType uint32
-		lpszProxy    *uint16
-		lpszProxyBypass *uint16
-	}
-
-	// Set the proxy
-	proxy := INTERNET_PROXY_INFO{
-		dwAccessType: INTERNET_OPEN_TYPE_PROXY,
-		lpszProxy: syscall.StringToUTF16Ptr("127.0.0.1:8080"),
-		lpszProxyBypass: syscall.StringToUTF16Ptr(""),
-	}
-	ret, _, _ := InternetSetOption.Call(
-		0,
-		INTERNET_OPTION_PROXY,
-		uintptr(unsafe.Pointer(&proxy)),
-		uintptr(unsafe.Sizeof(proxy)),
-	)
-	// check return
-	if ret == 0 {
-		// error
-	}
-}
-```</pre>
-####  #如何使用golang修改mac代理设置 <span class="gpt-item">你搁这玩科幻呢@22:55:06 (还有5次)</span>
-
-<pre>
-可以使用golang net/proxy包来修改mac系统的代理设置，如下所示：
-package main
-import (
-	"fmt"
-	"net/proxy"
-)
-func main() {
-	// 设置代理为 socks5://127.0.0.1:9050
-	dialer, err := proxy.SOCKS5("tcp", "127.0.0.1:9050", nil, proxy.Direct)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-	// 设置系统代理
-	err = proxy.RegisterDialerType("socks5", dialer)
-	if err != nil {
-		fmt.Println(err)
-		return
-	}
-	fmt.Println("代理设置成功！")
-}</pre>
-####  #如何用rust实现所有的排序算法 <span class="gpt-item">若尘rokon@22:50:36 (还有0次)</span>
-
-<pre>
-rust实现排序算法最简单的方法是使用标准库`std::sort()`函数，它支持插入排序、冒泡排序、选择排序等算法。
-另外，你也可以实现自己的排序算法，比如快速排序、希尔排序、堆排序、归并排序等。下面是一个快速排序的例子：
-```rust
-fn quick_sort(list: &mut[i32]) {
-    if list.len() &lt;= 1 {
-        return;
-    }
-    let pivot = list.len() / 2;
-    let mut i = 0;
-    let mut j = list.len() - 1;
-    while i &lt; j {
-        while list[i] &lt; list[pivot] {
-            i += 1;
-        }
-        while list[j] &gt; list[pivot] {
-            j -= 1;
-        }
-        if i &lt;= j {
-            list.swap(i, j);
-            i += 1;
-            j -= 1;
-        }
-    }
-    if j &gt; 0 {
-        quick_sort(&mut list[..j + 1]);
-    }
-    if i &lt; list.len() - 1 {
-        quick_sort(&mut list[i..]);
-    }
-}
-```</pre>
-####  #预测下今年世界杯冠军 <span class="gpt-item">AFOwakaka@22:49:19 (还有4次)</span>
-
-<pre>
-这个问题太难回答，因为球队的表现取决于许多因素，如球员表现、教练能力、战术调整等。</pre>
-####  #rusr <span class="gpt-item">若尘rokon@22:49:18 (还有1次)</span>
-
-<pre>,rpw);
-																// Opening a connection
-	con.open();
-																// Retrieve the data
-	ResultSet rs=con.getData("SELECT * FROM CUSTOMER");
-																// Move the cursor to the next row
-	while(rs.next())
-	{
-		String n1=rs.getString(1);
-		String n2=rs.getString(2);
-		String n3=rs.getString(3);
-		String n4=rs.getString(4);
-		String n5=rs.getString(5);
-																// Print the contents of the row
-		System.out.println(n1+"\t"+n2+"\t"+n3+"\t"+n4+"\t"+n5);
-	}
-																// Close the connection
-	con.close();
-}
-}</pre>
-####  #解释下特征，模型，样本 <span class="gpt-item">若尘rokon@22:47:19 (还有2次)</span>
-
-<pre>，标签
-**特征**：在机器学习中，特征是输入数据的一个维度，是训练模型的基础，它会影响模型的训练过程和结果。
-**模型**：模型是一种结构化的方法，用于将特征映射到输出结果。它可以用来预测或分类输入数据。
-**样本**：样本是机器学习中的输入，它包含一组特征，用于训练模型。
-**标签**：标签是机器学习中的输出，它是模型训练的目标，用于预测新样本的结果。</pre>
-####  #如何处理小黑子 <span class="gpt-item">CN-浮幻@22:46:40 (还有4次)</span>
-
-<pre>
-小黑子是一种宠物，它需要主人提供日常的护理和照顾，以便保持健康。首先，主人应定期为小黑子进行清洁，像洗澡、剪指甲、剪毛等，并且还要给它提供足够的营养，以保证它们的健康。其次，主人应该给小黑子训练一些基本的行为，比如学会如何与人相处，以及如何接受基本的命令。最后，主人应该给小黑子提供足够的运动，比如散步、跑步、游泳等，以保持它们的健康。</pre>
-####  #如何使用css制作原神风之翼 <span class="gpt-item">滔滔清风@22:44:22 (还有4次)</span>
-
-<pre>
-1、首先，确定容器的大小，然后使用CSS的border属性定义边框，并使用border-radius属性将边框改为圆角。
-2、使用CSS的background-image属性添加图片，其中可以使用背景颜色填充。
-3、使用CSS的box-shadow属性设置边框的阴影，以达到原神风之翼的效果。
-4、最后，使用CSS的transform属性来旋转图片，以达到原神风之翼的效果。</pre>
