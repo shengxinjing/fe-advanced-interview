@@ -21,6 +21,8 @@ Word组件包裹 就可以发音了
 | <Word>exclamation point</Word> | `!`感叹号  |
 | <Word>hyphen</Word> | `-`连字号 |
 | <Word>semicolon</Word> | `;`分号|
+| <Word>double quotes</Word> | `"` 双引号 |
+| <Word>single quotes</Word> | `'` 单引号 |
 | <Word>colon</Word> | `:`冒号 |
 | <Word>semicolon</Word> | `;`分号 |
 | <Word>pound</Word> | `#`井号 |
@@ -36,6 +38,14 @@ Word组件包裹 就可以发音了
 | <Word>pipe</Word> | `\|` 竖杠 |
 | <Word>underscore</Word> | `_` 下划线 |
 | <Word>backtick</Word> | <code>`</code>反引号 |
+
+
+| <Word>decimal</Word> | `.` 小数点 |
+| <Word>addition operator</Word> | `+` 加号 |
+| <Word>multiplication operator</Word> | `*` 乘号 |
+| <Word>subtraction</Word> |  减法 |
+| <Word>division</Word> |  除法 |
+
 | 简历吹自己的词 |   |
 | <Word>Approachable</Word> | 平易近人  |
 | <Word>Creative </Word> | 有创造力  |
