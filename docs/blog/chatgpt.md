@@ -4,13 +4,95 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>-自然疯-: <span style="color:var(--vp-c-brand);"> #未来学习那一个编程语言待遇最好</span></li><li>何日再相爱: <span style="color:var(--vp-c-brand);"> #你是谁？</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>dgpkdd: <span style="color:var(--vp-c-brand);"> 冠上了咋办</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> 为什么要发明全麦面包</span></li><li>爱喝一点点的满大人: <span style="color:var(--vp-c-brand);"> #为什么要发明全麦面包？</span></li><li>cplt: <span style="color:var(--vp-c-brand);"> 。。</span></li><li>cplt: <span style="color:var(--vp-c-brand);"> #怎么体验</span></li><li>好走不怂: <span style="color:var(--vp-c-brand);"> ？</span></li><li>Singuliere: <span style="color:var(--vp-c-brand);"> #写一个js深拷贝</span></li></ul>
+<ul class="gpt-fix-window"><li>r山有木兮: <span style="color:var(--vp-c-brand);"> 微信</span></li><li>r山有木兮: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>suiciding: <span style="color:var(--vp-c-brand);"> #RIS辅助通信最新的前沿技术能总结一下</span></li><li>r山有木兮: <span style="color:var(--vp-c-brand);"> #QQ</span></li><li>suiciding: <span style="color:var(--vp-c-brand);"> RIS辅助通信概述</span></li><li>suiciding: <span style="color:var(--vp-c-brand);"> #RIS辅助通信概述</span></li><li>努力成长的脑子: <span style="color:var(--vp-c-brand);"> #二分查找算法python版本实现</span></li><li>努力成长的脑子: <span style="color:var(--vp-c-brand);"> #请问ChatGPT今天考研是什么时候？</span></li><li>空许华年: <span style="color:var(--vp-c-brand);"> #项目中useMemo的使用场景</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #React怎么使用Typescript</span></li></ul>
 
 ::: danger 感谢礼物: BOEING777-9 投喂了1 个  辣条(使用次数+1)
 :::
-::: info Singuliere   :<span style="color:var(--vp-c-brand);"> #写一个js深拷贝 </span> 
+::: info 大圣编程课堂   :<span style="color:var(--vp-c-brand);"> #React怎么使用Typescript </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #React怎么使用Typescript <span class="gpt-item">大圣编程课堂@12:10:11 (还有17次)</span>
+
+
+
+1. 安装Typescript：在终端中运行npm install -g typescript
+2. 在React项目目录下创建tsconfig.json文件，并定义Typescript设置：
+
+```json
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es2015",
+        "jsx": "react",
+        "strict": true
+    }
+}
+```
+
+3. 将React代码从JavaScript转换为Typescript：将.js文件重命名为.ts或.tsx，并将JavaScript代码转换为Typescript。
+4. 编译Typescript：在终端中运行tsc，以将Typescript代码转换为JavaScript。
+5. 运行React应用：在终端中运行npm start或yarn start，以启动React应用。
+####  #项目中useMemo的使用场景 <span class="gpt-item">空许华年@12:06:01 (还有4次)</span>
+
+
+
+useMemo可以优化 React 应用中复杂的计算过程，可以避免不必要的重复渲染。
+
+常见的场景有：
+1. 当父组件重新渲染时，可以避免子组件的重新渲染；
+2. 当数据量较大时，可以避免不必要的计算；
+3. 当需要对复杂的表达式进行计算，可以避免重复计算；
+4. 可以避免在每次渲染中创建函数。
+####  #请问ChatGPT今天考研是什么时候？ <span class="gpt-item">努力成长的脑子@12:02:19 (还有3次)</span>
+
+
+
+考研时间一般是每年12月份，今年考研时间是12月21日至12月23日。
+####  #二分查找算法python版本实现 <span class="gpt-item">努力成长的脑子@12:00:53 (还有4次)</span>
+
+
+
+def binary_search(list, item):
+    low = 0
+    high = len(list) - 1
+    while low &lt;= high:
+        mid = (low + high) // 2
+        guess = list[mid]
+        if guess == item:
+            return mid
+        if guess &gt; item:
+            high = mid - 1
+        else:
+            low = mid + 1
+    return None
+
+my_list = [1, 3, 5, 7, 9]
+
+print(binary_search(my_list, 3))
+print(binary_search(my_list, -1))
+####  #RIS辅助通信概述 <span class="gpt-item">suiciding@11:57:35 (还有4次)</span>
+
+
+
+RIS辅助通信是一种新的解决方案，用于改善无线信号强度和空中数据传输速率。它使用射频信号来增加无线路由器的信号强度，从而提高空中数据传输速率。它通过使用一对射频信号发射器和接收器来实现，使路由器能够以更快的速度和更强的信号传输数据。这种方法可以改善家庭或办公室区域内的无线连接，从而使它们更快、更可靠，并且可以更容易地实现实时应用，如视频会议、在线游戏和视频流。
+####  #你知道花果山大圣是谁吗 <span class="gpt-item">要远程李华的小号@11:46:14 (还有3次)</span>
+
+？
+
+花果山大圣是孙悟空，他是《西游记》中的主人公。
+####  #如何学习编程 <span class="gpt-item">要远程李华的小号@11:44:04 (还有4次)</span>
+
+
+
+1. 首先，你得有兴趣学习编程，并坚持不懈地专注于学习，才能取得成功。
+
+2. 选择一门编程语言，比如C/C++、Java、Python等。找到合适的资料，如书籍、在线课程、教程等，学习该语言的基础知识和语法。
+
+3. 实践编程，也就是实际操作一些编程任务，比如编写一些小程序，一步步构建一个应用程序等。
+
+4. 不断练习编程，不断完善自己的编程技能。
+
+5. 定期跟进新的编程技术，保持自己的知识更新，不断学习更多的编程技术，保持学习的热情。
 ####  #写一个js深拷贝 <span class="gpt-item">Singuliere@11:36:15 (还有4次)</span>
 
 函数
