@@ -44,6 +44,7 @@ Word组件包裹 就可以发音了
 | <Word>subtraction</Word> |  减法 |
 | <Word>division</Word> |  除法 |
 | 前端工程师 |   |
+| <Word>frontend </Word> | 前端 |
 | <Word>closure </Word> | 闭包 |
 | <Word>box model</Word> |  盒模型 |
 | <Word>pseudo class</Word> |  伪类 |
@@ -54,10 +55,32 @@ Word组件包裹 就可以发音了
 | <Word>user interfaces</Word> | 用户界面(UI) |
 | <Word>declarative</Word> | 声明式|
 | <Word>reactivity</Word> | 响应式|
-
+| <Word>single-file components</Word> | 单文件组件(Vue)|
+| <Word>composition</Word> | 组合Api|
+| <Word>integration</Word> | 集成|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
+| <Word>reactivity</Word> | 响应式|
 
 | 后端工程师 |   |
-
+| <Word>backend</Word> | 后端|
 | 简历吹自己的词 |   |
 | <Word>Approachable</Word> | 平易近人  |
 | <Word>Creative </Word> | 有创造力  |
