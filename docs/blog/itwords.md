@@ -38,13 +38,22 @@ Word组件包裹 就可以发音了
 | <Word>pipe</Word> | `\|` 竖杠 |
 | <Word>underscore</Word> | `_` 下划线 |
 | <Word>backtick</Word> | <code>`</code>反引号 |
-
-
 | <Word>decimal</Word> | `.` 小数点 |
 | <Word>addition operator</Word> | `+` 加号 |
 | <Word>multiplication operator</Word> | `*` 乘号 |
 | <Word>subtraction</Word> |  减法 |
 | <Word>division</Word> |  除法 |
+| 前端工程师 |   |
+| <Word>closure </Word> | 闭包 |
+| <Word>box model</Word> |  盒模型 |
+| <Word>pseudo class</Word> |  伪类 |
+| <Word>preprocessors</Word> |  预处理器 |
+| <Word>hoisting</Word> |  变量提升 |
+| <Word>self-invoking</Word> | 函数自执行 |
+| <Word>higher-order </Word> | 高阶(函数，组件) |
+
+
+| 后端工程师 |   |
 
 | 简历吹自己的词 |   |
 | <Word>Approachable</Word> | 平易近人  |
