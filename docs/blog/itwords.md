@@ -63,7 +63,6 @@ Word组件包裹 就可以发音了
 | <Word>recursive</Word> | 递归|
 | <Word>concurrency</Word> | 并发|
 | <Word>Virtual dom</Word> | 虚拟Dom|
-
 | 后端工程师 |   |
 | <Word>backend</Word> | 后端|
 | 简历吹自己的词 |   |
