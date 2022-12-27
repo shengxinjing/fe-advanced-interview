@@ -58,26 +58,11 @@ Word组件包裹 就可以发音了
 | <Word>single-file components</Word> | 单文件组件(Vue)|
 | <Word>composition</Word> | 组合Api|
 | <Word>integration</Word> | 集成|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
-| <Word>reactivity</Word> | 响应式|
+| <Word>scaffolding</Word> | 脚手架|
+| <Word>monolithic</Word> | 大型的|
+| <Word>recursive</Word> | 递归|
+| <Word>concurrency</Word> | 并发|
+| <Word>Virtual dom</Word> | 虚拟Dom|
 
 | 后端工程师 |   |
 | <Word>backend</Word> | 后端|
