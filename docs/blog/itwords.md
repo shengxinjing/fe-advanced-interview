@@ -51,6 +51,9 @@ Word组件包裹 就可以发音了
 | <Word>hoisting</Word> |  变量提升 |
 | <Word>self-invoking</Word> | 函数自执行 |
 | <Word>higher-order </Word> | 高阶(函数，组件) |
+| <Word>user interfaces</Word> | 用户界面(UI) |
+| <Word>declarative</Word> | 声明式|
+| <Word>reactivity</Word> | 响应式|
 
 
 | 后端工程师 |   |
@@ -66,27 +69,26 @@ Word组件包裹 就可以发音了
 
 | 中文        |      翻译      | 
 | ------------- | :----------- | 
-| 这不是bug是功能     | @todo | 
-| !的作用是给布尔值取反     |   @todo    |   
-| Vuejs是一个响应式前端框架     |   @todo    |   
+| 这不是bug是功能     | <Word>It's not a bug, it's a feature.</Word> | 
 | 裁员     |   <Word>Send talents to the society</Word>    |   
 | 你需要系统的思考，你做的这个事的价值是什么     |   You need to be able to think systematically. What is the value of what you do?    |  
 |能干的干，不干就走|<Word>Do it if you can,get out if you don't</Word>|
 |XX是年轻人的福报| <Word>XX is a blessing for young people</Word>|
 | 在字节，你需要学会如何去学习，而不是学习什么| <Word>In ByteDance, you need to learn how to learn, not what to learn</Word>|
-|其实，我对你是有一些失望的。当初给你定级P6，是高于你面试时的水平的。我是希望进来后，你能够拼一把，快速成长起来的。||
-|xx这个层级，不是把事情做好就可以的。你需要有体系化思考的能力。|@todo|
-|你做的事情，他的价值点在哪里?||
-|你是否作出了壁垒形成了核心竞争力?||
-|你做的事情，和公司内其他团队的差异化在哪里?你的事情，是否沉淀了一套可复用的物理资料和方法论?|@todo|
-|为什么是你来做，其他人不能做吗?|@todo|
-|你需要有自己的判断力，而不是我说什么你就做什么。|@todo|
-|我不需要中规中矩的答卷，它是有一些差异化在里面的。|@todo|
-|后续，把你的思考沉淀到日报周报月报里，我希望看到你的思考，而不仅仅是进度。|@todo|
-|另外，提醒一下，你的产出，和同层级比，是有些单薄的||
-|马上要到年底了，加把劲儿||
-|你看咱们团队的XX去年晋升之前，可以一整年都在项目室打地铺的。||
-|成长，一定是伴随着痛苦的，||
+|其实，我对你是有一些失望的。当初给你定级P6，是高于你面试时的水平的。|<Word>To be honest, I am somewhat disappointed in you. When I assigned you the P6 rating, it was based on a level higher than your performance during the interview.</Word>|
+|我是希望进来后，你能够拼一把，快速成长起来的。|<Word>I was hoping that after coming in, you would be able to put in the effort and grow quickly.</Word>|
+|xx这个层级，不是把事情做好就可以的。你需要有体系化思考的能力。|<Word>The P7 level is not just about getting things done. You need to have the ability to think systematically.</Word>|
+|你做的事情，他的价值点在哪里?|<Word>Where is the value in what you are doing?</Word>|
+|你是否作出了壁垒形成了核心竞争力?|<Word>Have you created barriers and formed a core competency?</Word>|
+|你做的事情，和公司内其他团队的差异化在哪里?你的事情，是否沉淀了一套可复用的物理资料和方法论?|<Word>Where is the differentiation in what you are doing compared to other teams within the company? Have you developed a set of reusable physical materials and methodology for your work?</Word>|
+|为什么是你来做，其他人不能做吗?|<Word>Why are you the one doing this, can't anyone else do it?</Word>|
+|你需要有自己的判断力，而不是我说什么你就做什么。|<Word>You need to have your own judgment and not just do whatever I say.</Word>|
+|我不需要中规中矩的答卷，它是有一些差异化在里面的。|<Word>I don't need a conventional answer, there is some differentiation in it.</Word>|
+|把你的思考沉淀到日报周报月报里，我希望看到你的思考，而不仅仅是进度。|<Word>I want to see your thoughts reflected in your daily, weekly, and monthly reports, not just progress.</Word>|
+|提醒一下，你的产出，和同层级比，是有些单薄的|<Word>Just a reminder, your output compared to those at the same level is somewhat thin.</Word>|
+|马上要到年底了，加把劲儿|<Word>It's almost the end of the year, put in some extra effort.</Word>|
+|你看咱们团队的XX去年晋升之前，可以一整年都在项目室打地铺的。|<Word>You see, our team's XX worked in the project room for an entire year before being promoted last year.</Word>|
+|成长，一定是伴随着痛苦的 |<Word>Growth is always accompanied by pain.</Word>|
 | 你最痛苦的时候，恰恰就是你成长最快的时候，加油| ~~When you are the most painful, you are actually growing the fastest. come on~~<Word>the moments that you grow fastest are those when you suffer the most,so keep moving </Word>|
 || <Word>I don’t want to narrow my mind and consider myself as a front-end developer only</Word>|
 
