@@ -77,7 +77,7 @@ Word组件包裹 就可以发音了
 | 在字节，你需要学会如何去学习，而不是学习什么| <Word>In ByteDance, you need to learn how to learn, not what to learn</Word>|
 |其实，我对你是有一些失望的。当初给你定级P6，是高于你面试时的水平的。|<Word>To be honest, I am somewhat disappointed in you. When I assigned you the P6 rating, it was based on a level higher than your performance during the interview.</Word>|
 |我是希望进来后，你能够拼一把，快速成长起来的。|<Word>I was hoping that after coming in, you would be able to put in the effort and grow quickly.</Word>|
-|xx这个层级，不是把事情做好就可以的。你需要有体系化思考的能力。|<Word>The P7 level is not just about getting things done. You need to have the ability to think systematically.</Word>|
+|P7这个层级，不是把事情做好就可以的。你需要有体系化思考的能力。|<Word>The P7 level is not just about getting things done. You need to have the ability to think systematically.</Word>|
 |你做的事情，他的价值点在哪里?|<Word>Where is the value in what you are doing?</Word>|
 |你是否作出了壁垒形成了核心竞争力?|<Word>Have you created barriers and formed a core competency?</Word>|
 |你做的事情，和公司内其他团队的差异化在哪里?你的事情，是否沉淀了一套可复用的物理资料和方法论?|<Word>Where is the differentiation in what you are doing compared to other teams within the company? Have you developed a set of reusable physical materials and methodology for your work?</Word>|
