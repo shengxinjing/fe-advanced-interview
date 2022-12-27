@@ -90,7 +90,7 @@ Word组件包裹 就可以发音了
 |你看咱们团队的XX去年晋升之前，可以一整年都在项目室打地铺的。|<Word>You see, our team's XX worked in the project room for an entire year before being promoted last year.</Word>|
 |成长，一定是伴随着痛苦的 |<Word>Growth is always accompanied by pain.</Word>|
 | 你最痛苦的时候，恰恰就是你成长最快的时候，加油| ~~When you are the most painful, you are actually growing the fastest. come on~~<Word>the moments that you grow fastest are those when you suffer the most,so keep moving </Word>|
-|| <Word>I don’t want to narrow my mind and consider myself as a front-end developer only</Word>|
+|我不想狭隘地认为自己只是一个前端开发人员| <Word>I don’t want to narrow my mind and consider myself as a front-end developer only</Word>|
 
 ## tips
 
