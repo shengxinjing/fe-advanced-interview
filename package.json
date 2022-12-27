@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev docs --port 8080",
+    "dev": "vitepress dev docs --port 8080 --max-old-space-size=50000",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   },
