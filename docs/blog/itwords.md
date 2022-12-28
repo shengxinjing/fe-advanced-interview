@@ -63,8 +63,32 @@ Word组件包裹 就可以发音了
 | <Word>recursive</Word> | 递归|
 | <Word>concurrency</Word> | 并发|
 | <Word>Virtual dom</Word> | 虚拟Dom|
+| <Word>immutable</Word> | 不可变的|
+| <Word>polyfill</Word> | 垫片（语法垫片）|
+| <Word>scheduler</Word> |调度|
 | 后端工程师 |   |
 | <Word>backend</Word> | 后端|
+| <Word>asynchronous</Word> | 异步|
+| <Word>synchronous</Word> | 同步|
+| <Word>agile</Word> | 敏捷的|
+| <Word>agnostic</Word> | 不可知的|
+| <Word>arbitrary</Word> | 任意的|
+| <Word>crucial</Word> | 至关重要|
+| <Word>elastic</Word> | 弹性的|
+| <Word>hierarchical</Word> | 分层的|
+| <Word>implicit</Word> | 隐式|
+| <Word>intrusive</Word> | 侵入式|
+| <Word>permanent</Word> | 永久的|
+| <Word>retrospective</Word> | 回顾|
+| <Word>sophisticated</Word> | 复杂的|
+| <Word>sustainable</Word> | 可持续|
+| <Word>decouple</Word> | 解耦|
+| <Word>leverage</Word> | 杠杆，利用|
+| <Word>implement</Word> | 实现|
+| <Word>architecture</Word> | 架构|
+| <Word>bandwidth</Word> | 带宽，资源|
+| <Word>bottleneck</Word> | 瓶颈|
+| <Word>infrastructure</Word> | 基础设施|
 | 简历吹自己的词 |   |
 | <Word>Approachable</Word> | 平易近人  |
 | <Word>Creative </Word> | 有创造力  |
