@@ -4,13 +4,69 @@
 
 
 访问shengxinjing.cn/blog/chatgpt.html 查看历史记录
-<ul class="gpt-fix-window"><li>r山有木兮: <span style="color:var(--vp-c-brand);"> 微信</span></li><li>r山有木兮: <span style="color:var(--vp-c-brand);"> #你好</span></li><li>suiciding: <span style="color:var(--vp-c-brand);"> #RIS辅助通信最新的前沿技术能总结一下</span></li><li>r山有木兮: <span style="color:var(--vp-c-brand);"> #QQ</span></li><li>suiciding: <span style="color:var(--vp-c-brand);"> RIS辅助通信概述</span></li><li>suiciding: <span style="color:var(--vp-c-brand);"> #RIS辅助通信概述</span></li><li>努力成长的脑子: <span style="color:var(--vp-c-brand);"> #二分查找算法python版本实现</span></li><li>努力成长的脑子: <span style="color:var(--vp-c-brand);"> #请问ChatGPT今天考研是什么时候？</span></li><li>空许华年: <span style="color:var(--vp-c-brand);"> #项目中useMemo的使用场景</span></li><li>大圣编程课堂: <span style="color:var(--vp-c-brand);"> #React怎么使用Typescript</span></li></ul>
+<ul class="gpt-fix-window"><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #足球什么是越位</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #马龙是谁</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #乒乓球马龙是谁</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> # 王思聪是谁呀</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #王思聪是谁呀</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #王思聪是谁</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #王思聪的女朋友是谁</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #前端工程师如何学习算法</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #双人成行这个游戏怎么样</span></li><li>花果山-大圣: <span style="color:var(--vp-c-brand);"> #怎么准备雅思考试</span></li></ul>
 
 ::: danger 感谢礼物: BOEING777-9 投喂了1 个  辣条(使用次数+1)
 :::
-::: info 大圣编程课堂   :<span style="color:var(--vp-c-brand);"> #React怎么使用Typescript </span> 
+::: info 花果山-大圣   :<span style="color:var(--vp-c-brand);"> #怎么准备雅思考试 </span> 
  <span style="color:var(--vp-c-brand);">回复成功</span>
 :::
+####  #怎么准备雅思考试 <span class="gpt-item">花果山-大圣@16:55:51 (还有2次)</span>
+
+？
+
+1. 了解雅思考试的大纲：首先，要了解雅思考试的大纲，了解考试的结构和考试中可能出现的题型，熟悉考试的形式，以便在考前做好准备。
+
+2. 根据考试大纲复习：根据考试大纲，按照语言技能（听、说、读、写）的顺序复习，重点复习考试必备的词汇和语法知识。
+
+3. 做大量的练习：做大量的练习题，找准自己的弱项，提高自己的能力，熟悉考试的题型和形式，提高自己的考试水平。
+
+4. 听英语节目：经常听英语节目，培养自己的听力能力，提高自己的口语能力。
+
+5. 模拟考试：在考前要模拟考试，根据实际情况分配时间，以便在考试中熟练掌握考试能力。
+####  #双人成行这个游戏怎么样 <span class="gpt-item">花果山-大圣@15:53:46 (还有3次)</span>
+
+
+
+《双人成行》是一款类似传统跳棋的游戏，玩家需要把自己的棋子从一头移动到另一头，而另一玩家则要阻止你完成这一目标。它拥有鲜明的视觉效果，可调节的难度，以及让人沉浸的背景音乐，有趣且考验智力的游戏规则，是一款值得推荐的游戏。
+####  #前端工程师如何学习算法 <span class="gpt-item">花果山-大圣@15:44:02 (还有4次)</span>
+
+
+
+1. 理解算法的基础知识：首先，前端工程师要理解算法的基础知识，包括算法的概念，算法的分类，算法的时间复杂度，算法的空间复杂度等等。
+
+2. 学习基本的算法：这里指的是学习一些常用的算法，比如排序算法，搜索算法，图算法，字符串算法等等。
+
+3. 尝试一些算法题：尝试一些算法题有助于巩固所学的知识，并且也可以提高自己的编程技能。
+
+4. 尝试一些实际的算法问题：学习算法不仅要有理论知识，还要有实际的经验，可以尝试一些实际的算法问题，比如图像处理，自然语言处理等等。
+
+5. 学习其他的算法技术：学习其他的算法技术，比如机器学习，深度学习等，可以更好的
+####  #王思聪的女朋友是谁 <span class="gpt-item">花果山-大圣@15:30:05 (还有5次)</span>
+
+？
+
+王思聪的女朋友是李佳琦。
+####  #王思聪是谁 <span class="gpt-item">花果山-大圣@15:28:43 (还有6次)</span>
+
+
+
+王思聪是中国著名的投资人、创业者、收藏家、乐队主唱，曾创办了极客公园等公司。
+####  #王思聪是谁呀 <span class="gpt-item">花果山-大圣@15:27:34 (还有7次)</span>
+
+
+
+王思聪是一位中国顶级创业家，他也是一位投资大亨，曾投资了多家企业，投资的企业有腾讯、小米、滴滴等。他曾担任小米执行副总裁，也是腾讯资深副总裁和联合创始人之一。
+####  # 王思聪是谁呀 <span class="gpt-item">花果山-大圣@15:26:52 (还有8次)</span>
+
+
+
+王思聪是中国最年轻的亿万富翁，也是一位投资人、商业家、企业家。他拥有一家独资互联网娱乐传媒公司，是腾讯和新浪联合创始人、知名网红，有“中国投资界的香饽饽”之称。
+####  #乒乓球马龙是谁 <span class="gpt-item">花果山-大圣@15:25:21 (还有9次)</span>
+
+
+
+乒乓球马龙是中国乒乓球运动员，曾夺得2008年北京奥运会男子单打冠军，2016年里约奥运会男子单打冠军，2018年世乒赛男子单打冠军，2019年世乒赛男子双打冠军，2020年世乒赛男子双打冠军，2021年世乒赛男子团体冠军，是中国乒乓球界获得最多奖牌的运动员。
 ####  #React怎么使用Typescript <span class="gpt-item">大圣编程课堂@12:10:11 (还有17次)</span>
 
 
