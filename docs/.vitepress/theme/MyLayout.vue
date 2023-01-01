@@ -11,8 +11,35 @@ const { theme } = data
 const isShowWechat = ref(false)
 
 onMounted(()=>{
-  isShowWechat.value = location.search.indexOf('hide') === -1
+  let isShowSide = location.search.indexOf('hide') == -1
+  isShowWechat.value = isShowSide
+  if(isShowSide){
+    let fixwindow = document.querySelector('.gpt-fix-window')
+    if(fixwindow){
+      fixwindow.style.display = 'none'
+    }
+  }
 })
+function renderKanban(){
+  if(typeof loadlive2d!=='undefined'){
+    if(location.pathname.indexOf('chatgpt.html') > -1){
+      // loadlive2d("live2d", "/miku/model.json");
+      loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/shengxinjing/static/miku/model.json")
+    }
+  }else{
+    setTimeout(()=>renderKanban(),200)
+  }
+}
+renderKanban()
+
+// setTimeout(()=>{
+  // loadlive2d("live2d", "/mai/model.json");
+  // if(location.pathname.indexOf('chatgpt.html') > -1){
+    // loadlive2d("live2d", "/miku/model.json");
+  // }
+  // loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/shengxinjing/static/miku/model.json")
+  // https://cdn.jsdelivr.net/gh/shengxinjing/static/work.png
+// },2000)
 </script>
 
 <template>
@@ -31,8 +58,9 @@ onMounted(()=>{
         </p>
       </div>
     </template>
-
-
+    <template #aside-ads-after>
+      <canvas id="live2d" width="300" height="550"></canvas>
+    </template>
   </Layout>
 </template>
 <style scoped>

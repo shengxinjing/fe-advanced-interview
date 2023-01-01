@@ -39,7 +39,7 @@
 .gpt-fix-window{
   position:fixed;
   right:10px;
-  bottom:20px;
+  bottom:400px;
   width:280px;
   list-style:none;
   /* border:1px solid var(--vp-c-brand); */
