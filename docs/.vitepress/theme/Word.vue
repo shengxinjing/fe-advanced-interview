@@ -1,5 +1,5 @@
 <script setup>
-import { useSlots } from 'vue';
+import { useSlots } from 'vue'
 const [word] = useSlots().default()
 
 function play1(){

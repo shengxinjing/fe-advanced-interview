@@ -3,6 +3,7 @@ import BFrame from './BFrame.vue'
 import MyLayout from './MyLayout.vue'
 import NotFound from './NotFound.vue'
 import Word from './Word.vue'
+import WordList from './WordList.vue'
 // import Sound from './Sound.vue'
 import './theme.css'
 import './test'
@@ -13,6 +14,7 @@ export default {
   enhanceApp({ app, router, siteData }) {
     app.component('BFrame',BFrame)
     app.component('Word',Word)
+    app.component('WordList',WordList)
     // app.component('Sound',Sound)
     // baidutongji
     var _hmt = _hmt || [];

@@ -15,6 +15,7 @@ function getDirctSidebar(pathname: string) {
                   .filter(v=>v.endsWith('.md'))
                   .sort((a, b) => {
                     if(a==='index.md') return 1
+                    if(a[0]!=='2') return 1
                     return a>b ? -1 : 1
                   })
   return dirct.map(dir=>{

@@ -136,3 +136,41 @@ Word组件包裹 就可以发音了
 ## 好用的工具
 1. https://www.deepl.com/
 2. https://app.grammarly.com/
+
+
+<WordList>
+  urban outskirts suburb deposit rental
+  cheque serial 
+  
+  facility garage laundry furniture toaster stereo fridge
+
+  tenant occupation accountant geography biology mathematics politics economics physics chemistry statistics
+
+  primary elementary secondary intermediate 
+
+  vegetarian vegan fruitarian flat 
+  
+  torn leak flicker cockroach mosquito net(蚊帐) firefly
+
+  balcony bedsit(起居兼卧室两用租间) trailer(拖车) caravan(拖车)
+
+  transporation ferry cab
+
+  church reptile cathedral cottages canoe farereservation
+
+  orientation stadium laboratory refectory cafeteria canteen dormitory residence
+
+  lecturer associate professor dean principal counselor advisor
+
+  finacial grant loan insurance domestic nersery academic
+
+  occupation annual squash pitch judo stretch
+
+  venue chilled
+</WordList>
+
+United Kindom   London Scotland（苏格兰） Wales威尔士 Ireland 爱尔兰  Australia Sydney  Melbourne墨尔本  New Zealand新西兰   Canada加拿大 Toronto 
+
+United States of America 
+
+
