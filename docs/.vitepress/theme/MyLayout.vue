@@ -19,6 +19,8 @@ onMounted(()=>{
       fixwindow.style.display = 'none'
     }
   }
+  // renderKanban()
+
 })
 function renderKanban(){
   if(typeof loadlive2d!=='undefined'){
@@ -30,7 +32,6 @@ function renderKanban(){
     setTimeout(()=>renderKanban(),200)
   }
 }
-renderKanban()
 
 // setTimeout(()=>{
   // loadlive2d("live2d", "/mai/model.json");
