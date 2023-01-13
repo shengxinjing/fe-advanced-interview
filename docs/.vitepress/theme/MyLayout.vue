@@ -11,8 +11,8 @@ const { theme } = data
 const isShowWechat = ref(false)
 
 onMounted(()=>{
-  let isShowSide = location.search.indexOf('hide') == -1
-  isShowWechat.value = isShowSide
+  let isShowSide = location.search.indexOf('hide') == -1 
+  isShowWechat.value = isShowSide && location.pathname.indexOf('shengxinjing.cn') > -1
   if(isShowSide){
     let fixwindow = document.querySelector('.gpt-fix-window')
     if(fixwindow){

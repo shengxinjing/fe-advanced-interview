@@ -11,6 +11,7 @@ const __dirname = path.dirname(__filename);
 
 function getDirctSidebar(pathname: string) {
   const p = path.resolve(__dirname, '../', pathname)
+  if(!fs.existsSync(p)) return []
   const dirct = fs.readdirSync(p)
                   .filter(v=>v.endsWith('.md'))
                   .sort((a, b) => {
@@ -63,8 +64,8 @@ export default defineConfigWithTheme<ThemeConfig>({
       { text: '🔥一起进步', link: '/about' },
       { text: '英语', link: '/blog/itwords' },
       { text: '🔥面试题', link: '/interview/' },
-      // { text: '玩转Vue3', link: '/vue/' },
-      // { text: '玩转React18', link: '/react/' },
+      { text: '玩转Vue3', link: '/vue/' },
+      { text: '玩转React18', link: '/react/' },
       { text: '源码漫游记', link: '/source/' },
       { text: '路线图', link: 'https://roadmap.shengxinjing.cn/' },
     ],
@@ -114,17 +115,33 @@ export default defineConfigWithTheme<ThemeConfig>({
       } 
     },
     sidebar: {
-      '/': [
+      "/react":[
         {
-          text:'文章',
-          items:getDirctSidebar('blog')
-        },
-        {
-          text:'面试题',
-          items:[
-            {text:'面试题',link:'/interview/'},
-          ]
-        },
+          text: '玩转React18',
+          // link: "/react/",
+          collapsible: true,
+          collapsed: false,
+          items: [
+            {
+              text: 'React+TS企业级实战', link: '/react/'
+            },
+            {
+              text:'实战入门', items: getDirctSidebar('react/intro')
+            },
+            {
+              text:'企业级实战', items: getDirctSidebar('react/arch')
+            },
+            {
+              text:'自己的组件库', items: getDirctSidebar('react/component')
+            },
+            {
+              text:'React生态', items: getDirctSidebar('react/framework')
+            },
+
+          ],
+        }
+      ],
+      "/vue":[
         {
           text: '玩转Vue3',
           // link: "/react/",
@@ -151,39 +168,34 @@ export default defineConfigWithTheme<ThemeConfig>({
             },
           ],
         },
+      ],
+      '/': [
         {
-          text: '玩转React18',
-          // link: "/react/",
+          text:'文章',
           collapsible: true,
           collapsed: true,
-          items: [
-            {
-              text: 'React学习之路', link: '/react/'
-            },
-            {
-              text:'实战入门', items:[
-                {text:'React入门',link:'/react/intro'}
-              ]
-            },
-            {
-              text:'企业级实战', items:[
-                {text:'Typescript',link:'/react/ts'}
-              ]
-            },
-            {
-              text:'组件库入门', items:[
-                {text:'组件库技术栈',link:'/react/component'}
-              ]
-            },
-          ],
+          items:getDirctSidebar('blog')
+   
         },
         {
+          text:'面试题',
+          collapsible: true,
+          collapsed: true,
+          items:[
+            {text:'面试题',link:'/interview/'},
+          ]
+        },
+        
+        {
           text:'前端实战进阶',
+          collapsible: true,
+          collapsed: true,
           items:getDirctSidebar('project')
         },
         {
           text:"源码漫游记",
           collapsible: true,
+          collapsed: true,
           items:getDirctSidebar('source')
         }
       ],

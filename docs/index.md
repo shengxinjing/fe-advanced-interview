@@ -28,7 +28,9 @@ hero:
     - theme: alt
       text: 源码漫游记
       link: /source/
-
+    - theme: alt
+      text: 博客
+      link: /blog/2023-01-01-plan
 features:
   - title: 选题丰富
     details: 来源社区热门面试题 & 挑战项目，Javascript, Typescript, Vue, React, Node.js, 系统设计题
