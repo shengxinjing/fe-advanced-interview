@@ -1,5 +1,6 @@
-import { defineConfigWithTheme } from 'vitepress'
+import { defineConfigWithTheme,defineConfig } from 'vitepress'
 import type { Config as ThemeConfig } from '@vue/theme'
+import { withMermaid } from "vitepress-plugin-mermaid";
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url';
@@ -42,7 +43,8 @@ function getDirctSidebar(pathname: string) {
   })
 }
 
-export default defineConfigWithTheme<ThemeConfig>({
+// export default withMermaid(defineConfig({
+export default withMermaid(defineConfigWithTheme<ThemeConfig>({
   title: '大圣前端进阶指南',
   description: '大圣前端进阶指南|Vue3|React|Vite|Cli|项目实战',
   head: [
@@ -50,6 +52,9 @@ export default defineConfigWithTheme<ThemeConfig>({
     ['link', { rel: 'alternate icon', href: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png', type: 'image/png', sizes: '16x16' }],
     ['script',{src:'/live2d.js'}]
   ],
+  // mermaid:{
+    // theme: 'dark' // default,neutral,forest,dark,base
+  // },
   // base:"/src/"
   themeConfig: {
     me: {
@@ -204,5 +209,6 @@ export default defineConfigWithTheme<ThemeConfig>({
       message: '文明其精神，野蛮其体魄',
       copyright: ' Copyright © 京ICP备18000331号-1'
     }
-  }
-})
+  },
+
+}))
