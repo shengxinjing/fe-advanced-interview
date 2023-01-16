@@ -29,7 +29,7 @@
 :::
 
 ## 课程架构
-![](/react/arch.png)
+![](/react/arch.jpg)
 
 ## 企业级实战架构
 ![](https://cdn.jsdelivr.net/gh/shengxinjing/static/fullstack/intro.jpg)
