@@ -26,3 +26,6 @@ Vue.js设计与实现
 4. webpack源码
 5. rollup源码
 6. 脚手架源码
+
+
+![](/source/arch.png)

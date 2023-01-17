@@ -176,6 +176,13 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
       ],
       '/': [
         {
+          text:'年度计划',
+          collapsible: true,
+          collapsed: true,
+          items:getDirctSidebar('life')
+   
+        },
+        {
           text:'文章',
           collapsible: true,
           collapsed: true,
@@ -202,6 +209,12 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
           collapsible: true,
           collapsed: true,
           items:getDirctSidebar('source')
+        },
+        {
+          text:"前端啃算法",
+          collapsible: true,
+          collapsed: true,
+          items:getDirctSidebar('algorithm')
         }
       ],
     },
