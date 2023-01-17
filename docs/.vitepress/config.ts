@@ -43,6 +43,12 @@ function getDirctSidebar(pathname: string) {
   })
 }
 
+const projectSidebar = {
+  text:'前端实战进阶',
+  collapsible: true,
+  collapsed: true,
+  items:getDirctSidebar('project')
+}
 // export default withMermaid(defineConfig({
 export default withMermaid(defineConfigWithTheme<ThemeConfig>({
   title: '大圣前端进阶指南',
@@ -142,7 +148,6 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
             {
               text:'React生态', items: getDirctSidebar('react/framework')
             },
-
           ],
         }
       ],
@@ -171,6 +176,9 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
                 {text:'组件库技术栈',link:'/vue/component'}
               ]
             },
+            {
+              text:'Vue生态', items: getDirctSidebar('vue/framework')
+            },
           ],
         },
       ],
@@ -178,14 +186,14 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
         {
           text:'年度计划',
           collapsible: true,
-          collapsed: true,
+          collapsed: false,
           items:getDirctSidebar('life')
    
         },
         {
           text:'文章',
           collapsible: true,
-          collapsed: true,
+          collapsed: false,
           items:getDirctSidebar('blog')
    
         },
@@ -198,12 +206,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
           ]
         },
         
-        {
-          text:'前端实战进阶',
-          collapsible: true,
-          collapsed: true,
-          items:getDirctSidebar('project')
-        },
+        projectSidebar,
         {
           text:"源码漫游记",
           collapsible: true,
