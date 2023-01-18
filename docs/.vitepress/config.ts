@@ -183,18 +183,16 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
         },
       ],
       '/': [
-        {
-          text:'年度计划',
-          collapsible: true,
-          collapsed: false,
-          items:getDirctSidebar('life')
-   
-        },
+
         {
           text:'文章',
           collapsible: true,
           collapsed: false,
-          items:getDirctSidebar('blog')
+          items:[
+            ...getDirctSidebar('blog'),
+            ...getDirctSidebar('books'),
+            ...getDirctSidebar('life').reverse()
+          ]
    
         },
         {
