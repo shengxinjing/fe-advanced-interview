@@ -189,11 +189,10 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
           collapsible: true,
           collapsed: false,
           items:[
-            ...getDirctSidebar('blog'),
-            ...getDirctSidebar('books'),
-            ...getDirctSidebar('life').reverse()
+            {text:'',items:getDirctSidebar('blog')},
+            {text:'读书测评',items:getDirctSidebar('books')},
+            {text:'生活规划',items:getDirctSidebar('life')}
           ]
-   
         },
         {
           text:'面试题',
