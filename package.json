@@ -15,6 +15,7 @@
     "dotenv": "^16.0.3",
     "mermaid": "9.1.7",
     "node-fetch": "^3.3.0",
+    "pinyin": "3.0.0-alpha.4",
     "vitepress": "1.0.0-alpha.20",
     "vitepress-plugin-mermaid": "^2.0.8",
     "vue": "^3.2.41"

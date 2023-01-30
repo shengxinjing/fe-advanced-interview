@@ -1,9 +1,11 @@
 # React + Typescript企业级实战
 
-
-## 做什么
-
 一个从入门到专家的React企业级实战课程
+
+
+## 什么是企业级的项目
+![](https://cdn.jsdelivr.net/gh/shengxinjing/static/fullstack/intro.jpg)
+
 
 ## 课程亮点和收获
 
@@ -21,21 +23,21 @@
 
 :::tip 技术栈
 
-- React18
-- React-router 6 
+- [React18](https://beta.reactjs.org/)
+- [React-router 6](https://reactrouter.com/en/main) 
+- [Redux + Tookit](https://redux-toolkit.js.org/) / [zustand](https://zustand-demo.pmnd.rs/) / [Jotai](https://jotai.org/) / [Recoil](https://recoiljs.org/) / [Valtio](https://valtio.pmnd.rs/)...
 - [AntDesign 5](https://ant.design/)
-- Vite4 / Umi4 / Next.js
-- Typescript + Pnpm + 各种规范库
+- [Vite4](https://vitejs.dev/) / [Umi4](https://v2.umijs.org/) / [Next.js](https://nextjs.org/) / [Webpack](https://webpack.js.org/)
+- [Typescript](https://www.typescriptlang.org/) + [Pnpm](https://pnpm.io/) + [Tailwindcss](https://tailwindcss.com/) +各种规范库
 :::
+
+
 
 ## 课程架构
 ![](/react/arch.jpg)
 
-## 企业级实战架构
-![](https://cdn.jsdelivr.net/gh/shengxinjing/static/fullstack/intro.jpg)
-
 :::tip 适合学员
-__0~5__年经验的前端，希望构建前端核心竞争力
+0~5年经验的前端，希望构建前端核心竞争力
 
 有一定的Javascript基础，想要深入React18框架,成为React生态高手
 
