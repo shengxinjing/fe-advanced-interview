@@ -19,6 +19,8 @@ if (typeof window !== 'undefined') {
     if(path.startsWith('react/')){
       course.show = true
       course.link = "https://student-api.iyincaishijiao.com/t/BNHNoPs/"
+    }else{
+      course.show = false
     }
   }, { immediate: true });
 }
