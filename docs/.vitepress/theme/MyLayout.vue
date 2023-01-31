@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { ref ,onMounted} from 'vue'
-import { useData, useRoute, useRouter } from 'vitepress';
+import { ref ,onMounted, watch, reactive} from 'vue'
+import { useData, useRoute,useRouter } from 'vitepress';
 import DefaultTheme from 'vitepress/theme'
 const data = useData()
 const route = useRoute()
@@ -10,7 +10,21 @@ const { theme } = data
 
 const isShowWechat = ref(false)
 
+const course = reactive({
+  show:false,
+  link:''
+})
+if (typeof window !== 'undefined') {
+  watch(() => router.route.data.relativePath, (path) => {
+    if(path.startsWith('react/')){
+      course.show = true
+      course.link = "https://student-api.iyincaishijiao.com/t/BNHNoPs/"
+    }
+  }, { immediate: true });
+}
 onMounted(()=>{
+  const path = location.pathname
+  // router 
   let isShowSide = location.search.indexOf('hide') == -1 
   isShowWechat.value = isShowSide && location.pathname.indexOf('shengxinjing.cn') > -1
   if(isShowSide){
@@ -45,6 +59,13 @@ function renderKanban(){
 
 <template>
   <Layout>
+    <template #doc-before><slot name="doc-before" />
+      <div class="action" v-if="course.show">
+        <a class="course-btn" :href="course.link" target="_blank">课程链接</a>
+      </div>
+
+    </template>
+
     <template #aside-outline-after>
       <div v-if="isShowWechat" class="about-me">
         <p class="item">扫码联系</p>

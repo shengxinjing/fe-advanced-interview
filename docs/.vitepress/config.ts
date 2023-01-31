@@ -56,7 +56,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
   head: [
     // ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/element3.ico', type: 'image/svg+xml' }],
     ['link', { rel: 'alternate icon', href: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png', type: 'image/png', sizes: '16x16' }],
-    ['script',{src:'/live2d.js'}]
+    // ['script',{src:'/live2d.js'}]
   ],
   // mermaid:{
     // theme: 'dark' // default,neutral,forest,dark,base
