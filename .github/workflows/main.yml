@@ -24,10 +24,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16.X"
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 7.13.4
       - name: install dep
-        run: npm install
+        run: pnpm install
       - name: build app
-        run: npm run build
+        run: pnpm run build
       - name: copy file via ssh password
         uses: appleboy/scp-action@master
         with:
