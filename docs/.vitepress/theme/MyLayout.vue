@@ -28,7 +28,8 @@ onMounted(()=>{
   const path = location.pathname
   // router 
   let isShowSide = location.search.indexOf('hide') == -1 
-  isShowWechat.value = isShowSide && location.pathname.indexOf('shengxinjing.cn') > -1
+  isShowWechat.value = isShowSide && location.host === 'shengxinjing.cn'
+
   if(isShowSide){
     let fixwindow = document.querySelector('.gpt-fix-window')
     if(fixwindow){
