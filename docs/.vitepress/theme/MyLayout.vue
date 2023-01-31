@@ -71,7 +71,7 @@ function renderKanban(){
 
     <template #aside-outline-after>
       <div v-if="isShowWechat" class="about-me">
-        <p class="item">扫码联系</p>
+        <p class="item">扫码联系 & 客服</p>
         <p class="item">学习编程 & 自由职业</p>
         <img :src="theme.me.wechat" alt="">
 
