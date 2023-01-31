@@ -75,12 +75,9 @@ function renderKanban(){
         <p class="item">学习编程 & 自由职业</p>
         <img :src="theme.me.wechat" alt="">
 
-        <p class="item">
+        <!-- <p class="item">
           <a target="_blank" href="https://appx496fyc38425.h5.xiaoeknow.com/p/decorate/homepage">我的课程首页</a>
-        </p>
-        <p>
-          shengxinjing.cn
-        </p>
+        </p> -->
       </div>
     </template>
     <template #aside-ads-after>
