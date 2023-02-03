@@ -90,4 +90,8 @@ h4{
 pre {
   white-space: pre-wrap;
   word-wrap: break-word;
-  }
+}
+
+hr{
+  display:none;
+}
