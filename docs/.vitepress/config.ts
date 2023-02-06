@@ -24,7 +24,7 @@ function getDirctSidebar(pathname: string) {
     const file = fs.readFileSync(path.resolve(p,dir)).toString()
     let text = dir
     let lines = file.split('\n')
-    const line = lines.shift()
+    const line = lines.shift() as string
     if(line.startsWith('# ')){
       text = line.replace('# ','')
     }else{
@@ -135,7 +135,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
           collapsed: false,
           items: [
             {
-              text: 'React+TS企业级实战', link: '/react/'
+              text: 'React+TS企业级实战+组件库', link: '/react/'
             },
             {
               text:'实战入门', items: getDirctSidebar('react/intro')
@@ -160,7 +160,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
           collapsed: true,
           items: [
             {
-              text: 'Vue3学习之路', link: '/vue/'
+              text: 'Vue3+TS企业级实战+组件库', link: '/vue/'
             },
             {
               text:'实战入门', items:[
