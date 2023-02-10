@@ -29,7 +29,6 @@ const { site,theme } = useData()
 
 <!-- <VPTeamMembers size="medium" :members="members" /> -->
 
-<img :src="theme.me.gongzhonghao" width="280">
 
 
 ## 大圣前端私教课
@@ -61,3 +60,5 @@ other
 4. 玩转小程序
 5. 如何做开源
 
+
+<img :src="theme.me.gongzhonghao" width="280">
