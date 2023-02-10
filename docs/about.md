@@ -58,7 +58,7 @@ other
 2. 玩转Three.js
 3. 玩转Rust
 4. 玩转小程序
-5. 如何做开源
+5. [如何做开源 with Anthony Fu(WIP)](https://github.com/tutorial-kit/open-source)
 
 
 <img :src="theme.me.gongzhonghao" width="280">
