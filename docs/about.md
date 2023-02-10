@@ -41,9 +41,9 @@ const { site,theme } = useData()
 
 1. [前端啃算法](https://blc.xet.tech/s/2Ajvex)
    - Leetcode200题，掌握刷题公式，大厂面试必杀技
-2. [Vue+ Typescript 企业实战+组件库课]()
-3. [React+ Typescript 企业实战+组件库课]()
-4. [前端源码漫游记](https://blc.xet.tech/s/3zmqj7)
+2. [Vue+ Typescript 企业实战+组件库课](/vue/)
+3. [React+ Typescript 企业实战+组件库课](/react/)
+4. [前端源码漫游记](/source/)
    - 一次性掌握前端热门框架原理 
    - Vue3 + React + Vite + Rollup 源码手写 ...
    - Typescript + Pnpm + Monorepo + Vitest
