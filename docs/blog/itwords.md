@@ -12,7 +12,7 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
 | 纪录片| 字幕(中英对照)|
 | ---------------- | :---: |
-| [React纪录片](https://www.bilibili.com/video/BV188411T7ty/) | [字幕](/subtitle/react)|
+| [React纪录片](https://www.bilibili.com/video/BV188411T7ty/) | [字幕](/subtitle/react.html)|
 
 
 | 单词 （拼错 or 不好发音）     | 翻译  | 
