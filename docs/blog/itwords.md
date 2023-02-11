@@ -5,15 +5,15 @@
 
 做一个好好学英语的程序员，左下角【编辑页面】欢迎PR
 ```
-Word组件包裹 就可以发音了
+Word组件包裹 就可以发音了,单词发音来自有道词典
 <Word>privacy</Word>
 ```
+<Word>Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.</Word>
+
 | 纪录片| 字幕(中英对照)|
 | ---------------- | :---: |
-| [React纪录片](https://www.bilibili.com/video/BV188411T7ty/) | [字幕](/subtitle/react.)
-单词发音来自有道词典，点击单词默认英音
+| [React纪录片](https://www.bilibili.com/video/BV188411T7ty/) | [字幕](/subtitle/react.)|
 
-<Word>Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.</Word>
 
 | 单词 （拼错 or 不好发音）     | 翻译  | 
 | ---------------- | :---: |
