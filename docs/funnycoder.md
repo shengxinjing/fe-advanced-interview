@@ -100,5 +100,6 @@ const members = [
 
 有趣程序员的职业经历，希望可以给刚入行的程序员一些启发，除了闷头写KPI代码，还有很多有趣的事情可以做。
 
+下一期想邀请哪位嘉宾 ，欢迎右侧联系我
 
 <VPTeamMembers size="small" :members="members" />
