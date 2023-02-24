@@ -30,7 +30,7 @@ hero:
       link: /source/
     - theme: alt
       text: 博客
-      link: /blog/2023-01-01-plan
+      link: /life/2023
 features:
   - title: 选题丰富
     details: 来源社区热门面试题 & 挑战项目，Javascript, Typescript, Vue, React, Node.js, 系统设计题
