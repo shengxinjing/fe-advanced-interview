@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>KunBoard</title>
+  <style>
+    video {
+      width: 668px;
+      height: 376px;
+    }
+
+    .bullet {
+      position: absolute;
+      font-size: 20px;
+      animation: shake 2s infinite;
+      -webkit-animation: shake 2s infinite;
+    }
+
+    .container {
+      position: relative;
+    }
+
+    #wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      background: red;;
+    }
+
+    @keyframes shake {
+      0% {
+        margin-left: 0;
+      }
+
+      25% {
+        margin-left: 20px;
+      }
+
+      75% {
+        margin-left: -20px;
+      }
+
+      100% {
+        margin-left: 0px;
+      }
+    }
+
+    @-webkit-keyframes shake {
+      0% {
+        margin-left: 0;
+      }
+
+      25% {
+        margin-left: 20px;
+      }
+
+      75% {
+        margin-left: -20px;
+      }
+
+      100% {
+        margin-left: 0px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <button id="play">播放</button>
+  <div class="container">
+    <!-- <video id="video" src="./ikun/ikun.mp4"></video> -->
+
+    <div id="wrapper">
+      <div class="bullet" style="left: 100px; top: 0;">《传 世 经 典》</div>
+      <div class="bullet" style="left: 200px; top: 20px;color:green;font-size:30px;">发动技能：铁山靠</div>
+      <div class="bullet" style="left: 300px; top: 100px;">《梦开始的地方》</div>
+      <div class="bullet" style="left: 400px; top: 60px;">每一帧都是表情包</div>
+      <div class="bullet" style="left: 50px; top: 80px;">恭喜你找到了镇站之宝！！！</div>
+      <div class="bullet" style="left: 80px; top: 120px;color:blue;font-size:30px;">《永垂不朽》</div>
+      <div class="bullet" style="left: 50px; top: 180px;color:red;font-size:40px;">万 恶 之 源</div>
+      <div class="bullet" style="left: 220px; top: 240px;">你干吗？</div>
+      <div class="bullet" style="left: 390px; top: 240px;">哈哈哈哈哈哈哈</div>
+      <div class="bullet" style="left: 390px; top: 300px;">披金成王，伴坤远航</div>
+      <div class="bullet" style="left: 390px; top: 190px;color:purple;font-size:30px;">第一首赞美家禽</div>
+    </div>
+  </div>
+  <script src="./ikun//ikun-mask.js"></script>
+  <script>
+
+
+    const cssText = `
+  width: 668px;
+  height: 376px;
+  -webkit-mask-size: 668px 376px;
+  `
+    let i = 0
+    document.querySelector('#wrapper').style.cssText = cssText + ikuns[0].css
+
+    function render() {
+      const s = performance.now()
+      const css = ikuns[i].css
+      document.querySelector('#wrapper').style.cssText = cssText + ikuns[i].css
+      i++
+      if (i < ikuns.length) {
+        setTimeout(() => {
+          render()
+        }, ikuns[i].time - ikuns[i - 1].time - (performance.now() - s) - 3)
+      } else {
+      }
+    }
+
+    document.querySelector("#play").addEventListener('click', () => {
+      document.querySelector('#video')?.play()
+      render()
+      i++
+    }, { once: true })
+
+
+// const ikuns = []
+// var observe = new MutationObserver(function(mutations){
+//     let action = mutations[0]
+//     if(action && action.type==="attributes" && action.attributeName==='style'){
+//         ikuns.push({css:action.target.style.cssText, time:performance.now()})
+//     }
+// })
+// var el = document.querySelector('.bpx-player-row-dm-wrap');
+// var  options = {
+//   'attributes':true
+// } 
+// observe.observe(el, options)
+
+  </script>
+</body>
+
+</html>

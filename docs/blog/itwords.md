@@ -141,16 +141,17 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
 
 <WordList>
-  urban outskirts suburb deposit rental
+
+  avenue urban outskirts suburb suburban deposit rental
   cheque serial 
   
   facility garage laundry furniture toaster stereo fridge
 
-  tenant occupation accountant geography biology mathematics politics economics physics chemistry statistics
+  landlord tenant occupation accountant geography biology physical mathematics politics economics physics chemistry statistics
 
   primary elementary secondary intermediate 
 
-  vegetarian vegan fruitarian flat 
+  vegetarian vegan fruitarian flat accommodation
   
   torn leak flicker cockroach mosquito net(蚊帐) firefly
 
@@ -158,9 +159,9 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   transporation ferry cab
 
-  church reptile cathedral cottages canoe farereservation
+  church reptile cathedral cottages canoe fare reservation castle
 
-  orientation stadium laboratory refectory cafeteria canteen dormitory residence
+  facility orientation stadium laboratory refectory cafeteria canteen dormitory residence
 
   lecturer associate professor dean principal counselor advisor
 
@@ -168,7 +169,14 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   occupation annual squash pitch judo stretch
 
-  venue chilled
+  venue chilled buffet snake crisps biscuit lentil tart desserts sundae lobster
+
+  overdue periodical  encyclopedia bibliography mulitmedia photocopier interlibrary locker
+
+  clinic practice infirmary chemist pharmacy
+
+  internist surgeon surgery diploma vet 
+  
 </WordList>
 
 United Kindom   London Scotland（苏格兰） Wales威尔士 Ireland 爱尔兰  Australia Sydney  Melbourne墨尔本  New Zealand新西兰   Canada加拿大 Toronto 

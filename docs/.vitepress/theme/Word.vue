@@ -36,6 +36,7 @@ function play(type){
 
 <template>
   <div class="it-words" @click="pronunciation">
+    <span>&nbsp;</span>
     <span>
       <slot></slot> 
     </span>

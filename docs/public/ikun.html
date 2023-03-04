@@ -3,133 +3,315 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>KunBoard</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ikun学前端01-Dom和音频</title>
   <style>
-    video {
-      width: 668px;
-      height: 376px;
+    #app {
+      width: 800px;
+      margin: 0 auto;
+      text-align: center;
     }
 
-    .bullet {
-      position: absolute;
+    #board {
+      display: none;
+    }
+
+    button {
+      background: #fb7299;
+      color: white;
+      border: none;
+      width: 100px;
+      height: 50px;
+      border-radius: 20px;
       font-size: 20px;
-      animation: shake 2s infinite;
-      -webkit-animation: shake 2s infinite;
+      margin: 20px;
     }
 
-    .container {
-      position: relative;
+    .keys {
+      border-radius: 20px;
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      margin: 5px;
+      background: #eee;
+      text-align: center;
+      font-size: 20px;
+      line-height: 50px;
+      cursor: pointer;
+      user-select: none
     }
 
-    #wrapper {
-      position: absolute;
-      top: 0;
-      left: 0;
-      background: red;;
+    h1 {
+      color: #fb7299;
     }
 
-    @keyframes shake {
-      0% {
-        margin-left: 0;
-      }
-
-      25% {
-        margin-left: 20px;
-      }
-
-      75% {
-        margin-left: -20px;
-      }
-
-      100% {
-        margin-left: 0px;
-      }
+    .keys.active {
+      background: #fb7299;
+      color: white;
     }
 
-    @-webkit-keyframes shake {
-      0% {
-        margin-left: 0;
-      }
+    .keys.a {
+      margin-left: 20px;
+    }
 
-      25% {
-        margin-left: 20px;
-      }
+    .keys.z {
+      margin-left: 40px;
+    }
 
-      75% {
-        margin-left: -20px;
-      }
+    #output {
+      padding: 10px;
+      border: none;
+      outline: none;
+      width: 600px;
+      height: 100px;
+      background: #eee;
 
-      100% {
-        margin-left: 0px;
-      }
+    }
+
+    span.badge {
+      display: inline-block;
+      background-color: #eee;
+      padding: 5px;
+      border-radius: 5px;
+      margin-left: 10px;
     }
   </style>
 </head>
 
 <body>
-  <button id="play">播放</button>
-  <div class="container">
-    <!-- <video id="video" src="./ikun/ikun.mp4"></video> -->
 
-    <div id="wrapper">
-      <div class="bullet" style="left: 100px; top: 0;">《传 世 经 典》</div>
-      <div class="bullet" style="left: 200px; top: 20px;color:green;font-size:30px;">发动技能：铁山靠</div>
-      <div class="bullet" style="left: 300px; top: 100px;">《梦开始的地方》</div>
-      <div class="bullet" style="left: 400px; top: 60px;">每一帧都是表情包</div>
-      <div class="bullet" style="left: 50px; top: 80px;">恭喜你找到了镇站之宝！！！</div>
-      <div class="bullet" style="left: 80px; top: 120px;color:blue;font-size:30px;">《永垂不朽》</div>
-      <div class="bullet" style="left: 50px; top: 180px;color:red;font-size:40px;">万 恶 之 源</div>
-      <div class="bullet" style="left: 220px; top: 240px;">你干吗？</div>
-      <div class="bullet" style="left: 390px; top: 240px;">哈哈哈哈哈哈哈</div>
-      <div class="bullet" style="left: 390px; top: 300px;">披金成王，伴坤远航</div>
-      <div class="bullet" style="left: 390px; top: 190px;color:purple;font-size:30px;">第一首赞美家禽</div>
+
+  <div id="app">
+    <h1>ikun学前端 -- KunBoard</h1>
+    <div>
+      <button id="play">开始</button>
     </div>
+    <div id="board">
+      <button id="replay">播放</button>
+      <div>
+        <textarea id="output" name="" id="" cols="72" rows="10"></textarea>
+      </div>
+      <div>
+        参考曲谱：
+        <span class="badge">jntm</span>
+        <span class="badge">jns</span>
+        <span class="badge">gah</span>
+        <span class="badge">zqerjntmwjns</span>
+      </div>
+    </div>
+    <div id="keyboard"></div>
+
+    <a style="display: block;text-align: center;width: 150px;margin: 0 auto;color:#fb7299;" target="_blank"
+      href="https://shengxinjing.cn/about.html">
+      联系我 一起学编程
+    </a>
   </div>
-  <script src="./ikun//ikun-mask.js"></script>
+  <!-- <audio controls src="ikun/ikun.mp3" autoplay></audio> -->
+
   <script>
-
-
-    const cssText = `
-  width: 668px;
-  height: 376px;
-  -webkit-mask-size: 668px 376px;
-  `
-    let i = 0
-    document.querySelector('#wrapper').style.cssText = cssText + ikuns[0].css
-
-    function render() {
-      const s = performance.now()
-      const css = ikuns[i].css
-      document.querySelector('#wrapper').style.cssText = cssText + ikuns[i].css
-      i++
-      if (i < ikuns.length) {
-        setTimeout(() => {
-          render()
-        }, ikuns[i].time - ikuns[i - 1].time - (performance.now() - s) - 3)
-      } else {
+    const $ = (selector) => document.querySelector(selector)
+    class KunBoard {
+      constructor(audio) {
+        this.textarea = $('#output')
+        this.replayBtn = $('#replay')
+        this.kunBoard = $('#keyboard')
+        this.audio = audio
       }
+      bindEvents() {
+        this.textarea.addEventListener('change', () => {
+          location.hash = this.textarea.value
+        })
+        this.bindClick()
+        this.bindKeydown()
+        this.bindReplay()
+      }
+      bindReplay() {
+        this.replayBtn.addEventListener('click', async (e) => {
+          let val = this.textarea.value.toLowerCase()
+          if (!val) return
+          let tasks = val.split('') || []
+          const play = () => {
+            if (tasks.length) {
+              let key = tasks.shift()
+              if (this.audio.maps[key]) {
+                this.audio.sing(key)
+                setTimeout(play, this.audio.maps[key][1] * 1000)
+              }
+            }
+          }
+          play()
+        }, false)
+      }
+      bindClick() {
+        document.addEventListener('click', (e) => {
+          if (e.target.className.indexOf('keys') > -1) {
+            const key = e.target.className.replace('keys ', '').trim()
+            this.textarea.value += key
+            location.hash = this.textarea.value
+            this.audio.sing(key)
+            blink(e.target)
+          }
+        }, false)
+      }
+      bindKeydown() {
+        document.addEventListener('keyup', (e) => {
+          const { key } = e
+          if (e.shiftKey || e.ctrlKey || e.metaKey || e.altKey || key.length !== 1 || !/[a-z]/g.test(key)) {
+            location.hash = this.textarea.value
+            if (key !== 'Backspace') {
+              e.preventDefault()
+            }
+            return
+          }
+          if (e.target.tagName.toLowerCase() !== 'textarea') {
+            this.textarea.value += key
+          }
+          location.hash = this.textarea.value
+          audio.sing(key)
+          blink($('.keys.' + key))
+        }, false)
+      }
+      addCss() {
+        if (!this.audio) return
+
+        console.log(this.audio)
+        let style = document.createElement('style')
+        style.setAttribute('type', 'text/css')
+        // let content = this.
+        const textContent = Object.keys(this.audio.maps)
+          .map(v => '.' + v)
+          .join(',')
+
+
+
+        style.textContent = textContent + `{background:#e8aabc;color:white;}`
+        document.head.appendChild(style)
+      }
+      render() {
+        const btns = ['qwertyuiop', 'asdfghjkl', 'zxcvbnm']
+        let btnHtml = ''
+        btns.forEach(btn => {
+          btnHtml += '<div>'
+          btn.split('').forEach(s => {
+            btnHtml += `<div class="keys ${s}">${s}</div>`
+          })
+          btnHtml += '</div>'
+        })
+        this.kunBoard.innerHTML = btnHtml
+        this.bindEvents()
+        this.textarea.value = location.hash.slice(1)
+        this.addCss()
+      }
+
     }
 
-    document.querySelector("#play").addEventListener('click', () => {
-      document.querySelector('#video')?.play()
-      render()
-      i++
-    }, { once: true })
+    class KunAudio {
+      constructor(src) {
+        this.src = src
+        this.isLoaded = false
+        this.audioBuffer = null
+        this.queue = []
+        this.isPlaying = false
+        this.maps = {
+          j: [34, 0.4], //ji
+          n: [34.4, 0.35], // ni
+          t: [34.7, 0.35], // tai
+          m: [35, 0.5],   // mei
 
+          g: [1, 2], // 干嘛
+          a: [2.5, 2], // 哎呦
+          h: [5.7, 2],  // 好烦
+          z: [17, 1],  // music
+          q: [19.5, 1.5], //前奏1
+          w: [36, 1], // 前奏2
+          e: [21, 2], // 前奏3
+          r: [23, 2], // 欠揍4
+          y: [38, 0.8],// 承上启下
+          s: [44, 1.2],// 实在是太美
+          b: [51.8, 0.7], // baby
+        }
+      }
+      //唱
+      async sing(key) {
+        const buffer = this.audioBuffer
+        if (this.maps[key] && this.context) {
+          this.queue.push(() => {
+            return new Promise(resovle => {
+              this.isPlaying = true
+              let source = this.context.createBufferSource()
+              source.buffer = buffer
+              source.loop = true
+              source.connect(this.context.destination)
+              source.start(0, ...this.maps[key])
+              setTimeout(() => {
+                this.isPlaying = false
+                resovle()
+              }, this.maps[key][1] * 1000)
+            })
+          })
+          // rap
+          if (!this.isPlaying) {
+            while (this.queue.length) {
+              const rap = this.queue.pop()
+              await rap()
+            }
+          }
+        }
 
-// const ikuns = []
-// var observe = new MutationObserver(function(mutations){
-//     let action = mutations[0]
-//     if(action && action.type==="attributes" && action.attributeName==='style'){
-//         ikuns.push({css:action.target.style.cssText, time:performance.now()})
-//     }
-// })
-// var el = document.querySelector('.bpx-player-row-dm-wrap');
-// var  options = {
-//   'attributes':true
-// } 
-// observe.observe(el, options)
+      }
 
+      initSound(arrayBuffer) {
+        this.context.decodeAudioData(arrayBuffer, (buffer) => {
+          this.audioBuffer = buffer
+        }, function (e) {
+          console.log('Error decoding file', e)
+        })
+      }
+      load(src) {
+        return new Promise(resolve => {
+          var xhr = new XMLHttpRequest() //下载音频文件
+          xhr.open('GET', src, true)
+          xhr.responseType = 'arraybuffer'
+          xhr.onload = function (e) {
+            resolve(this.response)
+          }
+          xhr.send()
+        })
+      }
+      async start() {
+        if (this.isLoaded) return
+        const res = await this.load(this.src)
+        const AudioContext = window.AudioContext
+          || window.webkitAudioContext
+          || window.mozAudioContext
+          || window.msAudioContext
+        this.context = new AudioContext()
+        this.initSound(res)
+        this.isLoaded = true
+      }
+    }
+    const audio = new KunAudio('./ikun/ikun.mp3')
+    const board = new KunBoard(audio)
+    $('#play').addEventListener('click', function () {
+      audio.start()
+      board.render()
+      $('#board').style.display = 'block'
+      this.style.display = 'none'
+    }, false)
+
+    function blink(el) {
+      if (!el) {
+        return
+      }
+      const name = ' active'
+      if (el.className.indexOf(name) === -1) {
+        el.className += name
+      }
+      setTimeout(() => {
+        el.className = el.className.replace(name, '')
+      }, 100)
+    }
   </script>
 </body>
 
