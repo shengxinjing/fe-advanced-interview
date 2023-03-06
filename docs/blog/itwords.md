@@ -175,7 +175,48 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   clinic practice infirmary chemist pharmacy
 
-  internist surgeon surgery diploma vet 
+  internist surgeon surgery diploma 
+
+  lecturer demonstrator materials booklet handout facilities tape 
+
+  presentation measurement approach reference questionnaire criteria bibliography  vocabulary paragraphs inaccurate essay survey assignment
+
+  sevenfold incorrectness documentary italic evaluation seminar theory relevant approach conference laboratory assignment postal surgey
+
+  lectures literature anthropology psychology sociology resit vocational
+
+
+  分割线
+
+  barrier insurance supervision segment quiz theatrical velvet violin texture rural 
+
+  auditorium fertilizer concrete confidential leather morale democratic  tin loyalty rational 
+
+  cafeteria contamination scent catalogue grain domestic pottery mayor geology mineral bound recruit religion sailing strain helicopter fossil harvest violation intact treasure periodical
+
+  lentil thriller tolerance carnivorous vaccination isect slop spoon parallel temple insulation evolution resistant carpet charity fountain herb reinforce cittage vary refectory unaware marine massage skyscraper recreation tunnel military venue tailor cruise 
+
+  fluctuation discipline craftsman shelter catering strait stem thesis poverty vacant pest flute regrettable encyclopedia stretch kiosk surgery spine germ mite distortion atlas perferenct steel polish steer ladder intensive parliament glue welfare migration relaxation
+
+
+  orientation laboratory nutrition aspiration oxygen literature shady dome mechanism bedsit buffet 
+
+  obligation instinct mature outfit cosmetics psychology theoretical curve volocanic trademark pigeon 
+
+  surplus compulsory conservation heritage activate itinerary
+
+  corruption litre pump hibernate antifreeze mould melt impaction sediment tribe lobby butcher sedentary pedestrian hurricane plum vest powder troop  
+
+  mounument depression methodolgy linguistics simulation originality chill breed emu 
+
+  fence stadium seasoned immune cabin estimate evaporation sponge appealing erosion 
+
+  drought workforce rehearsal mobility orgainic therapy toll comprehension gradient enthusiasm institution elbow radiogram association corridor slang surveillance astrontaut
+
+  rack fur consecutive peg 
+
+
+  captcha
   
 </WordList>
 
