@@ -26,8 +26,11 @@ hero:
       text: 玩转React18
       link: /react/
     - theme: alt
-      text: 源码漫游记
+      text: 源码手写
       link: /source/
+    - theme: alt
+      text: 啃算法
+      link: /algorithm/
     - theme: alt
       text: 博客
       link: /life/2023
@@ -40,8 +43,8 @@ features:
     details: 逐行代码演示+讲解，手把手助你进阶前端
   - title: 社区共建
     details: 欢迎大家贡献面试中遇到的题目，寻求最优解
----
 
+---
 
 
 

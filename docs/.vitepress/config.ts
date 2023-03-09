@@ -58,6 +58,10 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
     // ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/element3.ico', type: 'image/svg+xml' }],
     ['link', { rel: 'alternate icon', href: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png', type: 'image/png', sizes: '16x16' }],
     // ['script',{src:'/live2d.js'}],
+    ['link', { rel: 'stylesheet', href:'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }],
+    // ['link', { rel: 'stylesheet', href:'https://cdn.jsdelivr.net/npm/daisyui@2.51.3/dist/full.css' }],
+    
+
     ['script',{src:"https://hm.baidu.com/hm.js?ccf55dfd2764cf3ebf43d6b3c9da9b20"}]
   ],
   // mermaid:{
@@ -75,8 +79,8 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
     logo: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png',
     nav: [
       { text: '🔥一起进步', link: '/about' },
-      { text: '英语', link: '/blog/itwords' },
-      { text: '🔥面试题', link: '/interview/' },
+      // { text: '英语', link: '/blog/itwords' },
+      { text: '🔥面试辅导', link: '/interview/' },
       { text: '玩转Vue3', link: '/vue/' },
       { text: '玩转React18', link: '/react/' },
       { text: '源码漫游记', link: '/source/' },

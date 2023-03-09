@@ -229,7 +229,19 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   botanical proximity accredit magnify 
 
+  technicaion analogy socibiology forge fluster canyon insufficient juvenile justify
 
+  infant bend ambulance intake rubber disguise 
+
+  landscape evaporate bitterness scissor brick monopoly resin span drowsy 
+
+  mat junction basement dam ballon crystal castle chase hypothesis steady 
+
+  misinterpret carnivorous projection emotion campanion oppourtunity otter debt 
+
+  weed liver announcement era miniature album bacteria slim dawn foyer athlete
+
+  
 
   captcha
   
