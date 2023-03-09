@@ -8,7 +8,7 @@ titleTemplate: 解决前端进阶的难点
 hero:
   name: 前端进阶指南
   text: 解决前端进阶的难点
-  tagline: 面试, 企业级项目, 源码一网打尽
+  tagline: 面试, 企业级项目, 源码，算法，做最好的前端课程
   image:
     src: https://cdn.jsdelivr.net/gh/shengxinjing/static/coding.svg
     alt: challenges
@@ -25,15 +25,15 @@ hero:
     - theme: alt
       text: 玩转React18
       link: /react/
-    - theme: alt
-      text: 源码手写
-      link: /source/
-    - theme: alt
-      text: 啃算法
-      link: /algorithm/
-    - theme: alt
-      text: 博客
-      link: /life/2023
+    # - theme: alt
+    #   text: 源码手写
+    #   link: /source/
+    # - theme: alt
+    #   text: 啃算法
+    #   link: /algorithm/
+    # - theme: alt
+    #   text: 博客
+    #   link: /life/2023
 features:
   - title: React+TS企业级实战+组件库
     icon: 
