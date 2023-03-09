@@ -146,3 +146,22 @@
 	4. 头脑风暴
 
 
+
+
+
+
+<!-- 程序员找远程工作的资源, 还有Vue+TS，React+TS实战+组件库、手写前端热门框架源码等课程欢迎咨询
+纳瓦尔宝典作者的公司 https://www.angellist.com/
+电鸭远程工作者社区 :  https://eleduck.com/
+[阮一峰谁在招人 https://github.com/ruanyf/weekly/issues/2960
+[Vercel 工作讨论区 https://github.com/vercel/next.js/discussions/44541
+Vuejobs 相关远程: vuejobs.com
+JavascriptJob :  https://javascriptjob.xyz/
+远程工作 Jobs: remoteok.com
+欧洲远程工作 : justjoin.it
+web3招聘相关 : https://abetterweb3.notion.site/
+创业公司招人: angel.co/jobs
+接个人项目: upwork.com
+高端remote工作(号称只接受全球top 3% freelancer)：toptal.com
+创业公司： https://startup.jobs/
+Bold (大胆) Jobs: www.bolejobs.co -->
