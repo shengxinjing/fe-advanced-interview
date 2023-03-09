@@ -147,3 +147,7 @@
 	4. 头脑风暴
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=shengxinjing.react)
+
+
+
