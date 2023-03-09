@@ -257,7 +257,15 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   valley absence bamboo associate booklet letter labor adequate myth 
 
-  elevator 
+  elevator bracelet allergy diploma obey incentive scheme pond tram 
+
+  escalator souvenir cruise contemporary clay premiere 
+
+  verbal sustainable fiction leisure librarian stall observation 
+
+  ostrich colleague tutor mass naval lecturer marsh stamp expedition protein rigorous triple
+
+  delivery fin 
 
   captcha
   
