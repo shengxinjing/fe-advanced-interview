@@ -241,7 +241,23 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   weed liver announcement era miniature album bacteria slim dawn foyer athlete
 
+  stereo necklace pursue hoof  tension revolution counsel yam fleet digestive
+
+  timber invasion realism display patent frustration berry esteem contaminate sewage 
   
+  flicker tame emission prosperity picnic kit tragedy continent sack chin silk pepper toungue 
+
+  wax nylon strap spice vet stove moral hostel bone sector ally verdict proof proportion 
+
+  tactic dean seminar bribe  compensate behalf induction epic ferry satellite wrist viola
+
+  crack trek journalism quilt coal regulation permit refurbish talent shortage indication 
+
+  morality vehicle curtain delicate hamburger residence bully mediator superiority
+
+  valley absence bamboo associate booklet letter labor adequate myth 
+
+  elevator 
 
   captcha
   
