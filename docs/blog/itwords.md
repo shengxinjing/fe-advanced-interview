@@ -213,7 +213,22 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   drought workforce rehearsal mobility orgainic therapy toll comprehension gradient enthusiasm institution elbow radiogram association corridor slang surveillance astrontaut
 
-  rack fur consecutive peg 
+  rack fur consecutive peg  syrup orchestra leak coordinate linen gum corporate hormone stike sculpture league coconut tire secretary trader jewelry facility stock scarce irrigation wasp oven 
+
+  kidney mansion debit estate predator endorse sheer debatable antibiotic 
+
+  hospitality stir pine prey motel migrant swan fort crab fraud wool circular negative harbor stomach tattoo radiator nusery typo arctic fever martial mattress fortune glory colonist dizzy fragrant sphere projector persuade utilize archievement telescope capablity culticate 
+
+  promotion carpenter nephew farewell bullet alter helmet spot suburb metallic petrol Greek
+
+  snack incineration decade tobacco inferior soccer discrimination dormitory run-down clarity statue expertise ceremony dolphin bitter melon excursion consistent suspicious gamble sanctuary
+
+  pasta mime wound sesame pluse worm eggplant 
+
+  brow ambitious sake badminton palm puppet campsite parasite capital sandstone loan revision generous lid truck canal scarf servant compliment dye supervise abbreviate crisis antique 
+
+  botanical proximity accredit magnify 
+
 
 
   captcha

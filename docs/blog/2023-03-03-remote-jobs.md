@@ -70,4 +70,4 @@ web3招聘相关 : [abetterweb3.notion.site](https://abetterweb3.notion.site/)
 Bold Jobs: www.bolejobs.co/?s=05
 
 
-
+justremote : https://justremote.co/remote-jobs
