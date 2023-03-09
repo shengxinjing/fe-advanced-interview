@@ -80,6 +80,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
       { text: '玩转Vue3', link: '/vue/' },
       { text: '玩转React18', link: '/react/' },
       { text: '源码漫游记', link: '/source/' },
+      { text: '前端学算法', link: '/algorithm/' },
       { text: '路线图', link: 'https://roadmap.shengxinjing.cn/' },
     ],
     
