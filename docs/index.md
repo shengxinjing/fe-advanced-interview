@@ -64,13 +64,13 @@ features:
     link: /source/
     linkText: 前端源码漫游记
 
-  - title: 面试辅导
+  - title: 前端面试课
     icon: 
       src: /interview.svg
     details: 一次1V1模拟面试 + 职业规划 + 常见面试题剖析
               <br /> 面试突击必备
     link: /interview/
-    linkText: 前端辅导课
+    linkText: 前端面试课
   - title: 大圣前端私教课
     icon: 
       src: /sijiao.svg
