@@ -36,38 +36,44 @@ hero:
       link: /life/2023
 features:
   - title: React+TS企业级实战+组件库
-    # icon: 🚀
+    icon: 
+      src: /react.svg
     details: React+Typescript+Vite企业级实战+组件库
               <br />一个从入门到专家的React企业级实战课程
     link: /react/
     linkText: 玩转React18
   - title: Vue3+TS企业级实战+组件库
-    # icon: 🚀
+    icon: 
+      src: /vue.svg
     details: Vue3+Typescript+Vite企业级实战+组件库
               <br />一个从入门到专家的Vue企业级实战课程
     link: /vue/
     linkText: 玩转Vue3
   - title: 前端工程师的算法课
-    # icon: 🚀
+    icon: 
+      src: /al.svg
     details: JS实现算法+ Vue/React框架中的算法 + leetcode200题
               <br />一次性解决前端工程师面试中的算法难题
     link: /algorithm/
     linkText: 前端算法课
   - title: 源码漫游记
-    # icon: 🚀
+    icon: 
+      src: /vite.svg
     details: 前端框架热门源码一次性搞懂
               <br />手写Vue,React,Vite等前端框架源码
     link: /source/
     linkText: 前端源码漫游记
 
   - title: 面试辅导
-    # icon: 🚀
+    icon: 
+      src: /interview.svg
     details: 一次1V1模拟面试 + 职业规划 + 常见面试题剖析
               <br /> 面试突击必备
     link: /interview/
     linkText: 前端辅导课
   - title: 大圣前端私教课
-    # icon: 🚀
+    icon: 
+      src: /sijiao.svg
     details: 1V1辅导+全部视频课
               <br /> 定制你的学习路线，辅导你的职业规划
     link: /sijiao/
