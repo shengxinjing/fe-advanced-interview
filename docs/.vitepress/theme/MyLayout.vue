@@ -19,7 +19,20 @@ if (typeof window !== 'undefined') {
     if(path.startsWith('react/')){
       course.show = true
       course.link = "https://student-api.iyincaishijiao.com/t/BNHNoPs/"
-    }else{
+    }else if(path.startsWith('vue/')){
+      course.show = true
+      course.link = "https://student-api.iyincaishijiao.com/t/SH2Hjqw/"
+    }else if(path.startsWith('source/')){
+      course.show = true
+      course.link = "https://student-api.iyincaishijiao.com/t/SH2WsSu/"
+    }else if(path.startsWith('algorithm/')){
+      course.show = true
+      course.link = "https://student-api.iyincaishijiao.com/t/SmMYKcT/"
+    }else if(path.startsWith('interview/')){
+      course.show = true
+      course.link = "https://student-api.iyincaishijiao.com/t/SmM1uQC/"
+    }
+    else{
       course.show = false
     }
   }, { immediate: true });

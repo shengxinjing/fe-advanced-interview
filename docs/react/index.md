@@ -1,4 +1,4 @@
-# React18 + Typescript企业级实战
+# React18 + Typescript + Vite4企业级实战
 
 
 一个从入门到专家的React企业级实战课程
@@ -145,5 +145,9 @@
 	2. 不定期面试提高 
 	3. 课程总结与回顾 
 	4. 头脑风暴
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=shengxinjing.react)
+
 
 

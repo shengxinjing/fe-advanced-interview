@@ -95,3 +95,7 @@ pre {
 hr{
   display:none;
 }
+
+.vp-doc li strong{
+color:rgba(233, 30, 44, 1);
+}

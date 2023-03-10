@@ -6,9 +6,9 @@ title: 大圣前端进阶指南
 titleTemplate: 解决前端进阶的难点
 
 hero:
-  name: 前端进阶指南
-  text: 解决前端进阶的难点
-  tagline: 面试, 企业级项目, 源码一网打尽
+  name: 大圣的前端进阶课程
+  # text: 解决前端进阶的难点
+  tagline: 面试, 企业级项目, 源码，算法，做最好的前端课程
   image:
     src: https://cdn.jsdelivr.net/gh/shengxinjing/static/coding.svg
     alt: challenges
@@ -25,23 +25,82 @@ hero:
     - theme: alt
       text: 玩转React18
       link: /react/
-    - theme: alt
-      text: 源码漫游记
-      link: /source/
-    - theme: alt
-      text: 博客
-      link: /blog/2023-01-01-plan
+    # - theme: alt
+    #   text: 源码手写
+    #   link: /source/
+    # - theme: alt
+    #   text: 啃算法
+    #   link: /algorithm/
+    # - theme: alt
+    #   text: 博客
+    #   link: /life/2023
 features:
-  - title: 选题丰富
-    details: 来源社区热门面试题 & 挑战项目，Javascript, Typescript, Vue, React, Node.js, 系统设计题
-  - title: 知识体系完善
-    details: 企业级实战，框架源码，热门面试题一网打尽
-  - title: 配套视频讲解
-    details: 逐行代码演示+讲解，手把手助你进阶前端
-  - title: 社区共建
-    details: 欢迎大家贡献面试中遇到的题目，寻求最优解
----
+  - title: React+TS企业级实战+组件库
+    icon: 
+      src: /react.svg
+    details: React+Typescript+Vite企业级实战+组件库
+              <br />一个从入门到专家的React企业级实战课程
+    link: /react/
+    linkText: 玩转React18
+  - title: Vue3+TS企业级实战+组件库
+    icon: 
+      src: /vue.svg
+    details: Vue3+Typescript+Vite企业级实战+组件库
+              <br />一个从入门到专家的Vue企业级实战课程
+    link: /vue/
+    linkText: 玩转Vue3
+  - title: 前端工程师的算法课
+    icon: 
+      src: /al.svg
+    details: JS实现算法+ Vue/React框架中的算法 + leetcode200题
+              <br />一次性解决前端工程师面试中的算法难题
+    link: /algorithm/
+    linkText: 前端算法课
+  - title: 源码漫游记
+    icon: 
+      src: /vite.svg
+    details: 前端框架热门源码一次性搞懂
+              <br />手写Vue,React,Vite等前端框架源码
+    link: /source/
+    linkText: 前端源码漫游记
 
+  - title: 前端面试课
+    icon: 
+      src: /interview.svg
+    details: 一次1V1模拟面试 + 职业规划 + 常见面试题剖析
+              <br /> 面试突击必备
+    link: /interview/
+    linkText: 前端面试课
+  - title: 大圣前端私教课
+    icon: 
+      src: /sijiao.svg
+    details: 1V1辅导+全部视频课
+              <br /> 定制你的学习路线，辅导你的职业规划
+    link: /sijiao/
+    linkText: 前端私教课
+
+
+
+
+
+# - title: 选题丰富
+#     # icon: 🚀
+#     details: 来源社区热门面试题 & 挑战项目，Javascript, Typescript, Vue, React, Node.js, 系统设计题
+#     link: /interview/
+#     linkText: 了解更多
+#   - title: 知识体系完善
+#     details: 企业级实战，框架源码，热门面试题一网打尽
+#   - title: 配套视频讲解
+#     details: 逐行代码演示+讲解，手把手助你进阶前端
+#   - title: 社区共建
+#     details: 欢迎大家贡献面试中遇到的题目，寻求最优解
+#   - title: 社区共建
+#     details: 欢迎大家贡献面试中遇到的题目，寻求最优解
+
+#   - title: 社区共建
+#     details: 欢迎大家贡献面试中遇到的题目，寻求最优解
+    
+---
 
 
 

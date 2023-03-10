@@ -5,13 +5,15 @@
 
 做一个好好学英语的程序员，左下角【编辑页面】欢迎PR
 ```
-Word组件包裹 就可以发音了
+Word组件包裹 就可以发音了,单词发音来自有道词典
 <Word>privacy</Word>
 ```
+<Word>Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.</Word>
 
-单词发音来自有道词典，点击单词默认英音
+| 纪录片| 字幕(中英对照)|
+| ---------------- | :---: |
+| [React纪录片](https://www.bilibili.com/video/BV188411T7ty/) | [字幕](/subtitle/react.html)|
 
-<Word>Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.</Word>
 
 | 单词 （拼错 or 不好发音）     | 翻译  | 
 | ---------------- | :---: |
@@ -139,16 +141,17 @@ Word组件包裹 就可以发音了
 
 
 <WordList>
-  urban outskirts suburb deposit rental
+
+  avenue urban outskirts suburb suburban deposit rental
   cheque serial 
   
   facility garage laundry furniture toaster stereo fridge
 
-  tenant occupation accountant geography biology mathematics politics economics physics chemistry statistics
+  landlord tenant occupation accountant geography biology physical mathematics politics economics physics chemistry statistics
 
   primary elementary secondary intermediate 
 
-  vegetarian vegan fruitarian flat 
+  vegetarian vegan fruitarian flat accommodation
   
   torn leak flicker cockroach mosquito net(蚊帐) firefly
 
@@ -156,9 +159,9 @@ Word组件包裹 就可以发音了
 
   transporation ferry cab
 
-  church reptile cathedral cottages canoe farereservation
+  church reptile cathedral cottages canoe fare reservation castle
 
-  orientation stadium laboratory refectory cafeteria canteen dormitory residence
+  facility orientation stadium laboratory refectory cafeteria canteen dormitory residence
 
   lecturer associate professor dean principal counselor advisor
 
@@ -166,7 +169,106 @@ Word组件包裹 就可以发音了
 
   occupation annual squash pitch judo stretch
 
-  venue chilled
+  venue chilled buffet snake crisps biscuit lentil tart desserts sundae lobster
+
+  overdue periodical  encyclopedia bibliography mulitmedia photocopier interlibrary locker
+
+  clinic practice infirmary chemist pharmacy
+
+  internist surgeon surgery diploma 
+
+  lecturer demonstrator materials booklet handout facilities tape 
+
+  presentation measurement approach reference questionnaire criteria bibliography  vocabulary paragraphs inaccurate essay survey assignment
+
+  sevenfold incorrectness documentary italic evaluation seminar theory relevant approach conference laboratory assignment postal surgey
+
+  lectures literature anthropology psychology sociology resit vocational
+
+
+  分割线
+
+  barrier insurance supervision segment quiz theatrical velvet violin texture rural 
+
+  auditorium fertilizer concrete confidential leather morale democratic  tin loyalty rational 
+
+  cafeteria contamination scent catalogue grain domestic pottery mayor geology mineral bound recruit religion sailing strain helicopter fossil harvest violation intact treasure periodical
+
+  lentil thriller tolerance carnivorous vaccination isect slop spoon parallel temple insulation evolution resistant carpet charity fountain herb reinforce cittage vary refectory unaware marine massage skyscraper recreation tunnel military venue tailor cruise 
+
+  fluctuation discipline craftsman shelter catering strait stem thesis poverty vacant pest flute regrettable encyclopedia stretch kiosk surgery spine germ mite distortion atlas perferenct steel polish steer ladder intensive parliament glue welfare migration relaxation
+
+
+  orientation laboratory nutrition aspiration oxygen literature shady dome mechanism bedsit buffet 
+
+  obligation instinct mature outfit cosmetics psychology theoretical curve volocanic trademark pigeon 
+
+  surplus compulsory conservation heritage activate itinerary
+
+  corruption litre pump hibernate antifreeze mould melt impaction sediment tribe lobby butcher sedentary pedestrian hurricane plum vest powder troop  
+
+  mounument depression methodolgy linguistics simulation originality chill breed emu 
+
+  fence stadium seasoned immune cabin estimate evaporation sponge appealing erosion 
+
+  drought workforce rehearsal mobility orgainic therapy toll comprehension gradient enthusiasm institution elbow radiogram association corridor slang surveillance astrontaut
+
+  rack fur consecutive peg  syrup orchestra leak coordinate linen gum corporate hormone stike sculpture league coconut tire secretary trader jewelry facility stock scarce irrigation wasp oven 
+
+  kidney mansion debit estate predator endorse sheer debatable antibiotic 
+
+  hospitality stir pine prey motel migrant swan fort crab fraud wool circular negative harbor stomach tattoo radiator nusery typo arctic fever martial mattress fortune glory colonist dizzy fragrant sphere projector persuade utilize archievement telescope capablity culticate 
+
+  promotion carpenter nephew farewell bullet alter helmet spot suburb metallic petrol Greek
+
+  snack incineration decade tobacco inferior soccer discrimination dormitory run-down clarity statue expertise ceremony dolphin bitter melon excursion consistent suspicious gamble sanctuary
+
+  pasta mime wound sesame pluse worm eggplant 
+
+  brow ambitious sake badminton palm puppet campsite parasite capital sandstone loan revision generous lid truck canal scarf servant compliment dye supervise abbreviate crisis antique 
+
+  botanical proximity accredit magnify 
+
+  technicaion analogy socibiology forge fluster canyon insufficient juvenile justify
+
+  infant bend ambulance intake rubber disguise 
+
+  landscape evaporate bitterness scissor brick monopoly resin span drowsy 
+
+  mat junction basement dam ballon crystal castle chase hypothesis steady 
+
+  misinterpret carnivorous projection emotion campanion oppourtunity otter debt 
+
+  weed liver announcement era miniature album bacteria slim dawn foyer athlete
+
+  stereo necklace pursue hoof  tension revolution counsel yam fleet digestive
+
+  timber invasion realism display patent frustration berry esteem contaminate sewage 
+  
+  flicker tame emission prosperity picnic kit tragedy continent sack chin silk pepper toungue 
+
+  wax nylon strap spice vet stove moral hostel bone sector ally verdict proof proportion 
+
+  tactic dean seminar bribe  compensate behalf induction epic ferry satellite wrist viola
+
+  crack trek journalism quilt coal regulation permit refurbish talent shortage indication 
+
+  morality vehicle curtain delicate hamburger residence bully mediator superiority
+
+  valley absence bamboo associate booklet letter labor adequate myth 
+
+  elevator bracelet allergy diploma obey incentive scheme pond tram 
+
+  escalator souvenir cruise contemporary clay premiere 
+
+  verbal sustainable fiction leisure librarian stall observation 
+
+  ostrich colleague tutor mass naval lecturer marsh stamp expedition protein rigorous triple
+
+  delivery fin 
+
+  captcha
+  
 </WordList>
 
 United Kindom   London Scotland（苏格兰） Wales威尔士 Ireland 爱尔兰  Australia Sydney  Melbourne墨尔本  New Zealand新西兰   Canada加拿大 Toronto 

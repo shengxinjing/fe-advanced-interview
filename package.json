@@ -18,7 +18,7 @@
     "node-fetch": "^3.3.0",
     "pinyin": "3.0.0-alpha.4",
     "sound-play": "^1.1.0",
-    "vitepress": "1.0.0-alpha.20",
+    "vitepress": "1.0.0-alpha.50",
     "vitepress-plugin-mermaid": "^2.0.8",
     "vue": "^3.2.41"
   },
