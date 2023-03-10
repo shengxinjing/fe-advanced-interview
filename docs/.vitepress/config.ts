@@ -160,19 +160,13 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
               text: 'Vue3+TS企业级实战+组件库', link: '/vue/'
             },
             {
-              text:'实战入门', items:[
-                {text:'Vue入门',link:'/vue/intro'}
-              ]
+              text:'实战入门', items:getDirctSidebar('vue/intro')
             },
             {
-              text:'企业级实战', items:[
-                {text:'Typescript',link:'/vue/ts'}
-              ]
+              text:'企业级实战', items:getDirctSidebar('vue/arch')
             },
             {
-              text:'组件库入门', items:[
-                {text:'组件库技术栈',link:'/vue/component'}
-              ]
+              text:'组件库入门', items:getDirctSidebar('vue/component')
             },
             {
               text:'Vue生态', items: getDirctSidebar('vue/framework')
