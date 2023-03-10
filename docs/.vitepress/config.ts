@@ -211,7 +211,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
       ],
     },
     footer: {
-      message: '文明其精神，野蛮其体魄',
+      message: '追求持续轻松的职业生涯',
       copyright: ' Copyright © 京ICP备18000331号-1'
     }
   },
