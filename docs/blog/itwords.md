@@ -8,12 +8,17 @@
 Word组件包裹 就可以发音了,单词发音来自有道词典
 <Word>privacy</Word>
 ```
-<Word>Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.</Word>
+
+<WordList>
+
+  avenue urban outskirts suburb suburban deposit rental
+  cheque serial 
+
+  </WordList>
 
 | 纪录片| 字幕(中英对照)|
 | ---------------- | :---: |
 | [React纪录片](https://www.bilibili.com/video/BV188411T7ty/) | [字幕](/subtitle/react.html)|
-
 
 | 单词 （拼错 or 不好发音）     | 翻译  | 
 | ---------------- | :---: |
@@ -141,6 +146,7 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
 
 <WordList>
+  framework
 
   avenue urban outskirts suburb suburban deposit rental
   cheque serial 
@@ -265,8 +271,18 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   ostrich colleague tutor mass naval lecturer marsh stamp expedition protein rigorous triple
 
-  delivery fin 
+  delivery fin flour mental definite instructor resort proficiency candel cabinet garage liable frontier 
 
+  lottery phenomenon expansion strategy curved bypass textile flu emperor court 
+
+  cable invoice perspective envelope transcript trumpet drum 
+
+  pot donkey scar figure appliance exterior plough mammal acid foam casino 
+
+  herbivorous anxiety grocery 
+  
+  rust 
+  
   captcha
   
 </WordList>
