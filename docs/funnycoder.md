@@ -4,6 +4,16 @@ import { VPTeamMembers } from 'vitepress/theme'
 import {biliSvg} from './.vitepress/util'
 
 const members = [
+    {
+    avatar: 'https://avatars.githubusercontent.com/u/6937879?v=4',
+    name: '唐金州',
+    title: '09.前端独立开发者的选择和坚持-AntDesignVue作者唐金州',
+    links: [
+      {icon:{svg:biliSvg},link:"https://www.bilibili.com/video/BV1u24y1x74C/"},
+      { icon: 'github', link: 'https://github.com/tangjinzhou' },
+      // { icon: 'twitter', link: 'https://twitter.com/ewind1994' }
+    ]
+  },
   {
     avatar: 'https://avatars.githubusercontent.com/u/7312949?v=4',
     name: 'doodlewind-雪碧',
