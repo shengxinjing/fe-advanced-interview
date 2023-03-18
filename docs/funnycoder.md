@@ -9,6 +9,18 @@ import { VPTeamMembers } from 'vitepress/theme'
 import {biliSvg} from './.vitepress/util'
 
 const members = [
+      {
+    avatar: 'https://avatars.githubusercontent.com/u/100858978?v=4',
+
+    name: 'Janlay',
+    title: '10.前端已死？明晚八点，跟专科学历刚进字节的前端Janlay聊聊成长和面试',
+    vlink:"https://space.bilibili.com/26995758?spm_id_from=333.999.0.0",
+
+    links: [
+      { icon: 'github', link: 'https://juejin.cn/user/3368559357218382/course' },
+      // { icon: 'twitter', link: 'https://twitter.com/ewind1994' }
+    ]
+  },
     {
     avatar: 'https://avatars.githubusercontent.com/u/6937879?v=4',
 
