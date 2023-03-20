@@ -16,6 +16,21 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 
   </WordList>
 
+
+## 学习群
+
+先做自我介绍
+
+```
+Hey, I am Sheng Xinjing, a self-employed programmer whose main job is to build programming courses and contribute to the open-source project 
+
+With 10 years of javascript development experience and 5 years of management,  I am very happy to join this group to improve my English skills and I am planning to find a remote job abroad in the future.
+
+Outside of programming, I enjoy traveling, reading, and computer games, If you happen to be in the same city I live ( currently in Beijing ), maybe we can hang out and code together.
+```
+
+
+
 | 纪录片| 字幕(中英对照)|
 | ---------------- | :---: |
 | [React纪录片](https://www.bilibili.com/video/BV188411T7ty/) | [字幕](/subtitle/react.html)|
