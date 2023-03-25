@@ -9,17 +9,68 @@ Word组件包裹 就可以发音了,单词发音来自有道词典
 <Word>privacy</Word>
 ```
 
-<WordList>
+---
 
-  avenue urban outskirts suburb suburban deposit rental
-  cheque serial 
+<WordList :line="true">
+Vue is a JavaScript framework that helps developers build user interfaces efficiently using a declarative and component-based programming model. It extends standard HTML, CSS, and JavaScript, and provides features such as declarative rendering and reactivity to track JavaScript state changes and update the DOM efficiently.
 
-  </WordList>
+Vue is designed to be flexible and incrementally adoptable, and can be used in different ways depending on the use case, such as enhancing static HTML or building single-page applications. Vue also supports Single-File Components for authoring Vue components, which we can write the component's logic, template, and styles in a single file. Vue components can be authored in two different API styles, Options API and Composition API, both of which are capable of covering common use cases. The Options API is more beginner-friendly, while the Composition API enables more powerful patterns for organizing and reusing logic.
 
+education
 
+learn React is an arduous but rewarding process
+
+Teaching can be a very resarding career,it allows teachers to have an input in the development of young lives
+work
+people
+traffic
+food
+media
+science
+friendship
+likes and dislike
+effort,plan
+clothing,
+reading,writing
+money
+music
+travel
+sports
+skill
+crime,law,justice
+nature
+health,fitness
+culture
+building
+parties,festivals
+goverment
+environment
+animals
+home appliances
+development
+family
+solutions
+
+</WordList>
+
+---
+口语练习
+```
+work/study  where do you live
+birthdays weather morning snacks technology writing
+geography housrwork/job
+travelling(public)  puzzles
+names  singing social media
+where do you live
+small business, jewelry
+space and the stars
+chocolate ,weekends ,T-shirts
+keys,being happy,library,art
+sports
+```
 ## 学习群
 
-先做自我介绍
+先做自我介绍w
 
 ```
 Hey, I am Sheng Xinjing, a self-employed programmer whose main job is to build programming courses and contribute to the open-source project 
