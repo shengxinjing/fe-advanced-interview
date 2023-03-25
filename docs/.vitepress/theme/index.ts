@@ -5,8 +5,9 @@ import NotFound from './NotFound.vue'
 import Word from './Word.vue'
 import WordList from './WordList.vue'
 import { Card,Avatar } from 'ant-design-vue';
-import 'ant-design-vue/es/card/style/css'
-import 'ant-design-vue/es/avatar/style/css'
+import 'ant-design-vue/dist/antd.css';
+// import 'ant-design-vue/es/card/style/css'
+// import 'ant-design-vue/es/avatar/style/css'
 
 import Member from './Member.vue'
 // import Sound from './Sound.vue'
