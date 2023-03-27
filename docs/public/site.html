@@ -11,11 +11,17 @@
       height:300px;
       font-size:80px;
     }
+    #site{
+      width:300px;
+      height:300px;
+      font-size:80px;
+    }
   </style>
 </head>
 <body>
   
   <button id="app">upload</button>
+  <button id="site">site</button>
 
   <script>
     let btn = document.querySelector('#app')
@@ -27,6 +33,18 @@
       window.open('https://creator.xiaohongshu.com/creator/notemanage?roleType=creator')
       window.open('https://studio.youtube.com/channel/UCfPdiyVWstPzSUoWinHESUg/videos?d=ud')
       window.open('https://web.okjike.com/')
+    },false)
+
+    document.querySelector('#site').addEventListener('click',()=>{
+      window.open('https://www.youtube.com/')
+      window.open('https://www.quora.com/')
+      window.open('https://www.reddit.com/')
+      window.open('https://news.ycombinator.com/')
+      window.open('https://web.dev/')
+      window.open('https://dev.to/')
+      window.open('https://medium.com/')
+      // window.open('')
+
     },false)
   </script>
 </body> 
