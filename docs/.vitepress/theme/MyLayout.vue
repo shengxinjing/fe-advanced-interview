@@ -75,12 +75,12 @@ function renderKanban(){
 
 <template>
   <Layout>
-    <template #doc-before><slot name="doc-before" />
+    <!-- <template #doc-before><slot name="doc-before" />
       <div class="action" v-if="course.show">
         <a class="course-btn" :href="course.link" target="_blank">课程链接</a>
       </div>
 
-    </template>
+    </template> -->
 
     <template #aside-outline-after>
       <div v-if="isShowWechat" class="about-me">
