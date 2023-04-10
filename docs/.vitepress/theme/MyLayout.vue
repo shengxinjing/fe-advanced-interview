@@ -21,7 +21,10 @@ if (typeof window !== 'undefined') {
       course.link = "https://student-api.iyincaishijiao.com/t/BNHNoPs/"
     }else if(path.startsWith('vue/')){
       course.show = true
-      course.link = "https://student-api.iyincaishijiao.com/t/SH2Hjqw/"
+      // new
+      course.link = "https://student-api.iyincaishijiao.com/t/AWn4BBC/"
+      //old
+      // course.link = "https://student-api.iyincaishijiao.com/t/SH2Hjqw/"
     }else if(path.startsWith('source/')){
       course.show = true
       course.link = "https://student-api.iyincaishijiao.com/t/SH2WsSu/"
