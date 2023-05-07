@@ -1,8 +1,15 @@
 <script setup>
 import { useSlots,ref } from 'vue'
 import Word from './Word.vue'
+const props = defineProps({
+  line:{
+    type:Boolean,
+    default:false
+  }
+})
 let slot = useSlots().default().map(v=>{
-  return v.children.split(' ').filter(v=>v)
+  const ch = props.line?'\n':" "
+  return v.children.split(ch).filter(v=>v)
 })
 </script>
 
@@ -12,7 +19,6 @@ let slot = useSlots().default().map(v=>{
       {{ w }}
     </Word>
   </div>
-
 </template>
 
 <style scoped>

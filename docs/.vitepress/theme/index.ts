@@ -4,6 +4,12 @@ import MyLayout from './MyLayout.vue'
 import NotFound from './NotFound.vue'
 import Word from './Word.vue'
 import WordList from './WordList.vue'
+import { Card,Avatar } from 'ant-design-vue';
+import 'ant-design-vue/dist/antd.css';
+// import 'ant-design-vue/es/card/style/css'
+// import 'ant-design-vue/es/avatar/style/css'
+
+import Member from './Member.vue'
 // import Sound from './Sound.vue'
 import './theme.css'
 import './test'
@@ -15,6 +21,9 @@ export default {
     app.component('BFrame',BFrame)
     app.component('Word',Word)
     app.component('WordList',WordList)
+    app.component('Member',Member)
+    app.use(Card)
+    app.use(Avatar)
     // app.component('Sound',Sound)
     // baidutongji
     // var _hmt = _hmt || [];
