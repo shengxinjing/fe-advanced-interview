@@ -14,10 +14,12 @@
     "ant-design-vue": "^3.2.15",
     "axios": "^1.2.0",
     "bilibili-live-ws": "^6.2.1",
+    "bing-chat": "^0.2.1",
     "dotenv": "^16.0.3",
     "mermaid": "9.1.7",
     "node-fetch": "^3.3.0",
     "pinyin": "3.0.0-alpha.4",
+    "sound-play": "^1.1.0",
     "vitepress": "1.0.0-alpha.50",
     "vitepress-plugin-mermaid": "^2.0.8",
     "vue": "^3.2.41"
