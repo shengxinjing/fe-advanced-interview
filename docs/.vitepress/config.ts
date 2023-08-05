@@ -99,7 +99,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
       },
       {
         icon: {
-          svg: telegramSvg}, link: "https://t.me/+3MgX0yHFR2s5OWQ1"
+          svg: telegramSvg}, link: "https://t.me/+TudEYWNH2fw4NDg1"
       },
   //      {
   //       icon: {
