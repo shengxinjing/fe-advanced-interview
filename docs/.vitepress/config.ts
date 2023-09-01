@@ -67,6 +67,8 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
   // mermaid:{
     // theme: 'dark' // default,neutral,forest,dark,base
   // },
+  appearance:false,
+
   // base:"/src/"
   themeConfig: {
     me: {
