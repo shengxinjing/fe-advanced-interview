@@ -27,7 +27,7 @@ if (typeof window !== 'undefined') {
       course.link = "https://student-api.iyincaishijiao.com/t/SH2Hjqw/"
     }else if(path.startsWith('source/')){
       course.show = true
-      course.link = "https://student-api.iyincaishijiao.com/t/SH2WsSu/"
+      course.link = "https://student-api.iyincaishijiao.com/t/iekUQKRJ/"
     }else if(path.startsWith('algorithm/')){
       course.show = true
       course.link = "https://student-api.iyincaishijiao.com/t/SmMYKcT/"
