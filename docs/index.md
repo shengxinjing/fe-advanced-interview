@@ -79,6 +79,27 @@ features:
     link: /sijiao/
     linkText: 前端私教课
 
+  - title: 玩转Vue3全家桶(极客时间)
+    icon: 
+      src: https://static001.geekbang.org/static/time/icon/apple-touch-icon.jpg
+    details: 图文课程
+              <br /> 基础+实战+源码，全方位学透Vue 3
+    link: http://gk.link/a/10BM3
+    linkText: 玩转Vue3全家桶
+  - title: Vue3实战入门(B站)
+    icon: 
+      src: /bili.svg
+    details: Vue3+TS实战课
+              <br /> B站课堂
+    link: https://www.bilibili.com/cheese/play/ss2185
+    linkText: Vue3TS实战课
+
+  - title: 关于
+    icon: 
+      src: /wanzhuanvue.jpg
+    details: 关于我
+    link: /about
+    linkText: 关于
 
 
 
