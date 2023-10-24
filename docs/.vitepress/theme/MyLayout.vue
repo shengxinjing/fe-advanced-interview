@@ -30,7 +30,7 @@ if (typeof window !== 'undefined') {
       course.link = "https://student-api.iyincaishijiao.com/t/iekUQKRJ/"
     }else if(path.startsWith('algorithm/')){
       course.show = true
-      course.link = "https://student-api.iyincaishijiao.com/t/SmMYKcT/"
+      course.link = "https://student-api.iyincaishijiao.com/t/idgLAxNB/"
     }else if(path.startsWith('interview/')){
       course.show = true
       course.link = "https://student-api.iyincaishijiao.com/t/SmM1uQC/"
