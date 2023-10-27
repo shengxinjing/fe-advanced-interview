@@ -119,6 +119,7 @@ html::before {
   filter: grayscale(100%);
   filter: gray;
   filter: progid:dximagetransform.microsoft.basicimage(grayscale=1);
+
 }
 .gray-first {
     position: relative;
@@ -131,11 +132,11 @@ html::before {
     backdrop-filter: grayscale(100%);
     pointer-events: none;
     inset: 0;
-    z-index: 100;
+    z-index: 101;
 } 
 .not-gray{
   position: relative;
-  z-index:1000;
+  z-index:100;
 }
 `
     document.head.appendChild(style)
