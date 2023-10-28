@@ -10,6 +10,7 @@ import 'ant-design-vue/dist/antd.css';
 // import 'ant-design-vue/es/avatar/style/css'
 
 import Member from './Member.vue'
+import CalCom from './CalCom.vue'
 // import Sound from './Sound.vue'
 import './theme.css'
 import './test'
@@ -22,6 +23,7 @@ export default {
     app.component('Word',Word)
     app.component('WordList',WordList)
     app.component('Member',Member)
+    app.component('CalCom',CalCom)
     app.use(Card)
     app.use(Avatar)
     // app.component('Sound',Sound)

@@ -86,7 +86,8 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
       { text: '🔥玩转React18', link: '/react/' },
       { text: '源码漫游记', link: '/source/' },
       { text: '前端学算法', link: '/algorithm/' },
-      { text: '🔥一起进步', link: '/about' },
+      { text: '1V1咨询', link: '/1v1' },
+      { text: '关于我', link: '/about' },
       { text: '路线图', link: 'https://roadmap.shengxinjing.cn/' },
     ],
     

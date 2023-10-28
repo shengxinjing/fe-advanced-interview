@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@ant-design/icons-vue": "6.1.0",
+    "@vueuse/core": "^10.5.0",
     "ant-design-vue": "3.2.15",
     "axios": "1.2.0",
     "bilibili-live-ws": "6.2.1",
