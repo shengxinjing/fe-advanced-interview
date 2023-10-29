@@ -92,6 +92,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
     ],
     
     socialLinks: [
+      { icon: 'youtube', link: 'https://www.youtube.com/@shengxj' },
       { icon: 'discord', link: 'https://discord.gg/qCB4pUzpzw' },
       { icon: 'github', link: 'https://github.com/shengxinjing/fe-advanced-interview' },
       { icon: 'twitter', link: 'https://twitter.com/shengxj1' },
