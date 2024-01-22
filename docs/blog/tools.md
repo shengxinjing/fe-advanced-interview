@@ -53,8 +53,9 @@ https://github.com/PlasmoHQ/plasmo
 | 图标和配图| [iconscout](https://iconscout.com/) <br /> [devicon](https://devicon.dev/) |  |
 | 网站设计| [Happyhues](https://www.happyhues.co/) <br /> [Mobbin](https://mobbin.com/browse/ios/apps) | 配色选择<br /> 参考（抄袭）界面设计 |
 | 录屏| [focusee](https://gemoo.com/focusee/) |  |
+| 网页分析| [Google Analytics](https://analytics.google.com/) <br /> [beamanalytics](https://beamanalytics.io/) |  |
 
-https://beamanalytics.io/
+
 
 
 crisp
