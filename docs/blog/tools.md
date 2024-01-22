@@ -7,6 +7,8 @@ sidebar: false
 
 ## 开发模板
 
+| 模板作用 | 服务地址 | 备注 |
+|--- |--- |--- |
 [Opensaas(免费)](https://opensaas.sh/)
 
 [Shipfast(付费)](https://shipfa.st/)
@@ -15,7 +17,7 @@ sidebar: false
 
 ## 技术栈和模板
 
-| 服务名称 | 服务地址 | 服务描述 |
+| 场景 | 框架 | 备注 |
 |--- |--- |--- |
 | 前端开发 | [Next.js](https://nextjs.org/) | 占有率最高的React开发框架 |
 | 后端开发 | [Nest.js](https://nestjs.com/) | Node.js框架 |
@@ -33,7 +35,7 @@ sidebar: false
 ## 好用的免费服务
 
 | 服务名称 | 服务地址 | 服务描述 |
-| --- | --- | --- |
+|--- |--- |--- |
 | 前端&函数部署 | [Vercel](https://vercel.com/) <br />[Aircode](https://aircode.io/)<br />[zeabur](https://zeabur.com/)|  |
 | 支付 | [stripe](https://stripe.com/)<br />[lemonsqueezy](https://www.lemonsqueezy.com/) | 企业资质<br>个人资质，手续费高点，有分销功能 |
 | 数据库 | [Supabase](https://supabase.com/) | 数据库<br />文件存储 <br /> auth|
@@ -54,7 +56,7 @@ crisp
 ## 文章、网站、书籍推荐 (有部分pdf可以分享)
 
 | 书名  | 备注 |
-| ---  | --- |
+|---  |--- |
 | [单干](https://book.douban.com/subject/36459316/) |  | 
 | [一人公司](https://book.douban.com/subject/36492867/) | |
 | [写给大家看的设计书](https://book.douban.com/subject/26664522/) | |
