@@ -23,10 +23,10 @@ jobs:
       - name: install Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "16.X"
+          node-version: "18.X"
       - uses: pnpm/action-setup@v2
         with:
-          version: 7.13.4
+          version: 8.6.5
       - name: install dep
         run: pnpm install
       - name: build app
