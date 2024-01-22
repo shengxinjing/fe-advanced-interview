@@ -13,14 +13,14 @@ sidebar: false
 
 [Supastarter(付费)](https://supastarter.dev/)
 
-## 技术栈
+## 技术栈和模板
 
 | 服务名称 | 服务地址 | 服务描述 |
 |--- |--- |--- |
 | 前端开发 | [Next.js](https://nextjs.org/) | 占有率最高的React开发框架 |
 | 后端开发 | [Nest.js](https://nestjs.com/) | Node.js框架 |
 | 组件库 | [tailwindcss](https://tailwindcss.com/)<br /> [shadcn-ui](https://shadcn-ui.vercel.app/)<br />[mui](https://mui.com/zh/) | 快速开发 |
-| 后端开发 | [Nest.js](https://nestjs.com/) | Node.js框架 |
+| Chrome插件开发 | [Nest.js](https://nestjs.com/) | Node.js框架 |
 
   
 
@@ -37,12 +37,15 @@ sidebar: false
 | 前端&函数部署 | [Vercel](https://vercel.com/) <br />[Aircode](https://aircode.io/)<br />[zeabur](https://zeabur.com/)|  |
 | 支付 | [stripe](https://stripe.com/)<br />[lemonsqueezy](https://www.lemonsqueezy.com/) | 企业资质<br>个人资质，手续费高点，有分销功能 |
 | 数据库 | [Supabase](https://supabase.com/) | 数据库<br />文件存储 <br /> auth|
-
 | 个人展示页 | [linktee](https://linktr.ee/) |  |
 | 代码管理 | [github](https://github.com/) |  |
 | CDN | [Cloudflare](https://www.cloudflare.com/) |  |
 | 文档 | [飞书](https://www.feishu.cn/) |  |
 | 邮件 | [resend](https://resend.com) |  |
+| 图标和配图| [iconscout](https://iconscout.com/) |  |
+| 网站设计| [Happyhues](https://www.happyhues.co/) <br /> [Mobbin](https://mobbin.com/browse/ios/apps) | 配色选择<br /> 参考（抄袭）界面设计 |
+
+https://beamanalytics.io/
 
 
 crisp
