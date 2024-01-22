@@ -5,15 +5,22 @@ sidebar: false
 
 > 只是我准备用的，并不是最好的
 
-## 开发模板
+## 开发模板（快速开发）
 
 | 模板作用 | 服务地址 | 备注 |
 |--- |--- |--- |
-[Opensaas(免费)](https://opensaas.sh/)
+| 网页Sass服务 | [Opensaas](https://opensaas.sh/) <br /> [Shipfast(付费)](https://shipfa.st/) <br /> [Supastarter(付费)](https://supastarter.dev/) | 免费<br />付费<br />付费 |
+| Chrome插件 |  |  |
+| App开发 | | |
+| 桌面客户端开发| | | 
 
-[Shipfast(付费)](https://shipfa.st/)
 
-[Supastarter(付费)](https://supastarter.dev/)
+
+
+
+
+
+
 
 ## 技术栈和模板
 
