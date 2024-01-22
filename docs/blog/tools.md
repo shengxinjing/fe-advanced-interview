@@ -4,6 +4,7 @@ sidebar: false
 # 出海独立开发资源
 
 > 只是我准备用的，并不是最好的, 欢迎讨论和PR
+> Javascript技术栈+英语 一切皆有可能
 
 ## 开发模板（快速开发）
 
@@ -46,9 +47,9 @@ https://github.com/PlasmoHQ/plasmo
 | 数据库 | [Supabase](https://supabase.com/) | 数据库<br />文件存储 <br /> auth|
 | 个人展示页 | [linktree](https://linktr.ee/) |  |
 | 代码管理 | [github](https://github.com/) |  |
-| CDN & 域名 | [Cloudflare](https://www.cloudflare.com/) |  |
-| 文档 | [飞书](https://www.feishu.cn/) |  |
-| 邮件 | [resend](https://resend.com) |  |
+| CDN & 域名 | [⭐️Cloudflare](https://www.cloudflare.com/) | 还有存储 ddos pages worker等服务  |
+| 文档 | [飞书](https://www.feishu.cn/) <br /> github+markdown |  |
+| 邮件 | [resend](https://resend.com) <br /> [mailgun](https://mailgun.com) |  |
 | 图标和配图| [iconscout](https://iconscout.com/) <br /> [devicon](https://devicon.dev/) |  |
 | 网站设计| [Happyhues](https://www.happyhues.co/) <br /> [Mobbin](https://mobbin.com/browse/ios/apps) | 配色选择<br /> 参考（抄袭）界面设计 |
 | 录屏| [focusee](https://gemoo.com/focusee/) |  |
@@ -65,6 +66,7 @@ crisp
 * [你都做了啥项目](https://www.reddit.com/r/SideProject/comments/196nuzu/whats_your_project_and_how_much_did_yall_make/)
 * [一个独立开发者的8年创业](https://mp.weixin.qq.com/s/sUcLSYE4DdX-iItIBjy8kg)
 * [独立开发者如何赚钱？](https://mp.weixin.qq.com/s/8_g73xwsihgFQYn67BTP3Q)
+* [海外产品开发套件（不定期更新）](https://twitter.com/lai_jia_wei/status/1713891009577554255)
 
 
 ## 网站、书籍推荐 (有部分pdf可以分享)
