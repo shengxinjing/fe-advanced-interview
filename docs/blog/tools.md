@@ -1,5 +1,8 @@
 ---
 sidebar: false
+prev: false
+next: false
+
 ---
 # 出海独立开发资源
 

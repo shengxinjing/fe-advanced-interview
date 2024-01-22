@@ -216,7 +216,7 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
     },
     footer: {
       message: '追求持续轻松的职业生涯',
-      copyright: ' Copyright © 京ICP备18000331号-1'
+      // copyright: ' Copyright © 京ICP备18000331号-1'
     }
   },
 
