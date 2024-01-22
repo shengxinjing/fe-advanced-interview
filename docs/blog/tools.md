@@ -65,6 +65,3 @@ crisp
 | [Zero to sold](https://book.douban.com/subject/35285781/) | |
 | [Start Small, Stay Small](https://book.douban.com/subject/5924300/) | |
 
-## 资源推荐
-
-[free-for.dev](https://free-for.dev/#/)
