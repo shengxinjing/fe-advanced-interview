@@ -10,7 +10,7 @@ hero:
   # text: 解决前端进阶的难点
   tagline: 面试, 企业级项目, 源码，算法，做最好的前端课程
   image:
-    src: https://cdn.jsdelivr.net/gh/shengxinjing/static/coding.svg
+    src: https://cdn.jsdelivr.net/gh/woniuppp/static/coding.svg
     alt: challenges
   actions:
     # - theme: brand

@@ -55,8 +55,8 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
   title: '大圣前端进阶指南',
   description: '大圣前端进阶指南|Vue3|React|Vite|Cli|项目实战',
   head: [
-    // ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/element3.ico', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png', type: 'image/png', sizes: '16x16' }],
+    // ['link', { rel: 'icon', href: 'https://cdn.jsdelivr.net/gh/woniuppp/static/element3.ico', type: 'image/svg+xml' }],
+    ['link', { rel: 'alternate icon', href: 'https://cdn.jsdelivr.net/gh/woniuppp/static/woniu.png', type: 'image/png', sizes: '16x16' }],
     // ['script',{src:'/live2d.js'}],
     ['link', { rel: 'stylesheet', href:'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }],
     // ['link', { rel: 'stylesheet', href:'https://cdn.jsdelivr.net/npm/daisyui@2.51.3/dist/full.css' }],
@@ -72,13 +72,13 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
   // base:"/src/"
   themeConfig: {
     me: {
-      // wechat:"https://cdn.jsdelivr.net/gh/shengxinjing/static/wechat.jpg"
-      // wechat: "https://cdn.jsdelivr.net/gh/shengxinjing/static/jingu2.png"
+      // wechat:"https://cdn.jsdelivr.net/gh/woniuppp/static/wechat.jpg"
+      // wechat: "https://cdn.jsdelivr.net/gh/woniuppp/static/jingu2.png"
       wechat: "/wechat2.png",
       gongzhonghao: "/gongzhonghao.jpeg"
-      // wechat:"https://cdn.jsdelivr.net/gh/shengxinjing/static/xiao3.jpg"
+      // wechat:"https://cdn.jsdelivr.net/gh/woniuppp/static/xiao3.jpg"
     },
-    logo: 'https://cdn.jsdelivr.net/gh/shengxinjing/static/woniu.png',
+    logo: 'https://cdn.jsdelivr.net/gh/woniuppp/static/woniu.png',
     nav: [
       // { text: '英语', link: '/blog/itwords' },
       { text: '面试课', link: '/interview/' },
