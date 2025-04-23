@@ -80,11 +80,12 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
     },
     logo: 'https://cdn.jsdelivr.net/gh/woniuppp/static/woniu.png',
     nav: [
+      {text:'远程训练营',link:'/remote/'},
       // { text: '英语', link: '/blog/itwords' },
-      { text: '面试课', link: '/interview/' },
-      { text: '🔥玩转Vue3', link: '/vue/' },
-      { text: '🔥玩转React18', link: '/react/' },
-      { text: '源码漫游记', link: '/source/' },
+      // { text: '面试课', link: '/interview/' },
+      // { text: '🔥玩转Vue3', link: '/vue/' },
+      // { text: '🔥玩转React18', link: '/react/' },
+      // { text: '源码漫游记', link: '/source/' },
       { text: '前端学算法', link: '/algorithm/' },
       { text: '1V1咨询', link: '/1v1' },
       { text: '关于我', link: '/about' },
@@ -128,6 +129,15 @@ export default withMermaid(defineConfigWithTheme<ThemeConfig>({
       } 
     },
     sidebar: {
+      "/remote":[
+        {
+          text: '远程训练营',
+          // link: "/react/",
+          collapsible: true,
+          collapsed: false,
+          items:getDirctSidebar('remote')
+        }
+      ],
       "/react":[
         {
           text: '玩转React18',

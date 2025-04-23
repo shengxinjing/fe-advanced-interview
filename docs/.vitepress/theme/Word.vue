@@ -26,10 +26,21 @@ function pron(){
   window.open(url)
   // let ele = document.createElement('a')
 }
+
+function getMp3Url(text,voice) {
+    return `https://api.relingo.net/api/getAzureTts?text=${text}&voice=${voice}`
+}
 function play(type){
-  const url = `https://dict.youdao.com/dictvoice?audio=${word.children}&type=${type}`
+  let url = "";
+  if(word.children.split(' ').filter(v=>v).length>1){
+      const vioce = type==1?'en-GB-ThomasNeural':'en-US-AndrewNeural'
+  url = getMp3Url(word.children,vioce)
+  }else{
+    url = `https://dict.youdao.com/dictvoice?audio=${word.children}&type=${type}`
+  }
+
   const audio = new Audio(url)
-  // audio.addEventListener
+
   audio.play()
 }
 </script>
@@ -40,9 +51,10 @@ function play(type){
     <span>
       <slot></slot> 
     </span>
-    <span class="tip" v-if="showPlay" @click="play1()">英</span>
-    <span class="tip" v-if="showPlay" @click="play2()">美</span>
-    <span class="tip" v-if="showHow" @click="pron">How</span>
+    <!-- <span class="tip" v-if="showPlay" @click="play1()">英</span> -->
+    <!-- <span class="tip" v-if="showPlay" @click="play2()">美</span> -->
+    <span class="tip" v-if="showPlay" @click="play2()">▶</span>
+    <span class="tip" v-if="showHow" @click="pron">🗣️</span>
   </div>
 </template>
 <style scoped>
