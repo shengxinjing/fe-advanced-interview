@@ -6,7 +6,7 @@ title: 大圣前端进阶指南
 titleTemplate: 解决前端进阶的难点
 
 hero:
-  name: 大圣的前端进阶课程
+  name: 大圣的前端&全栈进阶课程
   # text: 解决前端进阶的难点
   tagline: 面试, 企业级项目, 源码，算法，做最好的前端课程
   image:
