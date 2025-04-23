@@ -24,7 +24,7 @@
       
       <img
         alt="example"
-        :src="'https://cdn.jsdelivr.net/gh/shengxinjing/static/coder/'+item.title.split('.')[0]+'.jpg'"
+        :src="'https://cdn.jsdelivr.net/gh/woniuppp/static/coder/'+item.title.split('.')[0]+'.jpg'"
       />
 
     </template>

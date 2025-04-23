@@ -5,7 +5,7 @@
 
 
 ## 什么是企业级的项目
-![](https://cdn.jsdelivr.net/gh/shengxinjing/static/fullstack/intro.jpg)
+![](https://cdn.jsdelivr.net/gh/woniuppp/static/fullstack/intro.jpg)
 
 
 ## 课程亮点和收获

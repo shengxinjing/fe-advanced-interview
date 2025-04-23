@@ -59,7 +59,7 @@ function renderKanban(){
   if(typeof loadlive2d!=='undefined'){
     if(location.pathname.indexOf('chatgpt.html') > -1){
       // loadlive2d("live2d", "/miku/model.json");
-      loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/shengxinjing/static/miku/model.json")
+      loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/woniuppp/static/miku/model.json")
     }
   }else{
     setTimeout(()=>renderKanban(),200)
@@ -71,8 +71,8 @@ function renderKanban(){
   // if(location.pathname.indexOf('chatgpt.html') > -1){
     // loadlive2d("live2d", "/miku/model.json");
   // }
-  // loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/shengxinjing/static/miku/model.json")
-  // https://cdn.jsdelivr.net/gh/shengxinjing/static/work.png
+  // loadlive2d("live2d", "https://cdn.jsdelivr.net/gh/woniuppp/static/miku/model.json")
+  // https://cdn.jsdelivr.net/gh/woniuppp/static/work.png
 // },2000)
 </script>
 
