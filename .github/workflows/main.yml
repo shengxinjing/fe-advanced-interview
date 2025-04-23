@@ -31,12 +31,12 @@ jobs:
         run: pnpm install
       - name: build app
         run: pnpm run build
-      - name: copy file via ssh password
-        uses: appleboy/scp-action@master
-        with:
-          host: ${{ secrets.REMOTE_HOST }}
-          username: ${{ secrets.REMOTE_USER }}
-          password: ${{ secrets.REMOTE_PASS }}
-          port: 22
-          source: "docs/"
-          target: ${{ secrets.REMOTE_TARGET }}
+      # - name: copy file via ssh password
+      #   uses: appleboy/scp-action@master
+      #   with:
+      #     host: ${{ secrets.REMOTE_HOST }}
+      #     username: ${{ secrets.REMOTE_USER }}
+      #     password: ${{ secrets.REMOTE_PASS }}
+      #     port: 22
+      #     source: "docs/"
+      #     target: ${{ secrets.REMOTE_TARGET }}
